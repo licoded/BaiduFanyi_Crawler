@@ -1,0 +1,40 @@
+[
+  {
+    "word_name": "velocity",
+    "word_means": [
+      "n.(沿某一方向的)速度; 高速; 快速"
+    ],
+    "updatetime": "2021-10-05 16:38:53"
+  },
+  {
+    "word_name": "epics",
+    "word_means": [
+      "n.叙事诗; 史诗; 史诗般的电影(或书籍); 壮举; 惊人之举",
+      "epic的复数"
+    ],
+    "updatetime": "2021-10-05 16:34:25"
+  },
+  {
+    "word_name": "planning poker",
+    "word_means": [
+      "计划扑克; 规划扑克牌"
+    ],
+    "updatetime": "2021-10-05 16:34:08"
+  },
+  {
+    "word_name": "sprints",
+    "word_means": [
+      "v.短距离快速奔跑(或游泳); 冲刺",
+      "n.短跑比赛; 短距离速度竞赛; 短距离快速奔跑(或游泳等); 冲刺",
+      "sprint的第三人称单数和复数"
+    ],
+    "updatetime": "2021-10-05 16:33:20"
+  },
+  {
+    "word_name": "milestone",
+    "word_means": [
+      "n.重要事件; 重要阶段; 转折点; 里程碑"
+    ],
+    "updatetime": "2021-10-05 16:33:16"
+  }
+]
