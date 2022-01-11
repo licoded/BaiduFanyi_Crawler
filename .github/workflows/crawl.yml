@@ -32,7 +32,7 @@ jobs:
       - name: Commit change
         run: |
           git add data
-          git commit -m "auto crawl: ${{ steps.date.outputs.date }}"
+          git commit -m "feat(data): auto-crawl ${{ steps.date.outputs.date }}"
       
       - name: Push change
         env:
