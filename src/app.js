@@ -14,6 +14,7 @@ const getPathByDate = (curDate) => {
 
 const crawlByDate = async (curDate) => {
   const data = await getDateCollection(curDate);
+  if (data.length === 0) return;
   jsonfile.writeFileSync(getPathByDate(curDate), data, { spaces: 2 });
 };
 

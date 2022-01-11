@@ -61,7 +61,8 @@ const parseWordItem = (rawData) => {
     fanyidst,
     updatetime,
   } = JSON.parse(JSON.stringify(rawData));
-  const word_means = dict2means(dict) || fanyidst;
+  const _means = dict2means(dict).filter((item) => item !== "");
+  const word_means = _means.length > 0 ? _means : [].concat(fanyidst);
   return { word_name, word_means, updatetime };
 };
 
