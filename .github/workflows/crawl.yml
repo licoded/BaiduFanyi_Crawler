@@ -1,0 +1,43 @@
+on:
+  # 定时任务，每天在国际标准时间23点（北京时间早上7点）运行
+  schedule:
+    - cron: '0 23 * * *'
+
+# 一个 CI/CD 的工作流有许多 jobs 组成，比如最典型的 job 是 lint，test，build。
+jobs:
+  build-and-deploy:
+  	# 环境
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Checkout 
+        uses: actions/checkout@v2.3.1
+        
+      - name: Install node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Crawling
+        run: npm install && npm run dev
+      
+      - name: Config git info
+        run: |
+          git config --global user.email "busy.li@foxmail.com"
+          git config --global user.name "licoded"
+      
+      - name: Commit change
+        run: |
+          git checkout master
+          git add data
+          git commit -m "auto crawl: ${{ steps.date.outputs.date }}"
+      
+      - name: Push change
+        env:
+          GITHUB_LOGIN: jwenjian
+          GITHUB_PERSONAL_TOKEN: ${{ secrets.GITHUB_PERSONAL_TOKEN }}
+        run: |
+          git push https://$GITHUB_LOGIN:$GITHUB_PERSONAL_TOKEN@github.com/$GITHUB_REPOSITORY.git

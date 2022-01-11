@@ -1,5 +1,6 @@
 var jsonfile = require("jsonfile");
 var mkdirp = require("mkdirp");
+var moment = require("moment");
 const { getDateCollection } = require("./service/getDayCollection");
 
 const dataPath = "./data";
@@ -16,5 +17,5 @@ const crawlByDate = async (curDate) => {
   jsonfile.writeFileSync(getPathByDate(curDate), data, { spaces: 2 });
 };
 
-const curDate = "2022-01-08";
+const curDate = moment().format("YYYY-MM-DD");
 crawlByDate(curDate);
