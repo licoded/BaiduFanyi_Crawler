@@ -1,0 +1,16 @@
+{
+  "name": "baiduFanyi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "jsonfile": "^6.1.0",
+    "mkdirp": "^1.0.4",
+    "mkdirp-sync": "0.0.3",
+    "moment": "^2.29.1"
+  }
+}
