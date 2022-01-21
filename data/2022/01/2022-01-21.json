@@ -1,0 +1,669 @@
+[
+  {
+    "word_name": "sincere",
+    "word_means": [
+      "adj.真诚的; 诚挚的; 诚恳的; 诚实的; 坦率的"
+    ],
+    "updatetime": "2022-01-21 08:25:13"
+  },
+  {
+    "word_name": "remit",
+    "word_means": [
+      "vt.汇款; 汇付; 免除，赦免(债务、职责、惩罚等)",
+      "n.职权范围; 控制范围; 影响范围"
+    ],
+    "updatetime": "2022-01-21 08:18:02"
+  },
+  {
+    "word_name": "collectively",
+    "word_means": [
+      "adv.集体地；共同地；总起来说"
+    ],
+    "updatetime": "2022-01-21 05:17:37"
+  },
+  {
+    "word_name": "continent",
+    "word_means": [
+      "n.大陆; 陆地; 洲; 欧洲大陆(不包括英国和爱尔兰)",
+      "adj.自制的; 节欲的; 禁欲的"
+    ],
+    "updatetime": "2022-01-21 05:17:29"
+  },
+  {
+    "word_name": "reside",
+    "word_means": [
+      "vi.居住在; 定居于"
+    ],
+    "updatetime": "2022-01-21 05:17:16"
+  },
+  {
+    "word_name": "as of",
+    "word_means": [
+      "在…时"
+    ],
+    "updatetime": "2022-01-21 05:17:11"
+  },
+  {
+    "word_name": "whereas",
+    "word_means": [
+      "n.鉴于; 开场白; 条件性陈述",
+      "conj.(用以比较或对比两个事实)然而，但是，尽管; (用于正式文件中句子的开头)鉴于"
+    ],
+    "updatetime": "2022-01-21 05:17:00"
+  },
+  {
+    "word_name": "divide",
+    "word_means": [
+      "v.分; 分配; (使)分开，分散，分割，分成…; 分享; 分担; 把(时间、精力等)分别用于; 是…的分界线; 分岔; 使产生分歧; 除以; 除",
+      "n.分水岭; 分歧; 不同; 差异"
+    ],
+    "updatetime": "2022-01-21 05:16:53"
+  },
+  {
+    "word_name": "interchangeably",
+    "word_means": [
+      "adv.可交替地；可互换地"
+    ],
+    "updatetime": "2022-01-21 05:16:42"
+  },
+  {
+    "word_name": "interchangeable",
+    "word_means": [
+      "adj.可交换的; 可互换的; 可交替的"
+    ],
+    "updatetime": "2022-01-21 05:16:36"
+  },
+  {
+    "word_name": "interaction",
+    "word_means": [
+      "n.相互作用; 相互影响（作用，制约，配合）；交互作用（影响）；交相感应；干扰（涉）"
+    ],
+    "updatetime": "2022-01-21 05:16:27"
+  },
+  {
+    "word_name": "jargon",
+    "word_means": [
+      "n.行话; 黑话; 行业术语; 切口"
+    ],
+    "updatetime": "2022-01-21 05:16:18"
+  },
+  {
+    "word_name": "recall",
+    "word_means": [
+      "v.回忆起; 召回; 记起; 回想起; 使想起; 使想到; 勾起; 收回，召回（残损货品等）",
+      "n.记忆力; 记性; 召回令; 回归请求; 回收令"
+    ],
+    "updatetime": "2022-01-21 05:16:12"
+  },
+  {
+    "word_name": "delve",
+    "word_means": [
+      "vi.(在手提包、容器等中)翻找",
+      "n.坑; 凹地; 井; 沟槽"
+    ],
+    "updatetime": "2022-01-21 05:16:07"
+  },
+  {
+    "word_name": "equivalent",
+    "word_means": [
+      "adj.相等的; (价值、数量、意义、重要性等)相同的",
+      "n.相等的东西; 等量; 对应词"
+    ],
+    "updatetime": "2022-01-21 05:16:01"
+  },
+  {
+    "word_name": "intellectually",
+    "word_means": [
+      "adv.智力上；理智地；知性上"
+    ],
+    "updatetime": "2022-01-21 05:15:51"
+  },
+  {
+    "word_name": "straightforward",
+    "word_means": [
+      "adj.直截了当的; 简单的; 坦率的; 易懂的; 不复杂的; 坦诚的; 率直的",
+      "adv.坦率地"
+    ],
+    "updatetime": "2022-01-21 05:15:41"
+  },
+  {
+    "word_name": "extensive",
+    "word_means": [
+      "adj.广阔的; 广大的; 大量的; 广泛的; 广博的"
+    ],
+    "updatetime": "2022-01-21 05:15:31"
+  },
+  {
+    "word_name": "eventually",
+    "word_means": [
+      "adv.最后; 终于"
+    ],
+    "updatetime": "2022-01-21 05:15:22"
+  },
+  {
+    "word_name": "illustrate",
+    "word_means": [
+      "vt.说明; 加插图于; 给(书等)做图表; (用示例、图画等)解释; 表明…真实; 显示…存在"
+    ],
+    "updatetime": "2022-01-21 05:15:09"
+  },
+  {
+    "word_name": "scenario",
+    "word_means": [
+      "n.脚本; 方案; 设想; 预测; (电影或戏剧的)剧情梗概"
+    ],
+    "updatetime": "2022-01-21 05:15:01"
+  },
+  {
+    "word_name": "consequently",
+    "word_means": [
+      "adv.因此; 所以"
+    ],
+    "updatetime": "2022-01-21 05:14:55"
+  },
+  {
+    "word_name": "congestion",
+    "word_means": [
+      "n.(交通)拥塞; 充血; 淤血; 塞车"
+    ],
+    "updatetime": "2022-01-21 05:14:31"
+  },
+  {
+    "word_name": "conventional",
+    "word_means": [
+      "adj.依照惯例的; 遵循习俗的; 墨守成规的; 普通平凡的; 传统的; 习惯的; 非核的; 常规的"
+    ],
+    "updatetime": "2022-01-21 05:14:11"
+  },
+  {
+    "word_name": "convention",
+    "word_means": [
+      "n.习俗; 常规; 惯例; (某职业、政党等成员的)大会，集会; (国家或首脑间的)公约，协定，协议; 传统手法，传统风格"
+    ],
+    "updatetime": "2022-01-21 05:14:03"
+  },
+  {
+    "word_name": "receipt",
+    "word_means": [
+      "n.收据; 收条; 接收; 收到; (企业、银行、政府等)收到的款项，收入",
+      "v.开收据"
+    ],
+    "updatetime": "2022-01-21 05:13:49"
+  },
+  {
+    "word_name": "drone",
+    "word_means": [
+      "n.嗡嗡声; 雄蜂; 持续低音(如风笛等发出的持续音); 持续音音管(或弦等); 寄生虫; 无人驾驶飞机",
+      "vi.嗡嗡叫; 嗡嗡响"
+    ],
+    "updatetime": "2022-01-21 05:13:41"
+  },
+  {
+    "word_name": "entity",
+    "word_means": [
+      "n.实体; 独立存在物"
+    ],
+    "updatetime": "2022-01-21 05:13:25"
+  },
+  {
+    "word_name": "accomplish",
+    "word_means": [
+      "vt.完成"
+    ],
+    "updatetime": "2022-01-21 05:13:20"
+  },
+  {
+    "word_name": "interoperate",
+    "word_means": [
+      "互操作; 互通; 交互操作; 互操作的; 互用"
+    ],
+    "updatetime": "2022-01-21 05:13:09"
+  },
+  {
+    "word_name": "transmit",
+    "word_means": [
+      "v.传输; 发射; 传送; 传播; 输送; 播送; 传染; 传(热、声等); 透(光等); 使通过"
+    ],
+    "updatetime": "2022-01-21 05:12:43"
+  },
+  {
+    "word_name": "amount",
+    "word_means": [
+      "n.数量; 金额; 数额",
+      "v.合计，共计; 等同，接近"
+    ],
+    "updatetime": "2022-01-21 05:12:33"
+  },
+  {
+    "word_name": "in response to",
+    "word_means": [
+      "作为回应; 响应；回答；对…有反应"
+    ],
+    "updatetime": "2022-01-21 05:12:26"
+  },
+  {
+    "word_name": "typically",
+    "word_means": [
+      "adv.典型的; 通常; 一般; 典型地; 具有代表性地; 不出所料; 果然"
+    ],
+    "updatetime": "2022-01-21 05:12:17"
+  },
+  {
+    "word_name": "inability",
+    "word_means": [
+      "n.无能; 无力; 不能"
+    ],
+    "updatetime": "2022-01-21 05:12:10"
+  },
+  {
+    "word_name": "indication",
+    "word_means": [
+      "n.指示; 显示; 表明; 标示; 象征"
+    ],
+    "updatetime": "2022-01-21 05:11:31"
+  },
+  {
+    "word_name": "indicate",
+    "word_means": [
+      "v.表明; 显示; 象征; 暗示; 间接提及; 示意; 指示; 写明; （用灯光或手臂）打行车转向信号; 有必要"
+    ],
+    "updatetime": "2022-01-21 05:11:26"
+  },
+  {
+    "word_name": "cordial",
+    "word_means": [
+      "adj.热诚的; 热情友好的; 和蔼可亲的",
+      "n.(不含酒精、加水饮用的)甜果汁饮料; 一杯甜果汁饮料"
+    ],
+    "updatetime": "2022-01-21 05:11:10"
+  },
+  {
+    "word_name": "implicitly",
+    "word_means": [
+      "adv.含蓄地; 暗中地; 不明显地; 蕴涵地; 无疑问地; 无保留地; 绝对地"
+    ],
+    "updatetime": "2022-01-21 05:10:45"
+  },
+  {
+    "word_name": "initiate",
+    "word_means": [
+      "vt.开始; 发起; 创始; 使了解; 传授; 教…开始尝试; (尤指在秘密仪式上)使加入，接纳，吸收",
+      "n.新加入某组织(或机构、宗教)的人; 新入会的人",
+      "adj.被传授初步知识的; 新入会的"
+    ],
+    "updatetime": "2022-01-21 05:10:28"
+  },
+  {
+    "word_name": "dictate",
+    "word_means": [
+      "v.命令; 决定; 支配; 口述; (尤指以令人不快的方式)指使，强行规定; 摆布",
+      "n.命令; 规定"
+    ],
+    "updatetime": "2022-01-21 05:10:20"
+  },
+  {
+    "word_name": "notion",
+    "word_means": [
+      "n.概念; 观念; 信念; 理解"
+    ],
+    "updatetime": "2022-01-21 05:10:04"
+  },
+  {
+    "word_name": "buzzword",
+    "word_means": [
+      "n.(报刊等的)时髦术语，流行行话"
+    ],
+    "updatetime": "2022-01-21 05:09:59"
+  },
+  {
+    "word_name": "now that",
+    "word_means": [
+      "既然; 由于"
+    ],
+    "updatetime": "2022-01-21 05:09:52"
+  },
+  {
+    "word_name": "protocol",
+    "word_means": [
+      "n.协议; 议定书; 礼仪; 外交礼节; 条约草案; (协议或条约的)附件; (数据传递的)规程; 规约; 科学实验计划",
+      "v.拟(草案)；(把…)记入议定书"
+    ],
+    "updatetime": "2022-01-21 05:09:46"
+  },
+  {
+    "word_name": "govern",
+    "word_means": [
+      "v.统治; 控制; 管理; 治理; 影响; 支配; 支配(词或短语的形式或用法)"
+    ],
+    "updatetime": "2022-01-21 05:09:33"
+  },
+  {
+    "word_name": "nuts and bolts",
+    "word_means": [
+      "具体细节; 搭桥机器人; 螺母; 螺母和螺栓; 螺丝螺帽"
+    ],
+    "updatetime": "2022-01-21 05:09:26"
+  },
+  {
+    "word_name": "overwhelme",
+    "word_means": [
+      "压倒"
+    ],
+    "updatetime": "2022-01-21 05:09:18"
+  },
+  {
+    "word_name": "scale",
+    "word_means": [
+      "n.规模; (尤指与其他事物相比较时的)范围; 程度; 等级; 级别; 等级体系; 标度; 秤; 比例; 音阶; 鳞; 水垢; 牙垢",
+      "vt.攀登; 到达…顶点; 去鳞; 刮除牙石; 改变…的大小"
+    ],
+    "updatetime": "2022-01-21 05:09:04"
+  },
+  {
+    "word_name": "body scale",
+    "word_means": [
+      "体重计; 人体秤; 人体称"
+    ],
+    "updatetime": "2022-01-21 05:08:58"
+  },
+  {
+    "word_name": "thermostat",
+    "word_means": [
+      "n.恒温器; 温度自动调节器"
+    ],
+    "updatetime": "2022-01-21 05:08:44"
+  },
+  {
+    "word_name": "present",
+    "word_means": [
+      "n.目前; 现在; 礼物; 礼品",
+      "adj.存在; 出现; 出席; 在场; 当前的; 现存的",
+      "vt.提出; 把…交给; 颁发; 授予; 提交; (以某种方式)展现，显示，表现; 展现，显示，表现; 使发生; 突然出现; 主持播放; 上演; 正式介绍; 正式出席; 表达，表示; 交付"
+    ],
+    "updatetime": "2022-01-21 05:08:34"
+  },
+  {
+    "word_name": "as to",
+    "word_means": [
+      "至于，谈到; 关于; 成比例"
+    ],
+    "updatetime": "2022-01-21 05:08:26"
+  },
+  {
+    "word_name": "ordinary",
+    "word_means": [
+      "adj.普通的; 平常的; 一般的; 平凡的; 平庸的; 平淡无奇的",
+      "n.法官; 普通股; 宗教法官; 普通事"
+    ],
+    "updatetime": "2022-01-21 05:08:19"
+  },
+  {
+    "word_name": "reception",
+    "word_means": [
+      "n.接待; 招待会; 接待处; 欢迎; 接待区; 接待仪式; 欢迎会; 反应; 反响; 接收效果; 接纳"
+    ],
+    "updatetime": "2022-01-21 05:08:14"
+  },
+  {
+    "word_name": "manner",
+    "word_means": [
+      "n.方式; 方法; 举止; 态度; 礼貌; 礼仪; 规矩"
+    ],
+    "updatetime": "2022-01-21 05:08:06"
+  },
+  {
+    "word_name": "stamp",
+    "word_means": [
+      "n.邮票; 印; 章; 戳; 印记; 戳记; 印花; 特征; 类型，种类（尤指人）; 跺脚（声）",
+      "v.跺(脚); 重踩; 重踏; 迈着重重的步伐走; 在…上盖(字样或图案等); 把(字样或图案等)盖在…上; 显示出（感情）; 表明（某人）是…; 在…上贴邮票; 冲压"
+    ],
+    "updatetime": "2022-01-21 05:07:58"
+  },
+  {
+    "word_name": "seal",
+    "word_means": [
+      "vt.密封(容器); 封上(信封); 封盖…的表面; 确定; 关闭",
+      "n.印章; 图章; 玺; 印记; 表示确认的事物; 保证; 信物; 密封垫(或带等); 封蜡; 封蜡模（印）; 海豹"
+    ],
+    "updatetime": "2022-01-21 05:07:49"
+  },
+  {
+    "word_name": "zip code",
+    "word_means": [
+      "n.邮政编码"
+    ],
+    "updatetime": "2022-01-21 05:07:43"
+  },
+  {
+    "word_name": "envelope",
+    "word_means": [
+      "n.信封; 塑料封套; 塑料封皮"
+    ],
+    "updatetime": "2022-01-21 05:07:33"
+  },
+  {
+    "word_name": "postal",
+    "word_means": [
+      "adj.邮政的; 邮递的; 邮寄物品的; 邮寄的",
+      "n.〈美口〉明信片"
+    ],
+    "updatetime": "2022-01-21 05:07:20"
+  },
+  {
+    "word_name": "analogy",
+    "word_means": [
+      "n.类比; 比拟; 比喻; 类推"
+    ],
+    "updatetime": "2022-01-21 05:07:14"
+  },
+  {
+    "word_name": "analog",
+    "word_means": [
+      "n.模拟（与数字相对应）; 类似物",
+      "adj.模拟的; 有长短针的"
+    ],
+    "updatetime": "2022-01-21 05:07:11"
+  },
+  {
+    "word_name": "socket interface",
+    "word_means": [
+      "套接字接口; 套接接口; 插口接口; 插槽接口; 套接口"
+    ],
+    "updatetime": "2022-01-21 05:07:03"
+  },
+  {
+    "word_name": "attached",
+    "word_means": [
+      "adj.依恋; 爱慕; 附属于; 为…工作; 所附的",
+      "v.把…固定，把…附(在…上); 认为有重要性(或意义、价值、分量等); 重视; (有时不受欢迎或未受邀请而)参加，和…在一起，缠着",
+      "attach的过去分词和过去式"
+    ],
+    "updatetime": "2022-01-21 05:06:51"
+  },
+  {
+    "word_name": "instruct",
+    "word_means": [
+      "v.指导; 指示; 通知; 命令; 吩咐; 教授，传授(技能等); 告知; 委托（律师）"
+    ],
+    "updatetime": "2022-01-21 05:06:43"
+  },
+  {
+    "word_name": "alternative",
+    "word_means": [
+      "adj.可供替代的; 另类的; 非传统的",
+      "n.可供选择的事物"
+    ],
+    "updatetime": "2022-01-21 05:06:37"
+  },
+  {
+    "word_name": "humanity",
+    "word_means": [
+      "n.人性; 人类; 人道; (统称)人; 仁慈; 人文学科"
+    ],
+    "updatetime": "2022-01-21 05:06:25"
+  },
+  {
+    "word_name": "sink",
+    "word_means": [
+      "v.下沉; 下陷; 沉没; 使下沉; 使沉没; 倒下; 坐下; 降低; 挖，掘（深坑、深洞）; 埋入; 使失败; （高尔夫球）击球入洞; 猛喝",
+      "n.(厨房里的)洗涤池，洗碗槽",
+      "adj.位于社会条件差的贫穷地区的; 贫民窟的"
+    ],
+    "updatetime": "2022-01-21 05:04:43"
+  },
+  {
+    "word_name": "source and sink",
+    "word_means": [
+      "源汇; 源汇项; 源与汇; 源库; 源和汇"
+    ],
+    "updatetime": "2022-01-21 05:04:37"
+  },
+  {
+    "word_name": "concert",
+    "word_means": [
+      "n.音乐会; 演奏会",
+      "v.协商；合订(计划)；协同工作"
+    ],
+    "updatetime": "2022-01-21 05:04:22"
+  },
+  {
+    "word_name": "concern",
+    "word_means": [
+      "vt.涉及; 影响，牵涉(某人); 与…有关; 让(某人)担忧; （对…）感兴趣; 认为（做某事）重要",
+      "n.关心; (尤指许多人共同的)担心，忧虑; 关爱; (对人、组织等)重要的事情; （某人）负责的事，有权知道的事; 公司"
+    ],
+    "updatetime": "2022-01-21 05:04:17"
+  },
+  {
+    "word_name": "facilitate",
+    "word_means": [
+      "vt.促进; 促使; 使便利"
+    ],
+    "updatetime": "2022-01-21 05:04:08"
+  },
+  {
+    "word_name": "facility",
+    "word_means": [
+      "n.设施; 设备; (机器等的)特别装置; (服务等的)特色; (供特定用途的)场所; （学习、做事的）天资，才能，天赋"
+    ],
+    "updatetime": "2022-01-21 05:04:03"
+  },
+  {
+    "word_name": "infrastructure",
+    "word_means": [
+      "n. (国家或机构的)基础设施，基础建设"
+    ],
+    "updatetime": "2022-01-21 05:03:47"
+  },
+  {
+    "word_name": "interpersonal",
+    "word_means": [
+      "adj.人际关系的; 人际的"
+    ],
+    "updatetime": "2022-01-21 05:02:28"
+  },
+  {
+    "word_name": "demonstrate",
+    "word_means": [
+      "v.证明; 证实; 论证; 说明; 表达; 表露; 表现; 显露; 示范; 演示; 集会示威"
+    ],
+    "updatetime": "2022-01-21 05:01:51"
+  },
+  {
+    "word_name": "defeat",
+    "word_means": [
+      "vt.击败; 战胜; 使困惑; 难住; 使失败; 阻挠; 挫败",
+      "n.失败; 战败; 挫败; 击败; 战胜"
+    ],
+    "updatetime": "2022-01-21 05:01:19"
+  },
+  {
+    "word_name": "debate",
+    "word_means": [
+      "n.(在公共集会上或议会里就某问题进行的、常以表决结束的)辩论; (各自发表不同意见的)争论，讨论",
+      "v.(尤指正式)讨论; 仔细考虑; 思考; 盘算"
+    ],
+    "updatetime": "2022-01-21 05:01:14"
+  },
+  {
+    "word_name": "resume",
+    "word_means": [
+      "n.简历; 摘要; 概述; 概要",
+      "v.重新开始; (中断后)继续; 恢复席位 / 地位 / 职位"
+    ],
+    "updatetime": "2022-01-21 05:00:45"
+  },
+  {
+    "word_name": "curriculum vitae",
+    "word_means": [
+      "n.简历; (求职用的)履历; (大学教师求职用的)工作履历"
+    ],
+    "updatetime": "2022-01-21 05:00:39"
+  },
+  {
+    "word_name": "vitae",
+    "word_means": [
+      "n.生命（存、活）",
+      "vita的复数"
+    ],
+    "updatetime": "2022-01-21 05:00:24"
+  },
+  {
+    "word_name": "curriculum",
+    "word_means": [
+      "n.课程; (学校等的)全部课程"
+    ],
+    "updatetime": "2022-01-21 04:59:22"
+  },
+  {
+    "word_name": "curricula",
+    "word_means": [
+      "n.(学校等的)全部课程",
+      "curriculum的复数"
+    ],
+    "updatetime": "2022-01-21 04:59:10"
+  },
+  {
+    "word_name": "curricular",
+    "word_means": [
+      "adj.课程的"
+    ],
+    "updatetime": "2022-01-21 04:58:46"
+  },
+  {
+    "word_name": "extracurricular",
+    "word_means": [
+      "adj.课外的; 工作之余的"
+    ],
+    "updatetime": "2022-01-21 04:58:31"
+  },
+  {
+    "word_name": "vacation",
+    "word_means": [
+      "n.(美国学校的)假期; (英国大学的)假期; (法庭的)休庭期",
+      "vi.度假"
+    ],
+    "updatetime": "2022-01-21 04:57:48"
+  },
+  {
+    "word_name": "as regards",
+    "word_means": [
+      "至于; 提到"
+    ],
+    "updatetime": "2022-01-21 04:55:49"
+  },
+  {
+    "word_name": "chaotic",
+    "word_means": [
+      "adj.混乱的; 杂乱的; 紊乱的"
+    ],
+    "updatetime": "2022-01-21 04:55:01"
+  },
+  {
+    "word_name": "vivid",
+    "word_means": [
+      "adj.清晰的; 生动的; 逼真的; 鲜明的; 耀眼的; 鲜艳的; 强烈的; 丰富的"
+    ],
+    "updatetime": "2022-01-21 04:50:40"
+  }
+]
