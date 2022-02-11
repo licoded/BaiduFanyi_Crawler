@@ -1,0 +1,779 @@
+[
+  {
+    "word_name": "Nevertheless",
+    "word_means": [
+      "adv.然而;不过;尽管如此"
+    ],
+    "updatetime": "2022-02-10 18:53:53"
+  },
+  {
+    "word_name": "Furthermore",
+    "word_means": [
+      "adv.此外;而且;再者"
+    ],
+    "updatetime": "2022-02-10 18:53:18"
+  },
+  {
+    "word_name": "All in all",
+    "word_means": [
+      "总而言之;总之;总的说来;从各方面来说"
+    ],
+    "updatetime": "2022-02-10 18:52:53"
+  },
+  {
+    "word_name": "chip",
+    "word_means": [
+      "n.炸薯条;(木头、玻璃等的)缺口，缺损处;(木头、玻璃等上掉下来的)碎屑，碎片，碎渣;油炸土豆条;（作赌注用的）筹码;（足球）高球",
+      "v.打破;弄缺;被损坏;切下，削下，凿下(碎片、屑片);打(或踢)高球;近穴击球;将（土豆等）切条;植入微芯片"
+    ],
+    "updatetime": "2022-02-10 18:51:59"
+  },
+  {
+    "word_name": "carry out",
+    "word_means": [
+      "实施;执行;实行"
+    ],
+    "updatetime": "2022-02-10 18:51:39"
+  },
+  {
+    "word_name": "Serial",
+    "word_means": [
+      "n.电视连续剧;广播连续剧;杂志连载小说",
+      "adj.顺序排列的;排成系列的;连续的;多次的;以连续剧形式播出的;连载的"
+    ],
+    "updatetime": "2022-02-10 18:51:09"
+  },
+  {
+    "word_name": "Since then",
+    "word_means": [
+      "从此以后;从那以后;从那之后;自那以后;之后"
+    ],
+    "updatetime": "2022-02-10 18:51:00"
+  },
+  {
+    "word_name": "To make this point clearer",
+    "word_means": [
+      "为了让这一点更清楚"
+    ],
+    "updatetime": "2022-02-10 18:50:36"
+  },
+  {
+    "word_name": "destine",
+    "word_means": [
+      "destine      v.    注（命，派，指，预）定"
+    ],
+    "updatetime": "2022-02-10 18:50:21"
+  },
+  {
+    "word_name": "In short",
+    "word_means": [
+      "简言之;总之;简而言之"
+    ],
+    "updatetime": "2022-02-10 18:50:11"
+  },
+  {
+    "word_name": "allocate",
+    "word_means": [
+      "vt.分配;拨…(给);划…(归)"
+    ],
+    "updatetime": "2022-02-10 18:49:49"
+  },
+  {
+    "word_name": "queue up",
+    "word_means": [
+      "排队（等候）;（为得到某机会而）排队，排队等候"
+    ],
+    "updatetime": "2022-02-10 18:49:41"
+  },
+  {
+    "word_name": "divide up",
+    "word_means": [
+      "划分;分割;均分;平分"
+    ],
+    "updatetime": "2022-02-10 18:49:25"
+  },
+  {
+    "word_name": "trap",
+    "word_means": [
+      "n.陷阱;圈套;(捕捉动物的)罗网;夹;捕捉器;诡计;(难以逃脱的)困境;牢笼;双轮轻便马车;嘴;隔栏",
+      "vt.使落入险境;使陷入困境;卡住;夹住;绊住;缠住;收集;吸收;把…逼进，迫使…进入;设陷阱捕捉，用捕捉器捕捉（动物）;使陷入圈套"
+    ],
+    "updatetime": "2022-02-10 18:49:04"
+  },
+  {
+    "word_name": "thrill",
+    "word_means": [
+      "n.激动;兴奋;震颤感;兴奋感;令人兴奋的经历;一阵强烈的感觉",
+      "vt.使非常兴奋;使非常激动"
+    ],
+    "updatetime": "2022-02-10 18:48:52"
+  },
+  {
+    "word_name": "thrilled",
+    "word_means": [
+      "adj.非常兴奋;极为激动;",
+      "v.使非常兴奋;使非常激动;",
+      "thrill的过去分词和过去式;"
+    ],
+    "updatetime": "2022-02-10 18:48:28"
+  },
+  {
+    "word_name": "enumerable",
+    "word_means": [
+      "enumerable      adj.    可数的，可枚举的"
+    ],
+    "updatetime": "2022-02-10 16:31:53"
+  },
+  {
+    "word_name": "exotic",
+    "word_means": [
+      "adj.异国情调的;来自异国(尤指热带国家)的;奇异的;异国风味的",
+      "n.舶来品，外来物，外来品种;外来语"
+    ],
+    "updatetime": "2022-02-10 16:25:31"
+  },
+  {
+    "word_name": "approachable",
+    "word_means": [
+      "adj.和蔼可亲的;易理解的;可接近的;能达到的"
+    ],
+    "updatetime": "2022-02-10 16:07:59"
+  },
+  {
+    "word_name": "versatile",
+    "word_means": [
+      "adj.多才多艺的;多功能的;多用途的;有多种技能的;多面手的"
+    ],
+    "updatetime": "2022-02-10 16:07:54"
+  },
+  {
+    "word_name": "performant",
+    "word_means": [
+      "表演"
+    ],
+    "updatetime": "2022-02-10 16:07:35"
+  },
+  {
+    "word_name": "it is up to",
+    "word_means": [
+      "这取决于"
+    ],
+    "updatetime": "2022-02-10 13:29:30"
+  },
+  {
+    "word_name": "fairness",
+    "word_means": [
+      "n.公平;公正性;公平合理性;白皙;浅色"
+    ],
+    "updatetime": "2022-02-10 13:29:13"
+  },
+  {
+    "word_name": "fraction",
+    "word_means": [
+      "n.小部分;少量;一点儿;分数;小数"
+    ],
+    "updatetime": "2022-02-10 13:28:57"
+  },
+  {
+    "word_name": "resident",
+    "word_means": [
+      "n.居民;住户;(旅馆的)住宿者，旅客，房客;(美国的)高级专科住院实习医生",
+      "adj.(在某地)居住的"
+    ],
+    "updatetime": "2022-02-10 13:28:23"
+  },
+  {
+    "word_name": "multiplexing",
+    "word_means": [
+      "n. 倍增；标度放大;",
+      "v. 多路传输；多路复用;"
+    ],
+    "updatetime": "2022-02-10 13:24:30"
+  },
+  {
+    "word_name": "account",
+    "word_means": [
+      "n.账户;账目;赊销账;赊欠账;赊购;老主顾;账户，账号;描述;解释，说明，叙述",
+      "vt.认为是;视为"
+    ],
+    "updatetime": "2022-02-10 13:24:05"
+  },
+  {
+    "word_name": "mediate",
+    "word_means": [
+      "v.调停;调解;斡旋;为解决分歧找到(方法);促成(协议);影响…的发生;使…可能发生",
+      "adj.要靠媒介的;间接的;中间的"
+    ],
+    "updatetime": "2022-02-10 13:23:19"
+  },
+  {
+    "word_name": "grant",
+    "word_means": [
+      "vt.授予;(尤指正式地或法律上)同意，准予，允许;(勉强)承认，同意",
+      "n.(政府、机构的)拨款"
+    ],
+    "updatetime": "2022-02-10 13:23:03"
+  },
+  {
+    "word_name": "interfere",
+    "word_means": [
+      "vt.干涉;干预;介入"
+    ],
+    "updatetime": "2022-02-10 13:22:15"
+  },
+  {
+    "word_name": "oblivious",
+    "word_means": [
+      "adj.忘却的;不知道;未注意;未察觉"
+    ],
+    "updatetime": "2022-02-10 13:20:15"
+  },
+  {
+    "word_name": "destined",
+    "word_means": [
+      "adj.预定;注定;(尤指)命中注定;开往;运往;前往",
+      "v.注（命，派，指，预）定",
+      "destine的过去分词和过去式"
+    ],
+    "updatetime": "2022-02-10 13:19:22"
+  },
+  {
+    "word_name": "utter",
+    "word_means": [
+      "vt.说;出声;讲",
+      "adj.彻底的;完全的;十足的"
+    ],
+    "updatetime": "2022-02-10 13:18:59"
+  },
+  {
+    "word_name": "forth",
+    "word_means": [
+      "adv.向前地;向前;离去;外出;向某处"
+    ],
+    "updatetime": "2022-02-10 13:18:43"
+  },
+  {
+    "word_name": "simultaneously",
+    "word_means": [
+      "adv.同时;联立;急切地"
+    ],
+    "updatetime": "2022-02-10 13:18:10"
+  },
+  {
+    "word_name": "alternative",
+    "word_means": [
+      "adj.可供替代的; 另类的; 非传统的",
+      "n.可供选择的事物"
+    ],
+    "updatetime": "2022-02-10 13:17:08"
+  },
+  {
+    "word_name": "peripherally",
+    "word_means": [
+      "peripherally          外围地;外围;外周;周边地"
+    ],
+    "updatetime": "2022-02-10 13:02:45"
+  },
+  {
+    "word_name": "underlying",
+    "word_means": [
+      "adj.根本的;潜在的;隐含的;表面下的;下层的",
+      "v.构成…的基础;作为…的原因",
+      "underlie的现在分词"
+    ],
+    "updatetime": "2022-02-10 13:00:58"
+  },
+  {
+    "word_name": "this is not always the case",
+    "word_means": [
+      "情况并非总是如此"
+    ],
+    "updatetime": "2022-02-10 12:59:31"
+  },
+  {
+    "word_name": "via",
+    "word_means": [
+      "prep.通过;经由;经过(某一地方);凭借(某人、系统等)"
+    ],
+    "updatetime": "2022-02-10 12:58:05"
+  },
+  {
+    "word_name": "elegant",
+    "word_means": [
+      "adj.优雅的;优美的;精美的;文雅的;漂亮雅致的;陈设讲究的;简练的;简洁的;简明的"
+    ],
+    "updatetime": "2022-02-10 12:56:34"
+  },
+  {
+    "word_name": "backward compatibility",
+    "word_means": [
+      "向後兼容;回溯相容性;向后兼容性;向后兼容;向下兼容"
+    ],
+    "updatetime": "2022-02-10 12:55:18"
+  },
+  {
+    "word_name": "backward",
+    "word_means": [
+      "adj.向后的;落后的;朝后的;倒退的;反向的;进步缓慢的",
+      "adv.向后;倒;回向原处"
+    ],
+    "updatetime": "2022-02-10 12:55:04"
+  },
+  {
+    "word_name": "idiosyncratic",
+    "word_means": [
+      "adj.乖僻的;怪异的"
+    ],
+    "updatetime": "2022-02-10 12:54:22"
+  },
+  {
+    "word_name": "inconsistent",
+    "word_means": [
+      "adj.不一致的;不一致;相矛盾;不符合(某套标准、思想等);反复无常的;没有常性的"
+    ],
+    "updatetime": "2022-02-10 12:54:06"
+  },
+  {
+    "word_name": "processors",
+    "word_means": [
+      "n.加工机(或工人);处理器;处理机",
+      "processor的复数"
+    ],
+    "updatetime": "2022-02-10 12:53:14"
+  },
+  {
+    "word_name": "ugly",
+    "word_means": [
+      "adj.丑陋的;难看的;令人不快的;危险的;险恶的;凶险的"
+    ],
+    "updatetime": "2022-02-10 12:52:43"
+  },
+  {
+    "word_name": "due respect",
+    "word_means": [
+      "尊重;应有的尊重"
+    ],
+    "updatetime": "2022-02-10 12:52:17"
+  },
+  {
+    "word_name": "due",
+    "word_means": [
+      "adj.由于;因为;预定;预期;预计;到期;应支付;应有;适当的",
+      "n.应有的权利;应得到的东西;应缴款(如俱乐部会费)",
+      "adv.正向;正对着"
+    ],
+    "updatetime": "2022-02-10 12:52:09"
+  },
+  {
+    "word_name": "respect",
+    "word_means": [
+      "n.尊敬;敬意;尊重;重视;维护;(事物的)方面，细节",
+      "vt.尊敬;尊重;仰慕;慎重对待;谨慎从事;遵守;不损害;不违背"
+    ],
+    "updatetime": "2022-02-10 12:51:33"
+  },
+  {
+    "word_name": "industrial",
+    "word_means": [
+      "adj.工业的;产业的;用于工业的;有很多产业的;工业发达的",
+      "n.产业工人;工业公司;工业股票"
+    ],
+    "updatetime": "2022-02-10 12:50:45"
+  },
+  {
+    "word_name": "respect to",
+    "word_means": [
+      "关于"
+    ],
+    "updatetime": "2022-02-10 12:50:30"
+  },
+  {
+    "word_name": "the abstract objects thus created",
+    "word_means": [
+      "由此产生的抽象对象"
+    ],
+    "updatetime": "2022-02-10 12:48:17"
+  },
+  {
+    "word_name": "manageable",
+    "word_means": [
+      "adj.可管理的;可操纵的;可处理的"
+    ],
+    "updatetime": "2022-02-10 12:46:27"
+  },
+  {
+    "word_name": "getting into the details",
+    "word_means": [
+      "深入细节"
+    ],
+    "updatetime": "2022-02-10 12:45:34"
+  },
+  {
+    "word_name": "sane",
+    "word_means": [
+      "adj.精神健全的;神志正常的;明智的;理智的;合乎情理的"
+    ],
+    "updatetime": "2022-02-10 12:44:33"
+  },
+  {
+    "word_name": "complicated",
+    "word_means": [
+      "adj.复杂的;难懂的",
+      "v.使复杂化",
+      "complicate的过去分词和过去式"
+    ],
+    "updatetime": "2022-02-10 12:44:25"
+  },
+  {
+    "word_name": "modern",
+    "word_means": [
+      "adj.现代的;当代的;近代的;新式的;有别于传统的;时新的;现代化的;最新的;新式的，超前的",
+      "n.现代人;现代主义者;时髦人士;[印]现代字体;指印刷中所用的一种字体"
+    ],
+    "updatetime": "2022-02-10 12:43:11"
+  },
+  {
+    "word_name": "concrete",
+    "word_means": [
+      "n.混凝土",
+      "adj.混凝土制的; 确实的，具体的(而非想象或猜测的); 有形的; 实在的",
+      "vt.用混凝土覆盖"
+    ],
+    "updatetime": "2022-02-10 12:42:11"
+  },
+  {
+    "word_name": "awkward",
+    "word_means": [
+      "adj.令人尴尬的; 使人难堪的; 难对付的; 难处理的; 不方便的; 产生困难的，危险的; （动作）笨拙的"
+    ],
+    "updatetime": "2022-02-10 12:41:53"
+  },
+  {
+    "word_name": "primitive",
+    "word_means": [
+      "adj.原始的; 远古的; 人类或动物发展早期的; 发展水平低的; 落后的; 原始本能的",
+      "n.文艺复兴前的艺术家(或作品); 原始派画家(或作品)"
+    ],
+    "updatetime": "2022-02-10 12:41:44"
+  },
+  {
+    "word_name": "architecture",
+    "word_means": [
+      "n.建筑学; 体系结构; 建筑设计; 建筑风格; (总体、层次)结构"
+    ],
+    "updatetime": "2022-02-10 12:40:06"
+  },
+  {
+    "word_name": "messy",
+    "word_means": [
+      "adj.肮脏的;凌乱的;不整洁的;使脏乱的;使不整洁的;混乱的;难以处理的;令人厌烦的"
+    ],
+    "updatetime": "2022-02-10 12:40:01"
+  },
+  {
+    "word_name": "naturally",
+    "word_means": [
+      "adv.顺理成章地;自然地;当然地;天然地;自然而然地;合理地;理所当然地;天生地"
+    ],
+    "updatetime": "2022-02-10 12:39:56"
+  },
+  {
+    "word_name": "pin down",
+    "word_means": [
+      "确定;证实;迫使…作出决定（或明确表态）"
+    ],
+    "updatetime": "2022-02-10 12:39:43"
+  },
+  {
+    "word_name": "what kinds are around",
+    "word_means": [
+      "附近有什么种类的"
+    ],
+    "updatetime": "2022-02-10 12:39:34"
+  },
+  {
+    "word_name": "aspects",
+    "word_means": [
+      "n.方面;层面;样子;外观;外表;朝向;方位",
+      "aspect的复数"
+    ],
+    "updatetime": "2022-02-10 12:39:28"
+  },
+  {
+    "word_name": "touch on",
+    "word_means": [
+      "触碰;碰（某人某处）;与…有关，涉及"
+    ],
+    "updatetime": "2022-02-10 12:39:23"
+  },
+  {
+    "word_name": "modeled",
+    "word_means": [
+      "adj.模型化的"
+    ],
+    "updatetime": "2022-02-10 12:39:17"
+  },
+  {
+    "word_name": "derived",
+    "word_means": [
+      "v.获得;取得;得到;(使)起源;(使)产生",
+      "derive的过去分词和过去式"
+    ],
+    "updatetime": "2022-02-10 12:39:14"
+  },
+  {
+    "word_name": "variants and clones",
+    "word_means": [
+      "变种和克隆"
+    ],
+    "updatetime": "2022-02-10 12:39:08"
+  },
+  {
+    "word_name": "got rid of",
+    "word_means": [
+      "除去;摆脱;扔掉;去掉"
+    ],
+    "updatetime": "2022-02-10 12:38:57"
+  },
+  {
+    "word_name": "evolve",
+    "word_means": [
+      "v.发展;进化;(使)逐渐形成;逐渐演变"
+    ],
+    "updatetime": "2022-02-10 12:38:44"
+  },
+  {
+    "word_name": "loath",
+    "word_means": [
+      "adj.厌恶;勉强;不情愿;不乐意"
+    ],
+    "updatetime": "2022-02-10 12:38:40"
+  },
+  {
+    "word_name": "bookcase",
+    "word_means": [
+      "n.书架;书柜"
+    ],
+    "updatetime": "2022-02-10 12:38:33"
+  },
+  {
+    "word_name": "essentially",
+    "word_means": [
+      "adv.本质上;根本上;基本上"
+    ],
+    "updatetime": "2022-02-10 12:38:28"
+  },
+  {
+    "word_name": "conceive",
+    "word_means": [
+      "v.想出(主意、计划等);想象;构想;设想;怀孕;怀(胎)"
+    ],
+    "updatetime": "2022-02-10 12:38:22"
+  },
+  {
+    "word_name": "on the order of",
+    "word_means": [
+      "大约，与…相似"
+    ],
+    "updatetime": "2022-02-10 12:38:16"
+  },
+  {
+    "word_name": "long-lived",
+    "word_means": [
+      "adj.寿命长的;长寿的;经久耐用的;持久的"
+    ],
+    "updatetime": "2022-02-10 12:38:09"
+  },
+  {
+    "word_name": "reside",
+    "word_means": [
+      "vi.居住在; 定居于"
+    ],
+    "updatetime": "2022-02-10 12:38:03"
+  },
+  {
+    "word_name": "arguably",
+    "word_means": [
+      "adv.(常用于形容词比较级或最高级前)可论证地，按理"
+    ],
+    "updatetime": "2022-02-10 12:37:58"
+  },
+  {
+    "word_name": "boundary",
+    "word_means": [
+      "n.边界;界限;分界线;使球越过边界线的击球(得加分)"
+    ],
+    "updatetime": "2022-02-10 12:37:53"
+  },
+  {
+    "word_name": "extreme",
+    "word_means": [
+      "n.极端;极度;极限;极端不同的感情(或境况、行为方式等);完全相反的事物",
+      "adj.极端的;极度的;偏激的;极大的;异乎寻常的;严重的;严厉的;过分的;远离中心的"
+    ],
+    "updatetime": "2022-02-10 12:36:34"
+  },
+  {
+    "word_name": "sensitive",
+    "word_means": [
+      "adj.敏感的;体贴的;体恤的;善解人意的;感觉敏锐的;艺术感觉好的;有悟性的;易生气的;易被惹恼的;神经过敏的;须谨慎对待的;灵敏的",
+      "n.敏感的人;有灵异能力的人"
+    ],
+    "updatetime": "2022-02-10 12:36:28"
+  },
+  {
+    "word_name": "privileged",
+    "word_means": [
+      "adj.有特权的;受特别优待的;荣幸;幸运;特许保密的",
+      "v.给予特权;特别优待",
+      "privilege的过去分词和过去式"
+    ],
+    "updatetime": "2022-02-10 12:36:13"
+  },
+  {
+    "word_name": "interpretation",
+    "word_means": [
+      "n.理解;解释;说明;演绎;演奏方式;表演方式"
+    ],
+    "updatetime": "2022-02-10 12:36:05"
+  },
+  {
+    "word_name": "interpreted",
+    "word_means": [
+      "v.诠释;说明;把…理解为;领会;口译",
+      "interpret的过去分词和过去式"
+    ],
+    "updatetime": "2022-02-10 12:35:59"
+  },
+  {
+    "word_name": "embedded",
+    "word_means": [
+      "v.把…牢牢地嵌入(或插入、埋入);派遣(战地记者、摄影记者等);嵌入(在I'mawarethatsheknows句中，sheknows为内嵌句)",
+      "embed的过去分词和过去式"
+    ],
+    "updatetime": "2022-02-10 12:35:51"
+  },
+  {
+    "word_name": "blurred",
+    "word_means": [
+      "adj.模糊不清的;记不清的;难以区分的;模棱两可的",
+      "v.(使)变得模糊不清;(使)视线模糊;(使)看不清;(使)难以区分",
+      "blur的过去分词和过去式"
+    ],
+    "updatetime": "2022-02-10 12:35:46"
+  },
+  {
+    "word_name": "distinction",
+    "word_means": [
+      "n.差别;区别;对比;优秀;杰出;卓越;特质;特点;不同凡响;区分;（尤指给学生的）优等评分，荣誉，奖赏"
+    ],
+    "updatetime": "2022-02-10 12:35:40"
+  },
+  {
+    "word_name": "crucial",
+    "word_means": [
+      "adj.关键的;至关重要的;关键性的"
+    ],
+    "updatetime": "2022-02-10 12:35:33"
+  },
+  {
+    "word_name": "capable",
+    "word_means": [
+      "adj.有能力; 有才能; 能力强的; 足以胜任的"
+    ],
+    "updatetime": "2022-02-10 12:35:26"
+  },
+  {
+    "word_name": "supervisor",
+    "word_means": [
+      "n.监督人;指导者;主管人"
+    ],
+    "updatetime": "2022-02-10 12:35:16"
+  },
+  {
+    "word_name": "kernel",
+    "word_means": [
+      "n.内核;(坚果或子粒的)仁，核;(思想或主题的)核心，中心，要点"
+    ],
+    "updatetime": "2022-02-10 12:35:10"
+  },
+  {
+    "word_name": "monitor",
+    "word_means": [
+      "n.班长;监视器;监控器;显示屏;(计算机)显示器;级长;班代表;监督员，核查员;巨蜥",
+      "vt.监视;检查;跟踪调查;监听(电话、外国无线电广播等)"
+    ],
+    "updatetime": "2022-02-10 12:34:48"
+  },
+  {
+    "word_name": "boards",
+    "word_means": [
+      "n.板;(尤指)木板;…用木板(或板材);(公司或其他机构的)董事会，委员会，理事会",
+      "v.上船(或火车、飞机、公共汽车等);让乘客登机(或上船等);付费(在某人家里)膳宿",
+      "board的第三人称单数和复数"
+    ],
+    "updatetime": "2022-02-10 12:34:39"
+  },
+  {
+    "word_name": "optimally",
+    "word_means": [
+      "optimally        最佳"
+    ],
+    "updatetime": "2022-02-10 12:33:50"
+  },
+  {
+    "word_name": "pronounced",
+    "word_means": [
+      "adj.明显的;显著的;表达明确的",
+      "v.发音;读(音);正式宣布(或公布、授予等)",
+      "pronounce的过去分词和过去式"
+    ],
+    "updatetime": "2022-02-10 12:33:27"
+  },
+  {
+    "word_name": "gooey",
+    "word_means": [
+      "adj.软而黏的;黏黏糊糊的"
+    ],
+    "updatetime": "2022-02-10 12:32:56"
+  },
+  {
+    "word_name": "interact",
+    "word_means": [
+      "vi.互动; 相互作用; 交流; 相互影响; 沟通; 合作",
+      "n.同“entr'acte”"
+    ],
+    "updatetime": "2022-02-10 12:32:41"
+  },
+  {
+    "word_name": "deceiving",
+    "word_means": [
+      "v.欺骗;蒙骗;诓骗;欺骗(自己);使人误信;误导",
+      "deceive的现在分词"
+    ],
+    "updatetime": "2022-02-10 12:32:34"
+  },
+  {
+    "word_name": "exceedingly",
+    "word_means": [
+      "adv.非常;极其;特别"
+    ],
+    "updatetime": "2022-02-10 12:32:25"
+  },
+  {
+    "word_name": "board",
+    "word_means": [
+      "n.板; (尤指)木板; …用木板(或板材); (公司或其他机构的)董事会，委员会，理事会; 用于机构名称; 伙食，膳食; （美国大学的）入学考试; 舞台; （冰球场周围的）界墙",
+      "v.上船(或火车、飞机、公共汽车等); 让乘客登机(或上船等); 付费(在某人家里)膳宿; （在学校）寄宿"
+    ],
+    "updatetime": "2022-02-10 11:04:42"
+  },
+  {
+    "word_name": "darling",
+    "word_means": [
+      "n.亲爱的;宝贝;亲切友好的人;备受宠爱的人;宠儿",
+      "adj.备受喜爱的;可爱的;迷人的"
+    ],
+    "updatetime": "2022-02-10 10:57:38"
+  }
+]
