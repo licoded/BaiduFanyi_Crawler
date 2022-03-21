@@ -1,0 +1,505 @@
+[
+  {
+    "word_name": "compose",
+    "word_means": [
+      "v.组成;作曲;构成(一个整体);创作(音乐);撰写(信函、讲稿、诗歌等);"
+    ],
+    "updatetime": "2022-03-21 21:36:45"
+  },
+  {
+    "word_name": "composed",
+    "word_means": [
+      "v.组成;构成(一个整体);作曲;创作(音乐);撰写(信函、讲稿、诗歌等)",
+      "adj.由…组成(或构成)的;镇静;镇定;平静",
+      "compose的过去分词和过去式"
+    ],
+    "updatetime": "2022-03-21 21:36:36"
+  },
+  {
+    "word_name": "attached",
+    "word_means": [
+      "adj.依恋; 爱慕; 附属于; 为…工作; 所附的",
+      "v.把…固定，把…附(在…上); 认为有重要性(或意义、价值、分量等); 重视; (有时不受欢迎或未受邀请而)参加，和…在一起，缠着",
+      "attach的过去分词和过去式"
+    ],
+    "updatetime": "2022-03-21 21:31:56"
+  },
+  {
+    "word_name": "aspect",
+    "word_means": [
+      "n.方面;层面;样子;外观;外表;朝向;方位;（动词的）体（如表示动作等发生一次或多次、已完成或正在进行）"
+    ],
+    "updatetime": "2022-03-21 21:31:23"
+  },
+  {
+    "word_name": "seasoned",
+    "word_means": [
+      "adj.老练的;富有经验的;老于此道的;调好味的;加了作料的;风干的，晾干的(可加工使用)",
+      "v.加调料调味;加作料",
+      "season的过去分词和过去式"
+    ],
+    "updatetime": "2022-03-21 21:30:47"
+  },
+  {
+    "word_name": "conceptually",
+    "word_means": [
+      "概念; 观念上; 概念上; 在概念上; 概念地"
+    ],
+    "updatetime": "2022-03-21 21:26:29"
+  },
+  {
+    "word_name": "unpack",
+    "word_means": [
+      "v.打开; 打开(箱、包等)取; 从(箱、包等中)取出; 分析; 剖析"
+    ],
+    "updatetime": "2022-03-21 21:24:12"
+  },
+  {
+    "word_name": "circuit switching",
+    "word_means": [
+      "线路交换，线路转接"
+    ],
+    "updatetime": "2022-03-21 21:09:28"
+  },
+  {
+    "word_name": "packet switching",
+    "word_means": [
+      "n.分组交换，包交换，封包交换(将数据分组发送后再连接)"
+    ],
+    "updatetime": "2022-03-21 21:09:17"
+  },
+  {
+    "word_name": "backward",
+    "word_means": [
+      "adj.向后的; 落后的; 朝后的; 倒退的; 反向的; 进步缓慢的",
+      "adv.向后; 倒; 回向原处"
+    ],
+    "updatetime": "2022-03-21 21:08:39"
+  },
+  {
+    "word_name": "obstruction",
+    "word_means": [
+      "n.障碍物; 障碍; 阻碍; 妨碍; 阻挡; 堵塞，阻挡(通道等); 路障; 梗阻; （球类运动）阻挡犯规"
+    ],
+    "updatetime": "2022-03-21 21:07:39"
+  },
+  {
+    "word_name": "fiber optic cable",
+    "word_means": [
+      "光纤网线; 光导纤维电缆; 光纜; 光纤; 光缆"
+    ],
+    "updatetime": "2022-03-21 21:07:07"
+  },
+  {
+    "word_name": "copper, fiber, coax",
+    "word_means": [
+      "铜、光纤、同轴电缆"
+    ],
+    "updatetime": "2022-03-21 21:05:57"
+  },
+  {
+    "word_name": "同轴电缆",
+    "word_means": [
+      "coax; coaxial cable; coaxial transmission line; concentric cable"
+    ],
+    "updatetime": "2022-03-21 21:05:52"
+  },
+  {
+    "word_name": "sort of wound around",
+    "word_means": [
+      "有点绕圈子"
+    ],
+    "updatetime": "2022-03-21 20:59:33"
+  },
+  {
+    "word_name": "strung up on the telephone poles",
+    "word_means": [
+      "挂在电线杆上"
+    ],
+    "updatetime": "2022-03-21 20:58:15"
+  },
+  {
+    "word_name": "warp up",
+    "word_means": [
+      "扭曲"
+    ],
+    "updatetime": "2022-03-21 20:53:30"
+  },
+  {
+    "word_name": "terrestrial",
+    "word_means": [
+      "adj.陆地的; 陆栖的; 陆生的; 地球的; 地球上的; 陆地上的，地面上的(与卫星相对而言)",
+      "n.地球人; 陆地生物"
+    ],
+    "updatetime": "2022-03-21 20:52:08"
+  },
+  {
+    "word_name": "devote",
+    "word_means": [
+      "v.致力于; 献(身); 奉献，投入(时间、精力等); 将(文章或讲话的某一部分)专用(于)"
+    ],
+    "updatetime": "2022-03-21 20:50:30"
+  },
+  {
+    "word_name": "microwave",
+    "word_means": [
+      "n.微波炉; 微波",
+      "vt.用微波炉烹调(或加热)"
+    ],
+    "updatetime": "2022-03-21 20:49:55"
+  },
+  {
+    "word_name": "subject",
+    "word_means": [
+      "n.主题; 题目; 话题; 题材; 问题; 学科; 科目; 课程; 表现对象; 绘画(或拍摄)题材; 接受试验者; 主语; 国民，臣民",
+      "adj.可能受…影响的; 易遭受…的; 取决于; 视…而定; 受…支配; 服从于; 受异族统治的",
+      "vt.使臣服; 使顺从; (尤指)压服"
+    ],
+    "updatetime": "2022-03-21 20:49:30"
+  },
+  {
+    "word_name": "fade",
+    "word_means": [
+      "v.褪色; (使)变淡，变暗; 逐渐消逝; 逐渐消失; (运动员、运动队、演员等)走下坡路，衰退，衰落",
+      "adj.乏味的; 憔悴的"
+    ],
+    "updatetime": "2022-03-21 20:48:48"
+  },
+  {
+    "word_name": "notorious",
+    "word_means": [
+      "adj.臭名昭著的; 声名狼藉的"
+    ],
+    "updatetime": "2022-03-21 20:48:33"
+  },
+  {
+    "word_name": "eave",
+    "word_means": [
+      "n.屋檐"
+    ],
+    "updatetime": "2022-03-21 20:48:13"
+  },
+  {
+    "word_name": "eavesdrop",
+    "word_means": [
+      "vi.窃听; 偷听(其他人谈话)",
+      "n.檐水"
+    ],
+    "updatetime": "2022-03-21 20:48:04"
+  },
+  {
+    "word_name": "spectrum",
+    "word_means": [
+      "n.谱; 光谱; 声谱; 波谱; 频谱; 范围; 各层次; 系列; 幅度"
+    ],
+    "updatetime": "2022-03-21 20:47:22"
+  },
+  {
+    "word_name": "electromagnetic",
+    "word_means": [
+      "adj.电磁的"
+    ],
+    "updatetime": "2022-03-21 20:47:06"
+  },
+  {
+    "word_name": "copper wires",
+    "word_means": [
+      "铜线"
+    ],
+    "updatetime": "2022-03-21 20:46:35"
+  },
+  {
+    "word_name": "coaxial cable",
+    "word_means": [
+      "n.同轴电缆"
+    ],
+    "updatetime": "2022-03-21 20:45:39"
+  },
+  {
+    "word_name": "twisted pair of wires",
+    "word_means": [
+      "双绞线"
+    ],
+    "updatetime": "2022-03-21 20:44:29"
+  },
+  {
+    "word_name": "twisted",
+    "word_means": [
+      "adj.扭曲的; 弯曲的; 变形的; 怪僻的; 偏执的",
+      "v.使弯曲，使扭曲(成一定形状); (使)弯曲变形，扭曲变形; 扭转，转动(身体部位)",
+      "twist的过去分词和过去式"
+    ],
+    "updatetime": "2022-03-21 20:44:14"
+  },
+  {
+    "word_name": "definitely",
+    "word_means": [
+      "adv.肯定; 没问题; 当然; 确实; 确切地; 明确地; 清楚地"
+    ],
+    "updatetime": "2022-03-21 20:42:46"
+  },
+  {
+    "word_name": "constrain",
+    "word_means": [
+      "vt.强迫; 强制; 迫使; 限制; 限定; 约束"
+    ],
+    "updatetime": "2022-03-21 20:41:06"
+  },
+  {
+    "word_name": "dictate",
+    "word_means": [
+      "v.命令; 决定; 支配; 口述; (尤指以令人不快的方式)指使，强行规定; 摆布",
+      "n.命令; 规定"
+    ],
+    "updatetime": "2022-03-21 20:40:10"
+  },
+  {
+    "word_name": "megabyte",
+    "word_means": [
+      "n.兆字节; 百万字节(计算机存储单位，相当于2²⁰字节)"
+    ],
+    "updatetime": "2022-03-21 20:38:42"
+  },
+  {
+    "word_name": "gigabyte",
+    "word_means": [
+      "n.十亿字节; 吉字节; 千兆字节; 十亿位元组"
+    ],
+    "updatetime": "2022-03-21 20:38:31"
+  },
+  {
+    "word_name": "massive",
+    "word_means": [
+      "adj.大量的; 巨大的; 大而重的; 结实的; 非常严重的"
+    ],
+    "updatetime": "2022-03-21 20:38:16"
+  },
+  {
+    "word_name": "municipality",
+    "word_means": [
+      "n.市; 自治市; (市下的)自治区; 市(或区)政当局"
+    ],
+    "updatetime": "2022-03-21 20:36:03"
+  },
+  {
+    "word_name": "cellular",
+    "word_means": [
+      "adj. 细胞的; 由细胞组成的; (无线电话)蜂窝状的; 网状的; 网眼的"
+    ],
+    "updatetime": "2022-03-21 20:35:00"
+  },
+  {
+    "word_name": "dedicate",
+    "word_means": [
+      "vt.奉献; (在书、音乐或作品的前部)题献词; 为…举行奉献典礼; 为(建筑物等)举行落成典礼"
+    ],
+    "updatetime": "2022-03-21 20:32:51"
+  },
+  {
+    "word_name": "hybrid fiber coax",
+    "word_means": [
+      "混合光纤同轴电缆; 光纤同轴混合网; 混合光纤同轴电缆网; HFC网; 混合式光纤同轴电缆"
+    ],
+    "updatetime": "2022-03-21 20:31:13"
+  },
+  {
+    "word_name": "coax",
+    "word_means": [
+      "v.哄劝; 劝诱"
+    ],
+    "updatetime": "2022-03-21 20:30:50"
+  },
+  {
+    "word_name": "blast",
+    "word_means": [
+      "n.爆炸; (爆炸引起的)气浪，冲击波; 突如其来的强劲气流; (吹奏乐器、哨子、汽车喇叭等突然发出的)响声，吹奏声，轰鸣; 严厉的批评; 热闹的聚会",
+      "v.(用炸药)炸毁，把…炸成碎片; 爆破; 发出刺耳的高音，轰鸣(尤指音乐); 严厉批评; 猛烈抨击; 狠打; 向…猛吹; 使（植物等）毁于疾病（或寒冷、酷热等）",
+      "int.(恼怒时说)该死，倒霉"
+    ],
+    "updatetime": "2022-03-21 20:29:21"
+  },
+  {
+    "word_name": "blast away",
+    "word_means": [
+      "连续射击; 连续开枪; （收音机等）发出巨响; （流行乐队）带来喧闹的乐声"
+    ],
+    "updatetime": "2022-03-21 20:29:17"
+  },
+  {
+    "word_name": "pole",
+    "word_means": [
+      "n.(行星的)极; 磁极; 杆子; 电极; 柱子; 棍; 杖; 地极; （对立或相反的）任何一方",
+      "v.用篙撑船; 摆船"
+    ],
+    "updatetime": "2022-03-21 20:28:50"
+  },
+  {
+    "word_name": "strung",
+    "word_means": [
+      "v.悬挂; 系; 扎; 用线(或细绳等)串，把…连在一起; 给…装弦",
+      "string的过去分词和过去式"
+    ],
+    "updatetime": "2022-03-21 20:28:33"
+  },
+  {
+    "word_name": "typically",
+    "word_means": [
+      "adv.典型的; 通常; 一般; 典型地; 具有代表性地; 不出所料; 果然"
+    ],
+    "updatetime": "2022-03-21 20:27:52"
+  },
+  {
+    "word_name": "modem",
+    "word_means": [
+      "n.调制解调器"
+    ],
+    "updatetime": "2022-03-21 20:27:32"
+  },
+  {
+    "word_name": "mileage",
+    "word_means": [
+      "n.里程; 英里里程; (车辆使用某定量燃料可行驶的)英里数; 好处; 利益"
+    ],
+    "updatetime": "2022-03-21 20:27:19"
+  },
+  {
+    "word_name": "asymmetric",
+    "word_means": [
+      "adj.不对称; 不对等的"
+    ],
+    "updatetime": "2022-03-21 20:26:25"
+  },
+  {
+    "word_name": "tune into",
+    "word_means": [
+      "收听; 不能独立接收"
+    ],
+    "updatetime": "2022-03-21 20:21:03"
+  },
+  {
+    "word_name": "modulation",
+    "word_means": [
+      "n.调制；调谐；变调；缓和"
+    ],
+    "updatetime": "2022-03-21 20:20:19"
+  },
+  {
+    "word_name": "interfere",
+    "word_means": [
+      "vt.干涉; 干预; 介入"
+    ],
+    "updatetime": "2022-03-21 20:19:33"
+  },
+  {
+    "word_name": "frequency",
+    "word_means": [
+      "n.(声波或电磁波振动的)频率; 频繁; 发生率; 出现率; 重复率; 频率"
+    ],
+    "updatetime": "2022-03-21 20:19:19"
+  },
+  {
+    "word_name": "headend",
+    "word_means": [
+      "头端; 数据转发器; 头端器; 前端系统; 前端"
+    ],
+    "updatetime": "2022-03-21 20:18:45"
+  },
+  {
+    "word_name": "cable modem",
+    "word_means": [
+      "电缆调制解调器; 缆线调制解调器; 线缆调制解调器; 有线通; 缆线数据机"
+    ],
+    "updatetime": "2022-03-21 20:17:51"
+  },
+  {
+    "word_name": "cable",
+    "word_means": [
+      "n.(系船用的)缆绳; (支撑桥梁等用的)钢索; 电缆; 电报",
+      "v.(给…)发电报"
+    ],
+    "updatetime": "2022-03-21 20:17:42"
+  },
+  {
+    "word_name": "degree",
+    "word_means": [
+      "n.度; 程度; 度数(角的量度单位或温度单位); （大学）学位; 学位课程; 严重程度（或级别）"
+    ],
+    "updatetime": "2022-03-21 20:17:05"
+  },
+  {
+    "word_name": "persuade",
+    "word_means": [
+      "v. 劝说; 说服; 使信服; 使相信"
+    ],
+    "updatetime": "2022-03-21 19:21:19"
+  },
+  {
+    "word_name": "convince",
+    "word_means": [
+      "vt.说服; 使确信; 使信服; 劝说(某人做某事)"
+    ],
+    "updatetime": "2022-03-21 19:21:11"
+  },
+  {
+    "word_name": "bankrupt",
+    "word_means": [
+      "adj.破产; 倒闭; 完全缺乏(有价值的东西)",
+      "n.(经法院判决的)破产者",
+      "vt.使破产"
+    ],
+    "updatetime": "2022-03-21 15:22:23"
+  },
+  {
+    "word_name": "tick",
+    "word_means": [
+      "v.打上钩; 发出滴答声; 滴答地走时; 标记号; 打对号",
+      "n.记号; 核对号; 对号; 钩号; 蜱，壁虱，扁虱(吸血寄生虫，有些种类传播疾病); (尤指钟表的)滴答声; 一会儿; 赊账"
+    ],
+    "updatetime": "2022-03-21 13:50:27"
+  },
+  {
+    "word_name": "secret",
+    "word_means": [
+      "adj. 秘密的; 保密的; 外人不得而知的; (指行为与习惯)暗中进行的，未公开的，隐秘的; 诡秘; 神秘",
+      "n. 秘密; 机密; 诀窍; 秘诀; 奥秘; 奥妙"
+    ],
+    "updatetime": "2022-03-21 13:01:56"
+  },
+  {
+    "word_name": "discrete",
+    "word_means": [
+      "adj.离散的; 分离的; 互不相连的; 各别的"
+    ],
+    "updatetime": "2022-03-21 13:01:22"
+  },
+  {
+    "word_name": "patent",
+    "word_means": [
+      "n.专利;专利权;专利证书",
+      "adj.有专利的;受专利保护的;专利生产的;专利经销的;明显的;赤裸裸的",
+      "vt.获得专利权"
+    ],
+    "updatetime": "2022-03-21 10:19:59"
+  },
+  {
+    "word_name": "susceptible",
+    "word_means": [
+      "adj.易受影响(或伤害等); 敏感; 过敏; 好动感情的; 感情丰富的; 善感的; 容许…的; 可能…的; 可以…的"
+    ],
+    "updatetime": "2022-03-21 09:21:30"
+  },
+  {
+    "word_name": "deceive",
+    "word_means": [
+      "v.欺骗; 蒙骗; 诓骗; 欺骗(自己); 使人误信; 误导"
+    ],
+    "updatetime": "2022-03-21 09:20:23"
+  },
+  {
+    "word_name": "stylus",
+    "word_means": [
+      "n.触笔; (唱机的)唱针; 指示笔(在电脑屏幕上书写、画画等用)"
+    ],
+    "updatetime": "2022-03-21 09:06:55"
+  }
+]
