@@ -1,0 +1,794 @@
+[
+  {
+    "word_name": "intellectual",
+    "word_means": [
+      "adj.智力的;脑力的;理智的;有才智的;智力发达的",
+      "n.知识分子;脑力劳动者"
+    ],
+    "updatetime": "2022-04-15 19:08:23"
+  },
+  {
+    "word_name": "simulator",
+    "word_means": [
+      "n.模拟装置"
+    ],
+    "updatetime": "2022-04-15 18:26:46"
+  },
+  {
+    "word_name": "neat",
+    "word_means": [
+      "adj.整洁的;整齐的;有序的;有条理的;小巧优雅的;简洁的;好的;未掺水的"
+    ],
+    "updatetime": "2022-04-15 18:24:33"
+  },
+  {
+    "word_name": "brand new",
+    "word_means": [
+      "adj.全新的;崭新的"
+    ],
+    "updatetime": "2022-04-15 18:23:36"
+  },
+  {
+    "word_name": "prohibitive",
+    "word_means": [
+      "adj.(以法令)禁止的;高昂得令人难以承受的;贵得买不起的"
+    ],
+    "updatetime": "2022-04-15 18:23:03"
+  },
+  {
+    "word_name": "prohibit",
+    "word_means": [
+      "vt.(尤指以法令)禁止;阻止;使不可能"
+    ],
+    "updatetime": "2022-04-15 18:22:50"
+  },
+  {
+    "word_name": "exploit",
+    "word_means": [
+      "vt.开发;利用;剥削;发挥;利用(…为自己谋利);压榨;运用",
+      "n.英勇(或激动人心、引人注目)的行为"
+    ],
+    "updatetime": "2022-04-15 18:16:32"
+  },
+  {
+    "word_name": "reflection",
+    "word_means": [
+      "n.(声、光、热等的)反射;反映;映像;映照出的影像;显示;表达;沉思;（关于某课题的）思考，回忆;记录"
+    ],
+    "updatetime": "2022-04-15 18:15:28"
+  },
+  {
+    "word_name": "organically",
+    "word_means": [
+      "organically      adv.    有机地;有组织地;根本上;器官上的"
+    ],
+    "updatetime": "2022-04-15 18:12:33"
+  },
+  {
+    "word_name": "tense",
+    "word_means": [
+      "adj.紧张的;担心的;不能松弛的;令人紧张的(或焦虑的、满腹愤懑的等);绷紧的;拉紧的;紧的",
+      "n.(动词的)时;时态",
+      "v.(使肌肉)拉紧;绷紧"
+    ],
+    "updatetime": "2022-04-15 17:59:43"
+  },
+  {
+    "word_name": "consequence",
+    "word_means": [
+      "n.结果;后果;重要性"
+    ],
+    "updatetime": "2022-04-15 17:59:33"
+  },
+  {
+    "word_name": "briefly",
+    "word_means": [
+      "adv.短暂地;暂时地;简短地;简要地"
+    ],
+    "updatetime": "2022-04-15 17:55:48"
+  },
+  {
+    "word_name": "defuse",
+    "word_means": [
+      "vt.平息;缓和;拆除(炸弹的)引信;"
+    ],
+    "updatetime": "2022-04-15 17:54:49"
+  },
+  {
+    "word_name": "manipulate",
+    "word_means": [
+      "vt.操纵;(暗中)控制;影响;(熟练地)操作;使用;正骨;治疗脱臼"
+    ],
+    "updatetime": "2022-04-15 17:54:31"
+  },
+  {
+    "word_name": "conditionals",
+    "word_means": [
+      "n.条件句，条件从句(由if或unless引起的);动词的条件式(如should用在IfIshoulddie...)",
+      "conditional的复数"
+    ],
+    "updatetime": "2022-04-15 17:45:56"
+  },
+  {
+    "word_name": "kicker",
+    "word_means": [
+      "n.踢的人;(尤指)踢球的运动员;(一连串事情的)意外结局"
+    ],
+    "updatetime": "2022-04-15 17:45:29"
+  },
+  {
+    "word_name": "puzzle",
+    "word_means": [
+      "n.令人费解的事;谜;智力游戏;不解之谜;疑问",
+      "vt.迷惑;使困惑"
+    ],
+    "updatetime": "2022-04-15 17:45:00"
+  },
+  {
+    "word_name": "rough outline",
+    "word_means": [
+      "粗线条"
+    ],
+    "updatetime": "2022-04-15 17:44:14"
+  },
+  {
+    "word_name": "voluntary",
+    "word_means": [
+      "adj.自愿的;志愿的;主动的;自告奋勇的;自愿性的;无偿的;义务性的;义务的;自发的;随意的",
+      "n.仪式终始曲，即兴曲(通常用风琴在教堂礼拜仪式前后或期间演奏)"
+    ],
+    "updatetime": "2022-04-15 17:41:33"
+  },
+  {
+    "word_name": "engaged",
+    "word_means": [
+      "adj.已订婚的;忙于;从事于;已订婚;被占用的;使用中的;占用着",
+      "v.吸引住(注意力、兴趣);雇用;聘用;与…建立密切关系;尽力理解",
+      "engage的过去分词和过去式"
+    ],
+    "updatetime": "2022-04-15 17:41:12"
+  },
+  {
+    "word_name": "attentive",
+    "word_means": [
+      "adj.细心的;注意的;专心的;留心的;关心的;肯帮忙的"
+    ],
+    "updatetime": "2022-04-15 17:41:03"
+  },
+  {
+    "word_name": "bound",
+    "word_means": [
+      "n.跳跃;蹦跳",
+      "v.跳跃着跑;形成…的边界(或界限)",
+      "adj.一定会;很可能会;受(法律、义务或情况)约束(必须做某事);有义务(做某事);因…受阻(或不能正常工作);正旅行去（某地）",
+      "bind的过去分词和过去式"
+    ],
+    "updatetime": "2022-04-15 17:39:45"
+  },
+  {
+    "word_name": "semester",
+    "word_means": [
+      "n.学期(尤用于美国，一学年分两个学期)"
+    ],
+    "updatetime": "2022-04-15 17:38:34"
+  },
+  {
+    "word_name": "reasonable",
+    "word_means": [
+      "adj.公平的;合理的;有理由的;明智的;可以接受的;合乎情理的;公道的;不太贵的;不错的"
+    ],
+    "updatetime": "2022-04-15 17:38:03"
+  },
+  {
+    "word_name": "nominal",
+    "word_means": [
+      "adj.名义上的;有名无实的;很小的;象征性的;名词性的;名词的",
+      "n.名词性词"
+    ],
+    "updatetime": "2022-04-15 17:36:29"
+  },
+  {
+    "word_name": "dizzy",
+    "word_means": [
+      "adj.头晕的;眩晕的;头晕目眩的;使人眩晕的;使人头昏眼花的;使人感到变化太快的;愚蠢的;笨的",
+      "v.使头晕眼花;使发昏;使昏乱;使茫然"
+    ],
+    "updatetime": "2022-04-15 17:35:33"
+  },
+  {
+    "word_name": "burn",
+    "word_means": [
+      "v.燃烧;烧;着火;烧着;(使)烧毁，烧坏，烧伤，烧死;（使燃料）燃烧;（使）烧焦，烧煳;（使）晒伤，烫伤;火辣辣地痛;发光;有强烈的情感;（向…）迅速移动;激怒;刻录（光盘等）",
+      "n.烧伤;灼伤;烫伤;烧(或烫、灼)的痕迹;酸痛感;小河;溪流"
+    ],
+    "updatetime": "2022-04-15 17:35:14"
+  },
+  {
+    "word_name": "intensive",
+    "word_means": [
+      "adj.短时间内集中紧张进行的;密集的;彻底的;十分细致的;集约的",
+      "n.加强器;[语]强义词;强调成份"
+    ],
+    "updatetime": "2022-04-15 17:33:56"
+  },
+  {
+    "word_name": "penalize",
+    "word_means": [
+      "vt.处罚;惩罚;处以刑罚;(体育运动中)判罚;置于不利地位;不公正地对待"
+    ],
+    "updatetime": "2022-04-15 17:33:15"
+  },
+  {
+    "word_name": "harsh",
+    "word_means": [
+      "adj.严厉的;严酷的;恶劣的;残酷的;艰苦的;强烈刺眼的;丑陋的;刺耳的;粗糙的"
+    ],
+    "updatetime": "2022-04-15 17:31:16"
+  },
+  {
+    "word_name": "saltwater fish",
+    "word_means": [
+      "咸水鱼;海鱼;海水鱼"
+    ],
+    "updatetime": "2022-04-15 17:28:02"
+  },
+  {
+    "word_name": "freshwater fish",
+    "word_means": [
+      "淡水鱼;淡水渔业;淡水魚;淡水鱼类"
+    ],
+    "updatetime": "2022-04-15 17:27:45"
+  },
+  {
+    "word_name": "processor",
+    "word_means": [
+      "n.加工机(或工人);处理器;处理机"
+    ],
+    "updatetime": "2022-04-15 17:27:25"
+  },
+  {
+    "word_name": "slide under the desk",
+    "word_means": [
+      "滑到桌子下面"
+    ],
+    "updatetime": "2022-04-15 17:26:14"
+  },
+  {
+    "word_name": "hardcopy",
+    "word_means": [
+      "hardcopy        【医】硬拷贝"
+    ],
+    "updatetime": "2022-04-15 17:25:30"
+  },
+  {
+    "word_name": "file an appeal",
+    "word_means": [
+      "提出上诉；提起上诉"
+    ],
+    "updatetime": "2022-04-15 17:25:16"
+  },
+  {
+    "word_name": "glitch",
+    "word_means": [
+      "n.差错;小故障;小毛病"
+    ],
+    "updatetime": "2022-04-15 17:24:44"
+  },
+  {
+    "word_name": "appeal",
+    "word_means": [
+      "n.上诉;申诉;吸引力;感染力;魅力;(尤指慈善机构或警方的)呼吁，吁请，恳求;启发",
+      "v.上诉;申诉;有吸引力;有感染力;引起兴趣;呼吁;吁请;恳求;启发"
+    ],
+    "updatetime": "2022-04-15 17:24:29"
+  },
+  {
+    "word_name": "constraint",
+    "word_means": [
+      "n.限制;限定;约束;严管"
+    ],
+    "updatetime": "2022-04-15 17:23:57"
+  },
+  {
+    "word_name": "fill up",
+    "word_means": [
+      "加满;（使）装满;（使）注满;（使）充满;挤满;占满;充塞;度过，打发（时间）;（使）吃饱;填饱（…的）肚子;（食物）使易饱，使有饱胀感"
+    ],
+    "updatetime": "2022-04-15 17:21:32"
+  },
+  {
+    "word_name": "make an appointment",
+    "word_means": [
+      "预约"
+    ],
+    "updatetime": "2022-04-15 17:19:09"
+  },
+  {
+    "word_name": "tailor",
+    "word_means": [
+      "n.(尤指为顾客个别定制男装的)裁缝",
+      "vt.专门制作;订做"
+    ],
+    "updatetime": "2022-04-15 17:14:11"
+  },
+  {
+    "word_name": "nominally",
+    "word_means": [
+      "nominally          名义上;名义上地;名义上的;标称;名义"
+    ],
+    "updatetime": "2022-04-15 17:13:01"
+  },
+  {
+    "word_name": "clusters",
+    "word_means": [
+      "n.(同类物丛生或聚集的)簇，团，束，串;(人或动物的)群，组;辅音丛;辅音连缀",
+      "v.群聚;聚集",
+      "cluster的第三人称单数和复数"
+    ],
+    "updatetime": "2022-04-15 17:12:16"
+  },
+  {
+    "word_name": "proctored",
+    "word_means": [
+      "监考"
+    ],
+    "updatetime": "2022-04-15 17:11:45"
+  },
+  {
+    "word_name": "measurement",
+    "word_means": [
+      "n.测量;度量;(某物的)尺寸，长度，数量"
+    ],
+    "updatetime": "2022-04-15 17:11:22"
+  },
+  {
+    "word_name": "incredible",
+    "word_means": [
+      "adj.不能相信的;难以置信的;极好的;极大的"
+    ],
+    "updatetime": "2022-04-15 17:10:39"
+  },
+  {
+    "word_name": "clarification",
+    "word_means": [
+      "n.澄清;净（纯）化;清化（理）;说（阐）明;解释"
+    ],
+    "updatetime": "2022-04-15 17:09:12"
+  },
+  {
+    "word_name": "precision",
+    "word_means": [
+      "n.精确;准确;细致",
+      "adj.精确的"
+    ],
+    "updatetime": "2022-04-15 17:07:28"
+  },
+  {
+    "word_name": "inspiration",
+    "word_means": [
+      "n.灵感;启发灵感的人(或事物);使人产生动机的人(或事物);鼓舞人心的人(或事物);（突然想到的）好主意，妙计"
+    ],
+    "updatetime": "2022-04-15 17:07:04"
+  },
+  {
+    "word_name": "sanity",
+    "word_means": [
+      "n.神志正常;理智;明智;精神健全;通情达理"
+    ],
+    "updatetime": "2022-04-15 17:05:08"
+  },
+  {
+    "word_name": "bite-size",
+    "word_means": [
+      "adj.(食物)大小适合入口的;很小的;小而简单的"
+    ],
+    "updatetime": "2022-04-15 17:04:45"
+  },
+  {
+    "word_name": "morsels",
+    "word_means": [
+      "n.少量，一块(食物)",
+      "morsel的复数"
+    ],
+    "updatetime": "2022-04-15 17:04:31"
+  },
+  {
+    "word_name": "throughout",
+    "word_means": [
+      "prep.自始至终;遍及;各处;贯穿整个时期",
+      "adv.始终;处处;在所有方面"
+    ],
+    "updatetime": "2022-04-15 17:03:28"
+  },
+  {
+    "word_name": "litter",
+    "word_means": [
+      "n.垃圾;(在公共场所乱扔的)废弃物;乱七八糟的东西;乱放的杂物;(供宠物，尤指猫，在室内便溺的)猫砂;一窝幼崽;垫草，褥草，铺栏草;（旧时抬要人的）轿，舆",
+      "v.乱扔;使凌乱;使饱含;使遍布(一般指不好的东西)"
+    ],
+    "updatetime": "2022-04-15 17:01:44"
+  },
+  {
+    "word_name": "come out",
+    "word_means": [
+      "（书或光盘）出版，发行;（事实）暴露，披露，显露;公开同性恋身份;结果是;到头来;宣布赞成/反对;举行（罢工）;（照片）冲洗（或打印）清楚;（太阳、月亮或星星）出现"
+    ],
+    "updatetime": "2022-04-15 17:00:44"
+  },
+  {
+    "word_name": "the book came out the course",
+    "word_means": [
+      "这本书随课程出版"
+    ],
+    "updatetime": "2022-04-15 17:00:39"
+  },
+  {
+    "word_name": "offense",
+    "word_means": [
+      "n.冒犯;(球队的)前锋，锋线队员;进攻方法;攻势"
+    ],
+    "updatetime": "2022-04-15 16:58:56"
+  },
+  {
+    "word_name": "tragical",
+    "word_means": [
+      "tragical          悲剧性;悲剧性的"
+    ],
+    "updatetime": "2022-04-15 16:58:31"
+  },
+  {
+    "word_name": "grace days",
+    "word_means": [
+      "宽限日期"
+    ],
+    "updatetime": "2022-04-15 16:58:11"
+  },
+  {
+    "word_name": "grace",
+    "word_means": [
+      "n.优美;优雅;文雅;高雅;风度;体面;宽限期;恩宠;（饭前的）谢恩祈祷;大人，阁下，夫人",
+      "vt.为增色;为锦上添花;装饰;使荣耀;使生辉;承蒙光临"
+    ],
+    "updatetime": "2022-04-15 16:58:02"
+  },
+  {
+    "word_name": "syntactic",
+    "word_means": [
+      "adj.句法的"
+    ],
+    "updatetime": "2022-04-15 16:56:59"
+  },
+  {
+    "word_name": "resilient",
+    "word_means": [
+      "adj.有弹性(或弹力)的;可迅速恢复的;有适应力的;能复原的"
+    ],
+    "updatetime": "2022-04-15 16:56:33"
+  },
+  {
+    "word_name": "plagiarism",
+    "word_means": [
+      "n.剽窃;抄袭;剽窃作品"
+    ],
+    "updatetime": "2022-04-15 16:56:02"
+  },
+  {
+    "word_name": "detect",
+    "word_means": [
+      "vt.发现;查明;侦察出;"
+    ],
+    "updatetime": "2022-04-15 16:55:53"
+  },
+  {
+    "word_name": "penalty",
+    "word_means": [
+      "n.处罚;刑罚;惩罚;害处;不利;(对犯规者的)判罚;点球"
+    ],
+    "updatetime": "2022-04-15 16:55:23"
+  },
+  {
+    "word_name": "flunk",
+    "word_means": [
+      "v.(给某人)不及格;(考试、测验等)失败",
+      "n.不及格"
+    ],
+    "updatetime": "2022-04-15 16:54:55"
+  },
+  {
+    "word_name": "reinstate",
+    "word_means": [
+      "vt.使恢复原职;使重返岗位;把…放回原处;使恢复原状"
+    ],
+    "updatetime": "2022-04-15 16:54:32"
+  },
+  {
+    "word_name": "expelled",
+    "word_means": [
+      "v.把…开除(或除名);驱逐出境;排出;喷出",
+      "expel的过去分词和过去式"
+    ],
+    "updatetime": "2022-04-15 16:54:14"
+  },
+  {
+    "word_name": "expel",
+    "word_means": [
+      "vt.驱逐;排出;驱逐出境;把…开除(或除名);喷出"
+    ],
+    "updatetime": "2022-04-15 16:54:10"
+  },
+  {
+    "word_name": "sanction",
+    "word_means": [
+      "n.制裁;(正式)许可，批准;约束;处罚",
+      "vt.许可;准许;准予;惩罚;实施制裁"
+    ],
+    "updatetime": "2022-04-15 16:53:49"
+  },
+  {
+    "word_name": "basically",
+    "word_means": [
+      "adv.大体上;基本上;总的说来;从根本上说"
+    ],
+    "updatetime": "2022-04-15 16:52:59"
+  },
+  {
+    "word_name": "segregated",
+    "word_means": [
+      "adj.(因种族、性别、宗教不同而)隔离的，分开的",
+      "v.隔离并区别对待(不同种族、宗教或性别的人);(使)分开，分离，隔离",
+      "segregate的过去分词和过去式"
+    ],
+    "updatetime": "2022-04-15 16:52:22"
+  },
+  {
+    "word_name": "segregate",
+    "word_means": [
+      "vt.隔离并区别对待(不同种族、宗教或性别的人);(使)分开，分离，隔离"
+    ],
+    "updatetime": "2022-04-15 16:52:20"
+  },
+  {
+    "word_name": "shark",
+    "word_means": [
+      "n.鲨鱼;坑蒙拐骗的人;诈骗者",
+      "vi.骗取;榨取;用不正当手段攫取;勒索诈骗"
+    ],
+    "updatetime": "2022-04-15 16:50:43"
+  },
+  {
+    "word_name": "afterwards",
+    "word_means": [
+      "adv.之后;后来;以后"
+    ],
+    "updatetime": "2022-04-15 16:49:08"
+  },
+  {
+    "word_name": "tempt",
+    "word_means": [
+      "vt.引诱;诱惑;劝诱;鼓动;怂恿;利诱"
+    ],
+    "updatetime": "2022-04-15 16:48:29"
+  },
+  {
+    "word_name": "maliciously",
+    "word_means": [
+      "maliciously      adv.    恶意地；蓄意地"
+    ],
+    "updatetime": "2022-04-15 16:48:06"
+  },
+  {
+    "word_name": "retype",
+    "word_means": [
+      "retype      vt.    重打字"
+    ],
+    "updatetime": "2022-04-15 16:46:47"
+  },
+  {
+    "word_name": "preserve",
+    "word_means": [
+      "vt.保护;维护;保留;维持…的原状;保存;保养;贮存;保鲜;使继续存活",
+      "n.(某人或群体活动、工作等的)专门领域;果酱;腌菜;泡菜;私人渔猎场（或保留地）"
+    ],
+    "updatetime": "2022-04-15 16:46:24"
+  },
+  {
+    "word_name": "nod",
+    "word_means": [
+      "v.点头;点头致意;点头示意;(朝…方向)点头(表示所谈论的人或物);打盹;",
+      "n.点头;"
+    ],
+    "updatetime": "2022-04-15 16:46:03"
+  },
+  {
+    "word_name": "wink",
+    "word_means": [
+      "vi.眨眼;闪烁;眨一只眼，眨眼示意(尤指使眼色或表示开玩笑);明灭;",
+      "n.眼色;眨一只眼;眨眼示意;"
+    ],
+    "updatetime": "2022-04-15 16:46:03"
+  },
+  {
+    "word_name": "integrity",
+    "word_means": [
+      "n.诚实正直;完整;完好"
+    ],
+    "updatetime": "2022-04-15 16:45:08"
+  },
+  {
+    "word_name": "in person",
+    "word_means": [
+      "当面;亲自;本人;直接"
+    ],
+    "updatetime": "2022-04-15 16:43:13"
+  },
+  {
+    "word_name": "videotape",
+    "word_means": [
+      "n.录像带;录像磁带",
+      "vt.将...录到录像带上;同video"
+    ],
+    "updatetime": "2022-04-15 16:41:29"
+  },
+  {
+    "word_name": "tape",
+    "word_means": [
+      "n.磁带;录音带;录像带;胶带;胶条;狭带，带子，线带，窄布条;（赛跑场地的）终点线",
+      "vt.把…录在磁带上;用胶带粘住;用带子系紧;用胶带粘贴;用绷带包扎"
+    ],
+    "updatetime": "2022-04-15 16:41:22"
+  },
+  {
+    "word_name": "master students",
+    "word_means": [
+      "研究生;硕士研究生;硕士生"
+    ],
+    "updatetime": "2022-04-15 16:41:02"
+  },
+  {
+    "word_name": "tremendous",
+    "word_means": [
+      "adj.巨大的;极大的;极好的;精彩的;了不起的;"
+    ],
+    "updatetime": "2022-04-15 16:40:32"
+  },
+  {
+    "word_name": "boast",
+    "word_means": [
+      "v.自夸;自吹自擂;有(值得自豪的东西)",
+      "n.夸耀;夸口"
+    ],
+    "updatetime": "2022-04-15 16:39:46"
+  },
+  {
+    "word_name": "halfway",
+    "word_means": [
+      "adv.在…的中间;在中途;到一半;部分地做(或达到)…;还不错的;过得去的",
+      "adj.中间的"
+    ],
+    "updatetime": "2022-04-15 16:39:36"
+  },
+  {
+    "word_name": "blow away",
+    "word_means": [
+      "吹走;驱散;炸飞;使印象深刻"
+    ],
+    "updatetime": "2022-04-15 16:39:06"
+  },
+  {
+    "word_name": "aisle",
+    "word_means": [
+      "n.过道;(教堂、戏院、火车等座位间或超级市场货架间的)走道"
+    ],
+    "updatetime": "2022-04-15 16:38:40"
+  },
+  {
+    "word_name": "in the sense",
+    "word_means": [
+      "就…意义而言"
+    ],
+    "updatetime": "2022-04-15 16:35:42"
+  },
+  {
+    "word_name": "butter up",
+    "word_means": [
+      "奉承;巴结;讨好"
+    ],
+    "updatetime": "2022-04-15 16:35:18"
+  },
+  {
+    "word_name": "a faculty member",
+    "word_means": [
+      "教员"
+    ],
+    "updatetime": "2022-04-15 16:34:07"
+  },
+  {
+    "word_name": "faculty",
+    "word_means": [
+      "n.官能;能力;天赋;才能;(高等院校的)系，院;全体教师;（某高等院校的）全体教师"
+    ],
+    "updatetime": "2022-04-15 16:33:38"
+  },
+  {
+    "word_name": "delighted",
+    "word_means": [
+      "adj.高兴的;愉快的;快乐的",
+      "v.使高兴;使愉快;使快乐",
+      "delight的过去分词和过去式"
+    ],
+    "updatetime": "2022-04-15 16:31:48"
+  },
+  {
+    "word_name": "instructors",
+    "word_means": [
+      "n.教练;导师;(大学)讲师",
+      "instructor的复数"
+    ],
+    "updatetime": "2022-04-15 16:30:38"
+  },
+  {
+    "word_name": "dual",
+    "word_means": [
+      "adj.二重的;双重的;双的;两部分的",
+      "n.对偶;双数"
+    ],
+    "updatetime": "2022-04-15 16:30:09"
+  },
+  {
+    "word_name": "as opposed to",
+    "word_means": [
+      "而不是"
+    ],
+    "updatetime": "2022-04-15 16:25:21"
+  },
+  {
+    "word_name": "oppose",
+    "word_means": [
+      "vt.反对(计划、政策等);抵制;阻挠;(在竞赛中)与…对垒，与…角逐"
+    ],
+    "updatetime": "2022-04-15 16:25:14"
+  },
+  {
+    "word_name": "apposed",
+    "word_means": [
+      "appose的过去分词和过去式"
+    ],
+    "updatetime": "2022-04-15 16:18:21"
+  },
+  {
+    "word_name": "as apposed to",
+    "word_means": [
+      "as apposed to          一本关于商务实践而非理论的书"
+    ],
+    "updatetime": "2022-04-15 16:18:15"
+  },
+  {
+    "word_name": "rumor",
+    "word_means": [
+      "n.谣言",
+      "v.谣传"
+    ],
+    "updatetime": "2022-04-15 10:57:42"
+  },
+  {
+    "word_name": "imprison",
+    "word_means": [
+      "vt.监禁; 关押"
+    ],
+    "updatetime": "2022-04-15 07:57:50"
+  },
+  {
+    "word_name": "optimization",
+    "word_means": [
+      "n.最佳（优）化；优选法；（使）最恰当（适宜，适合）; 最佳条件选择；求最佳参数"
+    ],
+    "updatetime": "2022-04-15 07:25:59"
+  },
+  {
+    "word_name": "monotoncity",
+    "word_means": [
+      "单调性"
+    ],
+    "updatetime": "2022-04-15 07:21:00"
+  }
+]
