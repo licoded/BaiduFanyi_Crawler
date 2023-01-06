@@ -1,9 +1,25 @@
 # 百度翻译爬虫
+
+## 目录
+
+* [介绍](#介绍)
+* [快速上手](#快速上手)
+  * [1. fork 本仓库](#1-fork-本仓库)
+  * [2. 获取 cookie](#2-获取-cookie)
+  * [3. 设置 action secrets](#3-设置-action-secrets)
+* [本地运行](#本地运行)
+
+## 介绍
+
 使用 GitHub Actions 实现每天定时爬取昨日收藏的单词。
+
+> 爬取的数据以 `json` 格式存储在 `data` 文件夹中。
+
+_**欢迎通过 [issues](https://github.com/licoded/BaiduFanyi_Crawler/issues) 提交bug及改进建议。**_
 
 ## 快速上手
 
-### 1. fork 本[仓库](https://github.com/licoded/BaiduFanyi_Crawler).
+### 1. fork 本仓库
 
 ### 2. 获取 cookie
 

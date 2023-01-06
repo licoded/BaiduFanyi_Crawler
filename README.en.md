@@ -1,9 +1,25 @@
 # BaiduFanyi_Crawler
+
+## Table of Contents
+
+* [Intro](#intro)
+* [Get Started](#get-started)
+  * [1. fork this repo](#1-fork-this-repo)
+  * [2. get cookie](#2-get-cookie)
+  * [3. set action secrets](#3-set-action-secrets)
+* [Run in Local](#run-in-local)
+
+## Intro
+
 Use GitHub Actions to automatically crawl word collections every day.
+
+> The crawled data is stored in the `data` folder in the `json` format.
+
+_**Welcome to submit bugs and improvement suggestions through issues!**_
 
 ## Get Started
 
-### 1. fork this [repo](https://github.com/licoded/BaiduFanyi_Crawler).
+### 1. fork this repo
 
 ### 2. get cookie
 
