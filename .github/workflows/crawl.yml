@@ -27,18 +27,22 @@ jobs:
         run: npm install && npm run dev
       
       - name: Config git info
-        run: |
-          git config --global user.email "busy.li@foxmail.com"
-          git config --global user.name "licoded"
-      
-      - name: Commit change
-        run: |
-          git add data
-          git commit -m "feat(data): auto-crawl ${{ steps.date.outputs.date }}"
-      
-      - name: Push change
         env:
-          GITHUB_LOGIN: jwenjian
+          GITHUB_USER: ${{ github.actor }}
+          GITHUB_EMAIL: ${{ github.actor }}@users.noreply.github.com
+        run: |
+          git config --global user.email "$GITHUB_EMAIL"
+          git config --global user.name "$GITHUB_USER"
+      
+      - name: Commit changes and Push
+        env:
+          GITHUB_LOGIN: ${{ github.actor }}
           GITHUB_PERSONAL_TOKEN: ${{ secrets.GITHUB_PERSONAL_TOKEN }}
         run: |
-          git push https://$GITHUB_LOGIN:$GITHUB_PERSONAL_TOKEN@github.com/$GITHUB_REPOSITORY.git
+          if [[ `git status data --porcelain` ]]; then
+            git add data
+            git commit -m "feat(data): auto-crawl ${{ steps.date.outputs.date }}"
+            git push https://$GITHUB_LOGIN:$GITHUB_PERSONAL_TOKEN@github.com/$GITHUB_REPOSITORY.git
+          else
+            echo "WARNING: No changes were detected. git commit push action aborted."
+          fi
