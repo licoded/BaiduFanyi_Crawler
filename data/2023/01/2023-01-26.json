@@ -1,0 +1,806 @@
+[
+  {
+    "word_name": "procedure",
+    "word_means": [
+      "n.(商业、法律或政治上的)程序; 手术; (正常)手续; 步骤"
+    ],
+    "updatetime": "2023-01-26 20:56:50"
+  },
+  {
+    "word_name": "routine",
+    "word_means": [
+      "n.常规; 正常顺序; 生活乏味; 无聊; (演出中的)一套动作，一系列笑话(等); 例行程序",
+      "adj.常规的; 例行公事的; 日常的; 平常的; 正常的; 毫不特别的; 乏味的; 平淡的"
+    ],
+    "updatetime": "2023-01-26 20:53:12"
+  },
+  {
+    "word_name": "pioneer",
+    "word_means": [
+      "n.先锋; 先驱; 带头人; 开发者; 拓荒者",
+      "vt.当开拓者; 做先锋; 倡导"
+    ],
+    "updatetime": "2023-01-26 20:52:44"
+  },
+  {
+    "word_name": "take on",
+    "word_means": [
+      "承担，接受（尤指艰巨工作或重大责任）;呈现，显出（新面貌或新特点）;（公共汽车、船舶等）上（客），装（货），补充（燃料）;雇用;录用;与（尤指实力比自己强的人）较量;接受…的挑战;擅自决定;自作主张"
+    ],
+    "updatetime": "2023-01-26 20:50:35"
+  },
+  {
+    "word_name": "hundreds of thousands of dollars per hour",
+    "word_means": [
+      "每小时数十万美元"
+    ],
+    "updatetime": "2023-01-26 20:49:44"
+  },
+  {
+    "word_name": "facility",
+    "word_means": [
+      "n.设施; 设备; (机器等的)特别装置; (服务等的)特色; (供特定用途的)场所; （学习、做事的）天资，才能，天赋"
+    ],
+    "updatetime": "2023-01-26 20:49:14"
+  },
+  {
+    "word_name": "idle",
+    "word_means": [
+      "adj.懈怠的;懒惰的;闲置的;没有工作的;闲散的;",
+      "v.混时间;闲荡;无所事事;空转;挂空挡;未熄火;(尤指暂时地)关闭工厂，使(工人)闲着;"
+    ],
+    "updatetime": "2023-01-26 20:48:40"
+  },
+  {
+    "word_name": "interactive",
+    "word_means": [
+      "adj.互相作用的，互相影响的;〈计〉交互的，人机对话的;互动的，互相交流的"
+    ],
+    "updatetime": "2023-01-26 20:48:01"
+  },
+  {
+    "word_name": "treatment",
+    "word_means": [
+      "n.治疗;疗法;诊治;对待;待遇;处理;讨论;论述;（净化或防治）处理，加工"
+    ],
+    "updatetime": "2023-01-26 19:54:44"
+  },
+  {
+    "word_name": "accumulate",
+    "word_means": [
+      "v.积累;积聚;(数量)逐渐增加;(数额)逐渐增长"
+    ],
+    "updatetime": "2023-01-26 19:54:04"
+  },
+  {
+    "word_name": "strive",
+    "word_means": [
+      "vi.努力;奋斗;力争;力求"
+    ],
+    "updatetime": "2023-01-26 19:48:34"
+  },
+  {
+    "word_name": "underlie",
+    "word_means": [
+      "vt.构成…的基础; 作为…的原因"
+    ],
+    "updatetime": "2023-01-26 19:48:12"
+  },
+  {
+    "word_name": "accidental",
+    "word_means": [
+      "adj.意外的;偶然的",
+      "n.偶然;次要方面"
+    ],
+    "updatetime": "2023-01-26 19:45:44"
+  },
+  {
+    "word_name": "malicious",
+    "word_means": [
+      "adj.恶意的; 恶毒的"
+    ],
+    "updatetime": "2023-01-26 19:45:35"
+  },
+  {
+    "word_name": "excessive",
+    "word_means": [
+      "adj. 过分的,过度的"
+    ],
+    "updatetime": "2023-01-26 18:55:58"
+  },
+  {
+    "word_name": "overheads",
+    "word_means": [
+      "n.日常开支;经费;营运费用;经常性开支",
+      "overhead的复数"
+    ],
+    "updatetime": "2023-01-26 18:55:31"
+  },
+  {
+    "word_name": "overhead",
+    "word_means": [
+      "n.开销;经常费用;经常开支;用于高射投影器的幻灯片;（尤指飞机的）顶舱",
+      "adj.头上方的;地面以上的;高架的;经费的;管理费用的",
+      "adv.在头上方;在空中"
+    ],
+    "updatetime": "2023-01-26 18:55:28"
+  },
+  {
+    "word_name": "transistor",
+    "word_means": [
+      "n.晶体管;晶体管收音机"
+    ],
+    "updatetime": "2023-01-26 18:52:37"
+  },
+  {
+    "word_name": "logic gates",
+    "word_means": [
+      "逻辑门电路;逻辑门;逻辑门电路库;逻辑闸;门电路"
+    ],
+    "updatetime": "2023-01-26 18:52:18"
+  },
+  {
+    "word_name": "assembly language",
+    "word_means": [
+      "n.汇编语言"
+    ],
+    "updatetime": "2023-01-26 18:51:51"
+  },
+  {
+    "word_name": "assembly",
+    "word_means": [
+      "n.装配; 集会; 议会; 立法机构; 会议; (统称)集会者; (全校师生的)晨会，朝会"
+    ],
+    "updatetime": "2023-01-26 18:51:21"
+  },
+  {
+    "word_name": "understandable",
+    "word_means": [
+      "adj.合情理的;正常的;可以理解的;易懂的"
+    ],
+    "updatetime": "2023-01-26 18:51:01"
+  },
+  {
+    "word_name": "trade-off",
+    "word_means": [
+      "n.权衡; (在需要而又相互对立的两者间的)协调"
+    ],
+    "updatetime": "2023-01-26 18:49:59"
+  },
+  {
+    "word_name": "in general",
+    "word_means": [
+      "一般（或总的）说来;在各方面;通常，在多数情况下;总的来说，总体上，大体上，从总体上看;（指某一群体的大多数）总的来说，总体上"
+    ],
+    "updatetime": "2023-01-26 13:49:08"
+  },
+  {
+    "word_name": "make sense",
+    "word_means": [
+      "(行为方式)有道理，合乎情理;可以理解;讲得通"
+    ],
+    "updatetime": "2023-01-26 13:43:42"
+  },
+  {
+    "word_name": "To make different common operations efficient, file systems employ many different data structures and access methods, from simple lists to complex b-trees.",
+    "word_means": [
+      "为了使不同的通用操作更高效，文件系统使用了许多不同的数据结构和访问方法，从简单列表到复杂的b树。"
+    ],
+    "updatetime": "2023-01-26 13:42:15"
+  },
+  {
+    "word_name": "employ",
+    "word_means": [
+      "vt.雇用;应用;运用;使用",
+      "n.雇用，受雇;服务;工作，职业"
+    ],
+    "updatetime": "2023-01-26 13:40:47"
+  },
+  {
+    "word_name": "afterwards",
+    "word_means": [
+      "adv.之后;后来;以后"
+    ],
+    "updatetime": "2023-01-26 13:40:19"
+  },
+  {
+    "word_name": "incorporate",
+    "word_means": [
+      "vt.合并;包含;将…包括在内;吸收;使并入;注册成立",
+      "adj.具体化了的;法定组织的;无形(体)的;精神上的"
+    ],
+    "updatetime": "2023-01-26 13:39:17"
+  },
+  {
+    "word_name": "batch",
+    "word_means": [
+      "n.一批;(食物、药物等)一批生产的量;批",
+      "v.分批处理"
+    ],
+    "updatetime": "2023-01-26 13:37:48"
+  },
+  {
+    "word_name": "atop",
+    "word_means": [
+      "prep.在…顶上",
+      "adv.在(…)顶上"
+    ],
+    "updatetime": "2023-01-26 13:34:49"
+  },
+  {
+    "word_name": "semantic",
+    "word_means": [
+      "adj.语义的"
+    ],
+    "updatetime": "2023-01-26 13:30:29"
+  },
+  {
+    "word_name": "semantics",
+    "word_means": [
+      "n.语义学;(单词、短语或其他符号系统的)含义"
+    ],
+    "updatetime": "2023-01-26 13:30:23"
+  },
+  {
+    "word_name": "intricate",
+    "word_means": [
+      "adj.错综复杂的"
+    ],
+    "updatetime": "2023-01-26 13:29:58"
+  },
+  {
+    "word_name": "on your behalf",
+    "word_means": [
+      "ON YOUR BEHALF          代表你"
+    ],
+    "updatetime": "2023-01-26 13:29:49"
+  },
+  {
+    "word_name": "issue",
+    "word_means": [
+      "n.问题;重要议题;(有关某事的)担忧;一期;期号;一次发行额（或一套）;发行;子女",
+      "vt.发出;宣布;公布;(正式)发给;供给;(尤指通过正式文件)将…诉诸法律;出版;发行（新的一批）"
+    ],
+    "updatetime": "2023-01-26 13:28:57"
+  },
+  {
+    "word_name": "underlying",
+    "word_means": [
+      "adj. 根本的,潜在的,隐含的,表面下的,下层的;",
+      "v. 构成…的基础,作为…的原因;",
+      "underlie的现在分词;"
+    ],
+    "updatetime": "2023-01-26 13:28:47"
+  },
+  {
+    "word_name": "Doing so requires issuing I/O requests to the underlying storage device,",
+    "word_means": [
+      "这样做需要向底层存储设备发出I/O请求，"
+    ],
+    "updatetime": "2023-01-26 13:28:42"
+  },
+  {
+    "word_name": "reside",
+    "word_means": [
+      "vi.居住在; 定居于"
+    ],
+    "updatetime": "2023-01-26 13:27:56"
+  },
+  {
+    "word_name": "figure out",
+    "word_means": [
+      "解决;算出;想出;理解;断定"
+    ],
+    "updatetime": "2023-01-26 13:27:38"
+  },
+  {
+    "word_name": "a fair bit of",
+    "word_means": [
+      "a fair bit of          不少的"
+    ],
+    "updatetime": "2023-01-26 13:27:06"
+  },
+  {
+    "word_name": "promise",
+    "word_means": [
+      "v.许诺;承诺;答应;保证;使很可能;预示",
+      "n.诺言;许诺;承诺;获得成功的迹象;吉兆;迹象"
+    ],
+    "updatetime": "2023-01-26 13:26:56"
+  },
+  {
+    "word_name": "in charge of",
+    "word_means": [
+      "负责看护；掌管；看管或经营；指导"
+    ],
+    "updatetime": "2023-01-26 13:21:14"
+  },
+  {
+    "word_name": "arena",
+    "word_means": [
+      "n.竞技场;圆形运动场;圆形剧场;斗争场所;竞争舞台;活动场所"
+    ],
+    "updatetime": "2023-01-26 12:48:26"
+  },
+  {
+    "word_name": "headway",
+    "word_means": [
+      "n.前（行）进，进展（步）;前进速度（运动）;（顶部）净空，净空高度;<主美>（前后两班车、船、飞机之间的）间隔时间，间隔距离"
+    ],
+    "updatetime": "2023-01-26 12:48:17"
+  },
+  {
+    "word_name": "go away",
+    "word_means": [
+      "离开;消失;离开（某地或某人）;外出（尤指度假）"
+    ],
+    "updatetime": "2023-01-26 12:47:21"
+  },
+  {
+    "word_name": "crash",
+    "word_means": [
+      "n.崩溃;碰撞;撞车;相撞;(倒下、破碎等突然的)碰撞声，破裂声，碎裂声;暴跌;倒闭;破产;失败",
+      "v.碰撞;撞击;(使)猛撞;使发出巨响;（突然）贬值，倒闭，失败;崩溃;（比赛中）溃败，惨败;入睡;心脏停止跳动",
+      "adj.应急的;速成的",
+      "adv.砰地一声"
+    ],
+    "updatetime": "2023-01-26 12:47:06"
+  },
+  {
+    "word_name": "volatile",
+    "word_means": [
+      "adj.不稳定的;易挥发的，易发散的;易变的，无定性的，无常性的;可能急剧波动的;易恶化的;暴躁的;爆发性的，爆炸性的;短暂的，片刻的;活泼的，轻快的，无忧虑的;易引起的;<计>易失的;<古>迅速游移的",
+      "n.<罕>有翅动物;易挥发物"
+    ],
+    "updatetime": "2023-01-26 12:15:35"
+  },
+  {
+    "word_name": "atomically",
+    "word_means": [
+      "atomically      adv.    利用原子能地"
+    ],
+    "updatetime": "2023-01-26 12:14:57"
+  },
+  {
+    "word_name": "outcome",
+    "word_means": [
+      "n.结果;效果"
+    ],
+    "updatetime": "2023-01-26 12:14:07"
+  },
+  {
+    "word_name": "odd",
+    "word_means": [
+      "adj.古怪的;奇怪的;怪异的;反常的;(某方面)怪异的;偶然出现的;偶尔发生的;不规律的",
+      "n.让转弱的对手从打球进一个洞的击球次数中减去一次击球"
+    ],
+    "updatetime": "2023-01-26 12:13:51"
+  },
+  {
+    "word_name": "primitives",
+    "word_means": [
+      "n.文艺复兴前的艺术家(或作品);原始派画家(或作品)",
+      "primitive的复数"
+    ],
+    "updatetime": "2023-01-26 12:11:26"
+  },
+  {
+    "word_name": "primitive",
+    "word_means": [
+      "adj.原始的; 远古的; 人类或动物发展早期的; 发展水平低的; 落后的; 原始本能的",
+      "n.文艺复兴前的艺术家(或作品); 原始派画家(或作品)"
+    ],
+    "updatetime": "2023-01-26 12:11:17"
+  },
+  {
+    "word_name": "transcript",
+    "word_means": [
+      "n.成绩单;抄本;誊本;打印本;学生成绩报告单"
+    ],
+    "updatetime": "2023-01-26 12:10:44"
+  },
+  {
+    "word_name": "exhibit",
+    "word_means": [
+      "v.展览;展出;表现，显示，显出(感情、品质或能力);",
+      "n.(一件)展览品，陈列品;(在法庭上出示的)物证，证据;"
+    ],
+    "updatetime": "2023-01-26 12:07:25"
+  },
+  {
+    "word_name": "exhibit the same problems",
+    "word_means": [
+      "表现出同样的问题"
+    ],
+    "updatetime": "2023-01-26 12:07:21"
+  },
+  {
+    "word_name": "smash",
+    "word_means": [
+      "v.粉碎;（哗啦一声）打碎，打破，破碎;压扁，压平，压碎;粉碎，使破灭;<口>使经济上失败，使破产;打高压球，猛扣;（轻而易举）打破（纪录）;<物>分裂（原子）;<旧>破产;（使）猛烈撞击，猛烈碰撞;（用力）撞开，击穿，闯过;捣毁;撞毁（车辆）",
+      "n.打碎;扣球，高压球;猛击，猛撞;破灭，垮台;斯马喜饮料;<口>轰动的演出，巨大的成功;破碎;破碎的哗啦声;撞车;十分走红的歌曲（或电影、戏剧）",
+      "adj.<口>轰动一时的，极为成功的",
+      "adv.轰然"
+    ],
+    "updatetime": "2023-01-26 12:06:32"
+  },
+  {
+    "word_name": "juggle",
+    "word_means": [
+      "v.变戏法; 玩杂耍(连续向空中抛接多个物体); 尽力同时应付(两个或两个以上的重要工作或活动); 有效地组织，有效利用(信息、数字、开支等)",
+      "n.耍花招; 变戏法"
+    ],
+    "updatetime": "2023-01-26 12:06:15"
+  },
+  {
+    "word_name": "whereas",
+    "word_means": [
+      "n.鉴于; 开场白; 条件性陈述",
+      "conj.(用以比较或对比两个事实)然而，但是，尽管; (用于正式文件中句子的开头)鉴于"
+    ],
+    "updatetime": "2023-01-26 10:04:04"
+  },
+  {
+    "word_name": "burn",
+    "word_means": [
+      "v.燃烧; 烧; 着火; 烧着; (使)烧毁，烧坏，烧伤，烧死; （使燃料）燃烧; （使）烧焦，烧煳; （使）晒伤，烫伤; 火辣辣地痛; 发光; 有强烈的情感; （向…）迅速移动; 激怒; 刻录（光盘等）",
+      "n.烧伤; 灼伤; 烫伤; 烧(或烫、灼)的痕迹; 酸痛感; 小河; 溪流"
+    ],
+    "updatetime": "2023-01-26 10:03:35"
+  },
+  {
+    "word_name": "blow",
+    "word_means": [
+      "v.吹; 刮; (被)刮动，吹动; 吹，吹奏（哨子、乐器等）; 擤（鼻子）; （向某人）送飞吻; 吹出（某物）; （使保险丝）熔化，烧断; 炸开; 泄露; （在某事物上）花大钱，挥霍; 浪费（机会）; 突然离开（某地）",
+      "n.(用手、武器等的)猛击; 打击; 挫折; 吹",
+      "int.表示厌烦"
+    ],
+    "updatetime": "2023-01-26 10:02:45"
+  },
+  {
+    "word_name": "utterly",
+    "word_means": [
+      "adv.完全地; 全然; 彻底地"
+    ],
+    "updatetime": "2023-01-26 10:02:39"
+  },
+  {
+    "word_name": "exploit",
+    "word_means": [
+      "vt.开发; 剥削; 发挥; 利用(…为自己谋利); 压榨; 运用",
+      "n.英勇(或激动人心、引人注目)的行为"
+    ],
+    "updatetime": "2023-01-26 10:01:48"
+  },
+  {
+    "word_name": "explode",
+    "word_means": [
+      "v.爆炸; 爆破; 爆裂; 勃然(大怒); 大发(雷霆); 突然发生(危险); 突然爆发，迸发(感情); 突然做起…来; 突然发出巨响; 突增; 推翻"
+    ],
+    "updatetime": "2023-01-26 10:01:43"
+  },
+  {
+    "word_name": "ring",
+    "word_means": [
+      "n.戒指; 指环; 环状物; 圈形的东西; 圆形标记; 圆形; 圆形表演场（或竞技场）; 炉口; 团伙，帮派，集团; 铃声; 钟声; 摇铃; 敲钟; 清晰的响声; (言语、声音等的)特性",
+      "v.包围; 环绕; 给…戴上金属环(以便将来辨认); 绕…画圆; 把…圈起来; 回响; 充满; 嗡嗡作响; 给…打电话; (使)发出钟声，响起铃声"
+    ],
+    "updatetime": "2023-01-26 10:01:10"
+  },
+  {
+    "word_name": "fella",
+    "word_means": [
+      "n.伙伴; 伙计; 小伙子; 哥儿们; 男朋友"
+    ],
+    "updatetime": "2023-01-26 10:00:09"
+  },
+  {
+    "word_name": "breadboard",
+    "word_means": [
+      "n.切面包板"
+    ],
+    "updatetime": "2023-01-26 09:59:30"
+  },
+  {
+    "word_name": "prototype",
+    "word_means": [
+      "n.原型; 雏形; 最初形态"
+    ],
+    "updatetime": "2023-01-26 09:58:44"
+  },
+  {
+    "word_name": "flash",
+    "word_means": [
+      "v.闪光; (使)闪耀; (向…)用光发出(信号); (快速地)显示; 飞速运动; 突然想到; （使）闪现，映出，显示; （通过无线电、计算机等）快速发送（信息）; 突然显露（强烈情感）",
+      "n.闪光; 闪耀; (尤指信号灯)闪亮; (想法的)突现; (情感的)突发; （明亮的东西）闪现; 闪光灯; 徽章，肩章，臂章; 彩条; Flash网站动画制作程序",
+      "adj.庞大的; 昂贵的; 穿着奢华的"
+    ],
+    "updatetime": "2023-01-26 09:58:38"
+  },
+  {
+    "word_name": "iteration",
+    "word_means": [
+      "n.迭代; (计算机)新版软件"
+    ],
+    "updatetime": "2023-01-26 09:58:24"
+  },
+  {
+    "word_name": "iterate",
+    "word_means": [
+      "vi.迭代(数学或计算过程，或一系列指令)"
+    ],
+    "updatetime": "2023-01-26 09:58:21"
+  },
+  {
+    "word_name": "literally",
+    "word_means": [
+      "adv.按字面; 字面上; (强调事实可能令人惊讶)真正地，确实地; (加强即使字面意义并不真实的词语)简直"
+    ],
+    "updatetime": "2023-01-26 09:58:11"
+  },
+  {
+    "word_name": "journey",
+    "word_means": [
+      "n.旅行; (尤指长途)行程",
+      "vi.(尤指长途)旅行"
+    ],
+    "updatetime": "2023-01-26 09:57:31"
+  },
+  {
+    "word_name": "circumstance",
+    "word_means": [
+      "n.条件; 环境; 状况; 境况; 境遇; (尤指)经济状况; 命运; 客观环境",
+      "vt.使处于某种特定的情况之下"
+    ],
+    "updatetime": "2023-01-26 09:57:23"
+  },
+  {
+    "word_name": "bless",
+    "word_means": [
+      "vt.祝福; 求上帝降福于; 祝圣; 称颂上帝; 赞美上帝; （表示惊奇）",
+      "int.(对他人所做之事表示喜爱)哎呀，太好啦，太谢谢了"
+    ],
+    "updatetime": "2023-01-26 09:56:43"
+  },
+  {
+    "word_name": "put it out",
+    "word_means": [
+      "摒弃在心门外"
+    ],
+    "updatetime": "2023-01-26 09:56:22"
+  },
+  {
+    "word_name": "put out",
+    "word_means": [
+      "扑灭; 关（灯）; 把…拿到外面; 添麻烦; 把击球员杀出局; （船）出航; 播出，制作，出版; 麻醉; 伸出; 努力做…以帮助",
+      "adj.恼怒的，烦乱的; 不安的，不高兴的"
+    ],
+    "updatetime": "2023-01-26 09:56:16"
+  },
+  {
+    "word_name": "incentive",
+    "word_means": [
+      "n.激励，鼓励，奖励; 刺激; 诱因，动机",
+      "adj.刺激（性）的; 鼓励（性）的;  奖励（性）的"
+    ],
+    "updatetime": "2023-01-26 09:55:49"
+  },
+  {
+    "word_name": "incense",
+    "word_means": [
+      "n.熏香; 香(尤指宗教礼仪用的)",
+      "vt.激怒; 使大怒"
+    ],
+    "updatetime": "2023-01-26 09:55:45"
+  },
+  {
+    "word_name": "adamant",
+    "word_means": [
+      "adj.坚定的; 坚定不移的; 坚决的",
+      "n.坚硬无比的东西; 硬石(指金刚石等)"
+    ],
+    "updatetime": "2023-01-26 09:55:18"
+  },
+  {
+    "word_name": "lay down the laws",
+    "word_means": [
+      "制定法律"
+    ],
+    "updatetime": "2023-01-26 09:54:45"
+  },
+  {
+    "word_name": "lay down",
+    "word_means": [
+      "放下; 制定; （通常指用完后 搁下; 规定; 颁布"
+    ],
+    "updatetime": "2023-01-26 09:54:36"
+  },
+  {
+    "word_name": "call up",
+    "word_means": [
+      "（给…）打电话; （陆、海、空军）征召…入伍; 选中（…参加运动队）"
+    ],
+    "updatetime": "2023-01-26 09:54:11"
+  },
+  {
+    "word_name": "get wind of",
+    "word_means": [
+      "听到…的风声"
+    ],
+    "updatetime": "2023-01-26 09:54:04"
+  },
+  {
+    "word_name": "consort",
+    "word_means": [
+      "n.(统治者的)配偶; 一组(演奏几世纪前音乐的乐师)",
+      "vi.厮混; 鬼混"
+    ],
+    "updatetime": "2023-01-26 09:52:36"
+  },
+  {
+    "word_name": "consortium",
+    "word_means": [
+      "n.联盟; (合作进行某项工程的)财团，银团，联营企业"
+    ],
+    "updatetime": "2023-01-26 09:52:29"
+  },
+  {
+    "word_name": "tune",
+    "word_means": [
+      "n.曲调; 曲子",
+      "vt.(为乐器)调音，校音; 调整，调节(发动机); (给收音机、电视等)调谐，调频道; 调整"
+    ],
+    "updatetime": "2023-01-26 09:50:58"
+  },
+  {
+    "word_name": "vendor",
+    "word_means": [
+      "n.小贩; 摊贩; (某种产品的)销售公司; (房屋等的)卖主"
+    ],
+    "updatetime": "2023-01-26 09:50:53"
+  },
+  {
+    "word_name": "proprietary",
+    "word_means": [
+      "adj.专有的; 专利的; 专卖的; 专营的; 所有的; 所有权的",
+      "n.所有权; 所有物; 所有人; 专卖药品; 独家制造（及销售）的产品"
+    ],
+    "updatetime": "2023-01-26 09:48:20"
+  },
+  {
+    "word_name": "entrant",
+    "word_means": [
+      "n.参赛者(或动物); 新职员; 新生; 新会员; 新成员; 考生"
+    ],
+    "updatetime": "2023-01-26 09:47:48"
+  },
+  {
+    "word_name": "flew",
+    "word_means": [
+      "v.飞; 飞翔; (在空中或宇宙)飞行，航行; (乘飞行器或航天器)航行，飞行",
+      "fly的过去式"
+    ],
+    "updatetime": "2023-01-26 09:47:08"
+  },
+  {
+    "word_name": "fly over",
+    "word_means": [
+      "飞过; 飞到另一个地方去"
+    ],
+    "updatetime": "2023-01-26 09:47:02"
+  },
+  {
+    "word_name": "bake-off",
+    "word_means": [
+      "食神大赛; 烘烤大赛; 烘焙大赛; 食品烘烤比赛"
+    ],
+    "updatetime": "2023-01-26 09:46:23"
+  },
+  {
+    "word_name": "cousin",
+    "word_means": [
+      "n.表妹; 同辈表亲(或堂亲); 堂兄(或弟、姊、妹); 表兄(或弟、姊、妹); 远房亲戚; 远亲; 兄弟的…国人民(对与本民族有某些类似的另一国家人民的说法)"
+    ],
+    "updatetime": "2023-01-26 09:45:07"
+  },
+  {
+    "word_name": "engagement",
+    "word_means": [
+      "n.订婚; 订婚期间; (尤指正式的或与工作有关的)约定，约会，预约; 战斗; 交战; （与…的）密切关系; 雇用"
+    ],
+    "updatetime": "2023-01-26 09:43:23"
+  },
+  {
+    "word_name": "fundamentally",
+    "word_means": [
+      "adv.(引入话题时说)从根本上说，基本上; (表示最重要的方面)根本上; 完全地"
+    ],
+    "updatetime": "2023-01-26 09:43:16"
+  },
+  {
+    "word_name": "brag",
+    "word_means": [
+      "v.吹嘘; 自吹自擂",
+      "n.勃莱格牌戏(简化的扑克牌戏)",
+      "adj.第一流的; 极好的; 活泼的"
+    ],
+    "updatetime": "2023-01-26 09:42:33"
+  },
+  {
+    "word_name": "stale",
+    "word_means": [
+      "adj.不新鲜的; 陈腐的; (空气)污浊的; (烟味)难闻的; 没有新意的; 老掉牙的; 厌倦的，腻烦的",
+      "n.（牛马、骆驼的）尿",
+      "v.使陈旧；使没有味道；用坏；变陈旧"
+    ],
+    "updatetime": "2023-01-26 09:42:05"
+  },
+  {
+    "word_name": "amongst",
+    "word_means": [
+      "prep.在; 同 among; （表示范围）在…之内; （表示位置）处在…中"
+    ],
+    "updatetime": "2023-01-26 09:40:35"
+  },
+  {
+    "word_name": "quote",
+    "word_means": [
+      "v.引用; 报价; 引述; 举例说明; 开价; 出价; 为报价; 为（企业的股份）上市，挂牌",
+      "n.引用"
+    ],
+    "updatetime": "2023-01-26 09:38:36"
+  },
+  {
+    "word_name": "scramble",
+    "word_means": [
+      "v.(迅速而吃力地)爬，攀登; 争抢; 抢占; 争夺; 艰难地(或仓促地)完成; 炒（蛋）; 扰码，倒频; 扰乱（思维）; 命令（飞机）紧急起飞",
+      "n.(尤指需要手脚并用的)艰难行走，爬，攀登; 争抢; 抢占; 争夺; 摩托车越野赛"
+    ],
+    "updatetime": "2023-01-26 09:38:11"
+  },
+  {
+    "word_name": "hassle",
+    "word_means": [
+      "n.困难; 麻烦; 分歧; 争论; 烦恼",
+      "vt.(不断)烦扰，麻烦"
+    ],
+    "updatetime": "2023-01-26 09:35:54"
+  },
+  {
+    "word_name": "voila",
+    "word_means": [
+      "int.<法>那就是，瞧（表示事情成功或满意之感叹词用语）"
+    ],
+    "updatetime": "2023-01-26 09:35:10"
+  },
+  {
+    "word_name": "hiatus",
+    "word_means": [
+      "n.间歇; 间断; 空隙; 停滞; (尤指文章或说话中的)缺漏，漏字，漏句"
+    ],
+    "updatetime": "2023-01-26 09:33:41"
+  },
+  {
+    "word_name": "warship",
+    "word_means": [
+      "n.军舰; 舰艇"
+    ],
+    "updatetime": "2023-01-26 09:28:54"
+  },
+  {
+    "word_name": "burst",
+    "word_means": [
+      "v.爆发; (使)爆裂，胀开; 猛冲; 突然出现; 爆满; 涨满",
+      "n.突发; 爆裂; 迸发; 爆破; 猝发; 裂口; 一阵短促的射击"
+    ],
+    "updatetime": "2023-01-26 09:28:27"
+  },
+  {
+    "word_name": "exponential",
+    "word_means": [
+      "adj.指数的; 幂的; 由指数表示的; 越来越快的",
+      "n.指数"
+    ],
+    "updatetime": "2023-01-26 09:24:46"
+  }
+]
