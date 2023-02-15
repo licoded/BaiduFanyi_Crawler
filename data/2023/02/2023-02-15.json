@@ -1,0 +1,104 @@
+[
+  {
+    "word_name": "calculus",
+    "word_means": [
+      "n.微积分"
+    ],
+    "updatetime": "2023-02-15 08:57:51"
+  },
+  {
+    "word_name": "calculate",
+    "word_means": [
+      "vt.计算; 核算; 预测; 推测"
+    ],
+    "updatetime": "2023-02-15 08:57:47"
+  },
+  {
+    "word_name": "calculation",
+    "word_means": [
+      "n.计算; 估计; 预测; 推测; 算计; 自私的打算"
+    ],
+    "updatetime": "2023-02-15 08:57:43"
+  },
+  {
+    "word_name": "acyclic",
+    "word_means": [
+      "adj.非周期的;非循环的;无环的;非环状的"
+    ],
+    "updatetime": "2023-02-15 08:54:02"
+  },
+  {
+    "word_name": "cyclic",
+    "word_means": [
+      "adj.循环的;周期的"
+    ],
+    "updatetime": "2023-02-15 08:53:58"
+  },
+  {
+    "word_name": "federal",
+    "word_means": [
+      "adj.联邦的; 联邦制的; (在美国、加拿大等联邦制下)联邦政府的",
+      "n.联邦主义者; 同盟盟友"
+    ],
+    "updatetime": "2023-02-15 08:47:00"
+  },
+  {
+    "word_name": "enrollment",
+    "word_means": [
+      "n.注册;登记;入会（学）;注册人数;入伍;参加"
+    ],
+    "updatetime": "2023-02-15 08:37:38"
+  },
+  {
+    "word_name": "salary",
+    "word_means": [
+      "n.薪水;薪金(尤指按月发放的)",
+      "v.付…薪水"
+    ],
+    "updatetime": "2023-02-15 08:35:36"
+  },
+  {
+    "word_name": "payroll",
+    "word_means": [
+      "n.(公司员工的)工资名单;(公司的)工资总支出"
+    ],
+    "updatetime": "2023-02-15 08:34:09"
+  },
+  {
+    "word_name": "roll",
+    "word_means": [
+      "n.卷;卷轴;一管;小面包条;小圆面包;翻滚;摇晃;脂肪堆积的部位，肥胖的部位（尤指腰部）;花名册;隆隆声;掷骰子",
+      "v.(使)翻滚，滚动;(使)原地转圈，原地打转;(使)翻身，翻转;使…成球状（或管状）;把（衣服的边）卷起来;使平坦;（用某物）包裹，覆盖;（使）摇摆，摇晃;发出持续的声音;启动"
+    ],
+    "updatetime": "2023-02-15 08:34:02"
+  },
+  {
+    "word_name": "scalar",
+    "word_means": [
+      "adj.纯量的; 标量的; 无向量的",
+      "n.数量，标量"
+    ],
+    "updatetime": "2023-02-15 08:21:37"
+  },
+  {
+    "word_name": "equipment",
+    "word_means": [
+      "n.设备;器材;配备;装备"
+    ],
+    "updatetime": "2023-02-15 08:18:37"
+  },
+  {
+    "word_name": "elevate",
+    "word_means": [
+      "vt.提升; 提高; 抬起; 提拔; 晋升(到不应有的位置); 举起; 使升高; 使情绪高昂"
+    ],
+    "updatetime": "2023-02-15 08:07:25"
+  },
+  {
+    "word_name": "elevation",
+    "word_means": [
+      "n.高程;提升;提拔;晋级;(某地方的)高度;(尤指)海拔;高地;高处;（建筑物的）立面（图），立视图;（水平或数量）提高，升高，增加"
+    ],
+    "updatetime": "2023-02-15 08:07:21"
+  }
+]
