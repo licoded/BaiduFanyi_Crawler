@@ -1,0 +1,83 @@
+[
+  {
+    "word_name": "theory",
+    "word_means": [
+      "n.学说;论;说;理论;原理;原则;(未证明的)意见;看法;推测"
+    ],
+    "updatetime": "2023-02-19 14:54:40"
+  },
+  {
+    "word_name": "theorem",
+    "word_means": [
+      "n.(尤指数学)定理"
+    ],
+    "updatetime": "2023-02-19 14:54:36"
+  },
+  {
+    "word_name": "contradiction",
+    "word_means": [
+      "n.矛盾;(事实、看法、行动等的)不一致;对立;反驳;驳斥"
+    ],
+    "updatetime": "2023-02-19 14:45:42"
+  },
+  {
+    "word_name": "tautology",
+    "word_means": [
+      "n.同义反复;赘述"
+    ],
+    "updatetime": "2023-02-19 14:45:10"
+  },
+  {
+    "word_name": "athlete",
+    "word_means": [
+      "n.运动员;田径运动员;擅长运动的人;健儿"
+    ],
+    "updatetime": "2023-02-19 11:31:32"
+  },
+  {
+    "word_name": "obsolete",
+    "word_means": [
+      "adj.淘汰的;废弃的;过时的",
+      "vt.淘汰;废弃"
+    ],
+    "updatetime": "2023-02-19 11:31:26"
+  },
+  {
+    "word_name": "consecutive",
+    "word_means": [
+      "adj.连续的;连续不断的"
+    ],
+    "updatetime": "2023-02-19 11:29:30"
+  },
+  {
+    "word_name": "correspond",
+    "word_means": [
+      "vi.相一致;符合;类似于;相当于;通信"
+    ],
+    "updatetime": "2023-02-19 08:09:54"
+  },
+  {
+    "word_name": "parallel",
+    "word_means": [
+      "adj.平行的;极相似的;同时发生的;相应的;对应的;并行的",
+      "n.(尤指不同地点或时间的)极其相似的人(或情况、事件等);相似特征;相似特点;(地球或地图的)纬线，纬圈",
+      "vt.与…相似;与…同时发生;与…媲美;比得上",
+      "adv.平行地，并列地"
+    ],
+    "updatetime": "2023-02-19 08:04:49"
+  },
+  {
+    "word_name": "几何学",
+    "word_means": [
+      "geometry"
+    ],
+    "updatetime": "2023-02-19 08:04:14"
+  },
+  {
+    "word_name": "successor",
+    "word_means": [
+      "n.继承人;继任者;接替者;接替的事物;后继的事物"
+    ],
+    "updatetime": "2023-02-19 08:03:45"
+  }
+]
