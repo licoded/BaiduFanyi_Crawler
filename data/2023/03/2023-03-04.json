@@ -1,0 +1,55 @@
+[
+  {
+    "word_name": "nonstop",
+    "word_means": [
+      "adj.不停的;不间断的;直达的;",
+      "adv.不停地;",
+      "n.直达列车[公共汽车];"
+    ],
+    "updatetime": "2023-03-04 18:23:21"
+  },
+  {
+    "word_name": "refrain",
+    "word_means": [
+      "vi. 抑制,避免,克制,节制;",
+      "n. 经常重复的评价(或抱怨),副歌,迭歌,迭句;"
+    ],
+    "updatetime": "2023-03-04 10:06:27"
+  },
+  {
+    "word_name": "reserve",
+    "word_means": [
+      "n. 储备(量),储藏(量),(动植物)保护区,自然保护区,内向,寡言少语,矜持,谨慎,替补队员,替补队,预备役部队,（尤指拍卖中的）底价，最低价;",
+      "vt. 保留,预订，预约(座位、席位、房间等),贮备,拥有，保持，保留(某种权利);"
+    ],
+    "updatetime": "2023-03-04 10:06:09"
+  },
+  {
+    "word_name": "subsequent",
+    "word_means": [
+      "adj.后来的; 随后的; 之后的; 接后的"
+    ],
+    "updatetime": "2023-03-04 09:28:58"
+  },
+  {
+    "word_name": "subsequence",
+    "word_means": [
+      "n.接续; 紧随…之后; 随后发生的事情; 后果"
+    ],
+    "updatetime": "2023-03-04 09:28:50"
+  },
+  {
+    "word_name": "substring",
+    "word_means": [
+      "求子串; 子字串; 取子串; 截取子串; 取子字符串"
+    ],
+    "updatetime": "2023-03-04 09:28:41"
+  },
+  {
+    "word_name": "sequential files",
+    "word_means": [
+      "顺序文件"
+    ],
+    "updatetime": "2023-03-04 09:28:25"
+  }
+]
