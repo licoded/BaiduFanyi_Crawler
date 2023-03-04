@@ -54,16 +54,24 @@ const dict2means = (dict) => {
 //   return { word_name, word_means, updatetime };
 // };
 
+const parsePhonetic = (dictjson) => {
+  if(!dictjson) return {};
+  const { symbols } = JSON.parse(dictjson).simple_means;
+  const { ph_en, ph_am } = symbols[0];
+  return { ph_en, ph_am };
+}
+
 const parseWordItem = (rawData) => {
   const {
     fanyisrc: word_name,
     dict,
+    dictjson,
     fanyidst,
     updatetime,
   } = JSON.parse(JSON.stringify(rawData));
   const _means = dict2means(dict).filter((item) => item !== "");
   const word_means = _means.length > 0 ? _means : [].concat(fanyidst);
-  return { word_name, word_means, updatetime };
+  return { word_name, word_means, updatetime, ...parsePhonetic(dictjson) };
 };
 
 const getCollectionPage = async (page = 1, pagesize = 30) => {
