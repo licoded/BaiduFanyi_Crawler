@@ -1,0 +1,25 @@
+[
+  {
+    "word_name": "integrate",
+    "word_means": [
+      "v. 整合,(使)合并，成为一体,(使)加入，融入群体;",
+      "adj. 完全的;"
+    ],
+    "updatetime": "2023-03-07 20:48:11"
+  },
+  {
+    "word_name": "integral",
+    "word_means": [
+      "adj. 完整的,不可或缺的,必需的,作为组成部分的,完备的;",
+      "n. 积分,整体;"
+    ],
+    "updatetime": "2023-03-07 20:48:05"
+  },
+  {
+    "word_name": "contiguous",
+    "word_means": [
+      "adj. 相接的,相邻的"
+    ],
+    "updatetime": "2023-03-07 20:43:21"
+  }
+]
