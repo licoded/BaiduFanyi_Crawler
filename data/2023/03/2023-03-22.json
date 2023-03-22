@@ -1,0 +1,39 @@
+[
+  {
+    "word_name": "The binomial coefficient",
+    "word_means": [
+      "二项式系数"
+    ],
+    "updatetime": "2023-03-22 08:18:29"
+  },
+  {
+    "word_name": "binomial",
+    "word_means": [
+      "n.二项式;双名词组(由and连接的一对名词，两个名词的前后顺序不变，如knifeandfork)",
+      "adj.二项的，二项式的"
+    ],
+    "updatetime": "2023-03-22 08:18:23"
+  },
+  {
+    "word_name": "floor",
+    "word_means": [
+      "n.地板;地面;(车厢内的)底板;楼层;（海等的）底;议员席;（建筑物内的）场地;（工资或物价的）最低额，底价",
+      "vt.使惊奇;使困惑;(尤指体育运动中)击倒，打倒;给…安装地板;给…铺设地面"
+    ],
+    "updatetime": "2023-03-22 08:03:26"
+  },
+  {
+    "word_name": "ceil",
+    "word_means": [
+      "v.装天花板；装壁板；装隔板"
+    ],
+    "updatetime": "2023-03-22 08:03:21"
+  },
+  {
+    "word_name": "monotonicity",
+    "word_means": [
+      "n.单调性；单一性；无变化"
+    ],
+    "updatetime": "2023-03-22 08:02:46"
+  }
+]
