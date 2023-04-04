@@ -1,0 +1,633 @@
+[
+  {
+    "word_name": "literature",
+    "word_means": [
+      "n.文学;文学作品;(某学科的)文献，著作，资料"
+    ],
+    "updatetime": "2023-04-04 20:35:26"
+  },
+  {
+    "word_name": "multiplier",
+    "word_means": [
+      "n.乘数;倍数"
+    ],
+    "updatetime": "2023-04-04 20:34:36"
+  },
+  {
+    "word_name": "sequential",
+    "word_means": [
+      "adj.连续的;顺序的，按次序的;相继的;序列的;作为结果产生的，随之而来的;（避孕丸）按期服用以消除副作用的"
+    ],
+    "updatetime": "2023-04-04 20:34:24"
+  },
+  {
+    "word_name": "substantial",
+    "word_means": [
+      "adj.大量的;价值巨大的;重大的;大而坚固的;结实的;牢固的",
+      "n.本质;重要材料"
+    ],
+    "updatetime": "2023-04-04 20:34:16"
+  },
+  {
+    "word_name": "successive",
+    "word_means": [
+      "adj.连续的; 接连的; 相继的"
+    ],
+    "updatetime": "2023-04-04 20:34:09"
+  },
+  {
+    "word_name": "decompose",
+    "word_means": [
+      "v.(使)分解;腐烂"
+    ],
+    "updatetime": "2023-04-04 20:34:02"
+  },
+  {
+    "word_name": "derive from",
+    "word_means": [
+      "源于"
+    ],
+    "updatetime": "2023-04-04 20:32:25"
+  },
+  {
+    "word_name": "derive",
+    "word_means": [
+      "v. 得到,获得,取得,(使)起源,(使)产生"
+    ],
+    "updatetime": "2023-04-04 20:32:13"
+  },
+  {
+    "word_name": "refine",
+    "word_means": [
+      "vt.精炼;提纯;去除杂质;改进;改善;使精练"
+    ],
+    "updatetime": "2023-04-04 20:26:38"
+  },
+  {
+    "word_name": "refined",
+    "word_means": [
+      "adj.精炼的;精制的;精炼的;提纯的;有礼貌的;优雅的;有教养的",
+      "v.精炼;提纯;去除杂质;改进;改善;使精练",
+      "refine的过去分词和过去式"
+    ],
+    "updatetime": "2023-04-04 20:26:35"
+  },
+  {
+    "word_name": "activation",
+    "word_means": [
+      "n.触发；开（驱，起，启）动;开（驱，起，启）动；触发"
+    ],
+    "updatetime": "2023-04-04 20:25:22"
+  },
+  {
+    "word_name": "Linear Programming",
+    "word_means": [
+      "线性规划;线性规划问题;线性规划法;线性优化"
+    ],
+    "updatetime": "2023-04-04 20:23:39"
+  },
+  {
+    "word_name": "amenable",
+    "word_means": [
+      "adj.易控制的;顺从的;顺服的;可用某种方式处理的"
+    ],
+    "updatetime": "2023-04-04 20:12:33"
+  },
+  {
+    "word_name": "feasible",
+    "word_means": [
+      "adj.可行的;行得通的"
+    ],
+    "updatetime": "2023-04-04 20:10:42"
+  },
+  {
+    "word_name": "conservative",
+    "word_means": [
+      "adj.保守的;守旧的;(英国)保守党的;低于实际数量的",
+      "n.(英国)保守党党员，保守党支持者;保守者;因循守旧者"
+    ],
+    "updatetime": "2023-04-04 20:10:21"
+  },
+  {
+    "word_name": "adopt",
+    "word_means": [
+      "v.采用(某方法);收养;领养;采取(某态度);正式通过，表决采纳(建议、政策等);选用（名字等）;选定，选举"
+    ],
+    "updatetime": "2023-04-04 20:07:54"
+  },
+  {
+    "word_name": "adapt",
+    "word_means": [
+      "v.适应(新情况);改编;使适合(新用途、新情况);改写"
+    ],
+    "updatetime": "2023-04-04 20:07:41"
+  },
+  {
+    "word_name": "synthesis",
+    "word_means": [
+      "n.(物质在动植物体内的)合成;综合;结合;综合体"
+    ],
+    "updatetime": "2023-04-04 19:59:32"
+  },
+  {
+    "word_name": "auditor",
+    "word_means": [
+      "n.审核员;审计员;稽核员;(大学课程的)旁听生"
+    ],
+    "updatetime": "2023-04-04 19:58:24"
+  },
+  {
+    "word_name": "synthesize",
+    "word_means": [
+      "vt.(通过化学手段或生物过程)合成;综合"
+    ],
+    "updatetime": "2023-04-04 19:57:13"
+  },
+  {
+    "word_name": "accurate",
+    "word_means": [
+      "adj.精确的;正确无误的;准确的(掷、射、击等)"
+    ],
+    "updatetime": "2023-04-04 19:50:40"
+  },
+  {
+    "word_name": "justified",
+    "word_means": [
+      "adj.正当的;(做某事)有正当理由的;事出有因;合乎情理",
+      "v.证明…正确(或正当、有理);对…作出解释;为…辩解(或辩护);调整使全行排满;使每行排齐;使齐行",
+      "justify的过去分词和过去式"
+    ],
+    "updatetime": "2023-04-04 19:50:34"
+  },
+  {
+    "word_name": "mine",
+    "word_means": [
+      "pron.矿;我的",
+      "n.矿井;矿;地雷;水雷",
+      "v.(在某地)开矿，采矿;埋雷于;布雷于;用雷炸毁(车辆)"
+    ],
+    "updatetime": "2023-04-04 18:42:12"
+  },
+  {
+    "word_name": "innovation",
+    "word_means": [
+      "n.(新事物、思想或方法的)创造; 创新; 改革; 新思想; 新方法"
+    ],
+    "updatetime": "2023-04-04 16:22:00"
+  },
+  {
+    "word_name": "original",
+    "word_means": [
+      "adj.起初的;原来的;最早的;首创的;独创的;有独创性的;原作的;真迹的;非复制的",
+      "n.原件;正本;原稿;原作;(思想、行为、衣着等)不同寻常的人，独特的人，怪人"
+    ],
+    "updatetime": "2023-04-04 10:16:17"
+  },
+  {
+    "word_name": "retain",
+    "word_means": [
+      "vt.保持;保留;持有;继续拥有;继续容纳;聘请(律师等)"
+    ],
+    "updatetime": "2023-04-04 10:16:06"
+  },
+  {
+    "word_name": "temporal",
+    "word_means": [
+      "adj.世俗的;时间的;世间的;现世的;太阳穴的;颞的",
+      "n.颞骨[肌,动脉等];太阳穴;世俗的权力;一时的事物"
+    ],
+    "updatetime": "2023-04-04 10:15:45"
+  },
+  {
+    "word_name": "uninterpretable",
+    "word_means": [
+      "uninterpretable          无法解释的;可译的"
+    ],
+    "updatetime": "2023-04-04 10:15:35"
+  },
+  {
+    "word_name": "safety-critical",
+    "word_means": [
+      "安全关键;安全苛求;安全关键性;关键安全性"
+    ],
+    "updatetime": "2023-04-04 10:15:05"
+  },
+  {
+    "word_name": "intractable",
+    "word_means": [
+      "adj.棘手的;很难对付(或处理)的"
+    ],
+    "updatetime": "2023-04-04 10:14:38"
+  },
+  {
+    "word_name": "premier",
+    "word_means": [
+      "n.总理; (尤用于报章等)首相; (加拿大的)省总理; 地区总理",
+      "adj.首要的; 最著名的; 最成功的; 第一的"
+    ],
+    "updatetime": "2023-04-04 10:12:56"
+  },
+  {
+    "word_name": "ground-truth",
+    "word_means": [
+      "基本事实,地面校正"
+    ],
+    "updatetime": "2023-04-04 09:54:57"
+  },
+  {
+    "word_name": "manifestation",
+    "word_means": [
+      "n. 显示,表明,表示,(幽灵的)显现，显灵"
+    ],
+    "updatetime": "2023-04-04 09:53:52"
+  },
+  {
+    "word_name": "manifest",
+    "word_means": [
+      "vt. 显示,显现,表明,清楚显示(尤指情感、态度或品质),使人注意到;",
+      "adj. 明显的;",
+      "n. (船或飞机的)货单,旅客名单;"
+    ],
+    "updatetime": "2023-04-04 09:53:47"
+  },
+  {
+    "word_name": "edge",
+    "word_means": [
+      "n. 边,边线,边沿,刀口,刀刃,利刃,(尤指灾难的)边缘,（微弱的）优势,锐利,尖刻的声调,有…边的;",
+      "v. (使)徐徐移动，渐渐移动,给…加边,略为增加(或减少);"
+    ],
+    "updatetime": "2023-04-04 09:52:24"
+  },
+  {
+    "word_name": "competitive edge",
+    "word_means": [
+      "竞争优势"
+    ],
+    "updatetime": "2023-04-04 09:52:15"
+  },
+  {
+    "word_name": "mutation",
+    "word_means": [
+      "n. 突变,(生物物种的)变异,(形式或结构的)转变,改变"
+    ],
+    "updatetime": "2023-04-04 09:51:22"
+  },
+  {
+    "word_name": "prevail",
+    "word_means": [
+      "vi. 流行,盛行,战胜,普遍存在,被接受,压倒,(尤指长时间斗争后)战胜，挫败"
+    ],
+    "updatetime": "2023-04-04 09:39:42"
+  },
+  {
+    "word_name": "prevalent",
+    "word_means": [
+      "adj. 流行的,盛行的,普遍存在的"
+    ],
+    "updatetime": "2023-04-04 09:39:37"
+  },
+  {
+    "word_name": "advertisement",
+    "word_means": [
+      "n. 广告,启事,广告(样)品,广告活动,广告宣传"
+    ],
+    "updatetime": "2023-04-04 09:39:18"
+  },
+  {
+    "word_name": "advert",
+    "word_means": [
+      "v. 注意;",
+      "n. 广告,宣传,(电视上的)广告时间;",
+      "vi. 引起注意,提到;"
+    ],
+    "updatetime": "2023-04-04 09:39:14"
+  },
+  {
+    "word_name": "calibration",
+    "word_means": [
+      "n. 标定,校准,(温度计或其他仪表上的)刻度"
+    ],
+    "updatetime": "2023-04-04 09:24:39"
+  },
+  {
+    "word_name": "calibrate",
+    "word_means": [
+      "vt. 校准,标定(刻度，以使测量准确)"
+    ],
+    "updatetime": "2023-04-04 09:24:36"
+  },
+  {
+    "word_name": "execution",
+    "word_means": [
+      "n. 处决,实行,执行,实施,表演,(乐曲的)演奏,(艺术品的)制作,（尤指遗嘱的）执行"
+    ],
+    "updatetime": "2023-04-04 09:24:33"
+  },
+  {
+    "word_name": "oracle",
+    "word_means": [
+      "n. 神谕,(古希腊的)神示所,(传达神谕的)牧师,女祭司,(古希腊常有隐含意义的)神示,能提供宝贵信息的人(或书),权威,智囊"
+    ],
+    "updatetime": "2023-04-04 09:24:27"
+  },
+  {
+    "word_name": "cluster",
+    "word_means": [
+      "n. (同类物丛生或聚集的)簇，团，束，串,(人或动物的)群，组,辅音丛,辅音连缀;",
+      "vi. 群聚,聚集;"
+    ],
+    "updatetime": "2023-04-04 09:24:16"
+  },
+  {
+    "word_name": "Continuous Deployment",
+    "word_means": [
+      "持续部署"
+    ],
+    "updatetime": "2023-04-04 09:11:27"
+  },
+  {
+    "word_name": "Continuous Delivery",
+    "word_means": [
+      "配水系统；连续输水（灌溉）"
+    ],
+    "updatetime": "2023-04-04 09:11:20"
+  },
+  {
+    "word_name": "Continuous Integration",
+    "word_means": [
+      "持续集成,持续整合"
+    ],
+    "updatetime": "2023-04-04 09:11:02"
+  },
+  {
+    "word_name": "shaver",
+    "word_means": [
+      "n.(电动)剃须刀"
+    ],
+    "updatetime": "2023-04-04 07:36:54"
+  },
+  {
+    "word_name": "murder",
+    "word_means": [
+      "n.谋杀;凶杀;困难的事;讨厌的事",
+      "vt.谋杀;凶杀;糟蹋;毁坏;弄坏;(尤指在团队运动中)彻底打败，打垮"
+    ],
+    "updatetime": "2023-04-04 07:36:42"
+  },
+  {
+    "word_name": "recover",
+    "word_means": [
+      "v.恢复;康复;复原;追回;痊愈;全额收回;找回;赢回",
+      "n.恢复开始时姿势"
+    ],
+    "updatetime": "2023-04-04 07:35:03"
+  },
+  {
+    "word_name": "apprehend",
+    "word_means": [
+      "vt.逮捕;理解;领会;拘押;认识到"
+    ],
+    "updatetime": "2023-04-04 07:34:42"
+  },
+  {
+    "word_name": "trickle",
+    "word_means": [
+      "n.涓涓细流;涓流;细流;稀稀疏疏缓慢来往的东西",
+      "v.(使)滴，淌，小股流淌;(使)慢慢走，缓慢移动"
+    ],
+    "updatetime": "2023-04-04 07:33:45"
+  },
+  {
+    "word_name": "hatred",
+    "word_means": [
+      "n.仇恨;憎恨;厌恶"
+    ],
+    "updatetime": "2023-04-04 07:33:31"
+  },
+  {
+    "word_name": "weapon",
+    "word_means": [
+      "n.武器;兵器;凶器;手段，工具(指用作攻击或斗争的知识、言语、行动等)",
+      "vi.武装;提供武器"
+    ],
+    "updatetime": "2023-04-04 07:33:07"
+  },
+  {
+    "word_name": "conscious",
+    "word_means": [
+      "adj.有意识的; 意识到; 注意到; 神志清醒的; 有知觉的; 慎重的; 有意的; 刻意的; 特别感兴趣的"
+    ],
+    "updatetime": "2023-04-04 07:18:00"
+  },
+  {
+    "word_name": "conscience",
+    "word_means": [
+      "n.良心; 良知; 内疚; 愧疚; 凭良心"
+    ],
+    "updatetime": "2023-04-04 07:17:54"
+  },
+  {
+    "word_name": "tribe",
+    "word_means": [
+      "n.部落;(尤指同一职业的)一伙(人)，一帮(人)，一类(人);(动物或植物的)群，族;大群，大帮，大批（人）"
+    ],
+    "updatetime": "2023-04-04 07:17:40"
+  },
+  {
+    "word_name": "quarantine",
+    "word_means": [
+      "n.(为防传染的)隔离期;检疫",
+      "vt.(对动物或人)进行检疫，隔离"
+    ],
+    "updatetime": "2023-04-04 07:15:23"
+  },
+  {
+    "word_name": "dispute",
+    "word_means": [
+      "n.争端;纠纷;争论;辩论",
+      "v.争论;争执;对…提出质询;对…表示异议(或怀疑);辩论;争夺;竞争"
+    ],
+    "updatetime": "2023-04-04 07:09:32"
+  },
+  {
+    "word_name": "detach",
+    "word_means": [
+      "v.拆卸;(使)分开，脱离;挣脱;摆脱;离开;派遣;分遣;分派"
+    ],
+    "updatetime": "2023-04-04 07:09:08"
+  },
+  {
+    "word_name": "discharge",
+    "word_means": [
+      "v.准许(某人)离开;解雇;释放;排出;放出;流出;发（力）;尽（职）;射出",
+      "n.排出(物);放出(物);流出(物);获准离开;免职;出院;退伍;(任务或职责的)履行，执行;(债务的)清偿"
+    ],
+    "updatetime": "2023-04-04 07:08:59"
+  },
+  {
+    "word_name": "parcel",
+    "word_means": [
+      "n.包裹; 小包; 一块地; 一片地",
+      "vt.包; 裹好; 打包"
+    ],
+    "updatetime": "2023-04-04 07:06:26"
+  },
+  {
+    "word_name": "fuse",
+    "word_means": [
+      "n.保险丝;熔断器;导火线;导火索;引信;信管;雷管",
+      "v.(使)融合，熔接，结合;(使)熔化;(使保险丝熔断而)停止工作;在（电路或电器）中安装保险丝"
+    ],
+    "updatetime": "2023-04-04 07:06:22"
+  },
+  {
+    "word_name": "skeleton",
+    "word_means": [
+      "n.骨骼;骨架;骨骼标本;骨瘦如柴的人(或动物);(建筑物等的)骨架，框架;梗概;最少人员，基干人员",
+      "adj.骨瘦如柴的;(计划,组织或结构等)基本的"
+    ],
+    "updatetime": "2023-04-04 07:06:18"
+  },
+  {
+    "word_name": "terrify",
+    "word_means": [
+      "vt.使十分害怕;使恐惧;使惊吓"
+    ],
+    "updatetime": "2023-04-04 07:06:03"
+  },
+  {
+    "word_name": "threaten",
+    "word_means": [
+      "v.扬言要;威胁;恐吓;预示凶兆;有…危险;危及;对…构成威胁"
+    ],
+    "updatetime": "2023-04-04 07:05:57"
+  },
+  {
+    "word_name": "daunt",
+    "word_means": [
+      "vt.使胆怯，使气馁;威吓，吓倒;使失去信心"
+    ],
+    "updatetime": "2023-04-04 07:05:42"
+  },
+  {
+    "word_name": "intimidate",
+    "word_means": [
+      "vt.恐吓;威胁"
+    ],
+    "updatetime": "2023-04-04 07:05:37"
+  },
+  {
+    "word_name": "harmony",
+    "word_means": [
+      "n.融洽;和睦;和声;和谐;协调"
+    ],
+    "updatetime": "2023-04-04 07:05:02"
+  },
+  {
+    "word_name": "harmonic",
+    "word_means": [
+      "adj.和声的",
+      "n.泛音;和声"
+    ],
+    "updatetime": "2023-04-04 07:04:58"
+  },
+  {
+    "word_name": "hormone",
+    "word_means": [
+      "n.激素; 荷尔蒙"
+    ],
+    "updatetime": "2023-04-04 07:04:42"
+  },
+  {
+    "word_name": "predicative",
+    "word_means": [
+      "adj.作表语的，谓语性的(例如asleep，用于be、become、get、seem、look等动词后;与attributive相对);",
+      "n.【语】表语；表语性;"
+    ],
+    "updatetime": "2023-04-04 07:02:31"
+  },
+  {
+    "word_name": "exclusive of",
+    "word_means": [
+      "不包括;不算，不包括，把…排除在外;"
+    ],
+    "updatetime": "2023-04-04 07:01:39"
+  },
+  {
+    "word_name": "an exclusive",
+    "word_means": [
+      "独家的;绝活;"
+    ],
+    "updatetime": "2023-04-04 07:01:28"
+  },
+  {
+    "word_name": "possession",
+    "word_means": [
+      "n.个人财产;拥有;具有;私人物品;控球状态;持有违禁物;殖民地;鬼魂缠身;"
+    ],
+    "updatetime": "2023-04-04 07:01:21"
+  },
+  {
+    "word_name": "exclusive possession",
+    "word_means": [
+      "独占（权）；排他性占有权;"
+    ],
+    "updatetime": "2023-04-04 07:01:02"
+  },
+  {
+    "word_name": "mutually exclusive",
+    "word_means": [
+      "相互排斥的;互不相容的;"
+    ],
+    "updatetime": "2023-04-04 07:01:00"
+  },
+  {
+    "word_name": "exclusive to",
+    "word_means": [
+      "专用于;独享;"
+    ],
+    "updatetime": "2023-04-04 07:00:56"
+  },
+  {
+    "word_name": "flaw",
+    "word_means": [
+      "n.缺陷;瑕疵;缺点;错误;裂痕;裂隙;(性格上的)弱点",
+      "v.（缺陷）损害;削弱;使失效"
+    ],
+    "updatetime": "2023-04-04 06:59:18"
+  },
+  {
+    "word_name": "flawed",
+    "word_means": [
+      "adj.有缺陷的;有瑕疵的;有错误的;有缺点的;",
+      "v.（缺陷）损害;削弱;使失效;",
+      "flaw的过去分词和过去式;"
+    ],
+    "updatetime": "2023-04-04 06:59:13"
+  },
+  {
+    "word_name": "threatening",
+    "word_means": [
+      "adj.威胁的;恐吓的;阴沉沉的;乌云密布的;",
+      "v.扬言要;威胁;恐吓;预示凶兆;有…危险;危及;对…构成威胁;",
+      "threaten的现在分词;"
+    ],
+    "updatetime": "2023-04-04 06:59:11"
+  },
+  {
+    "word_name": "characteristic",
+    "word_means": [
+      "n.特征;特点;品质",
+      "adj.特有的;典型的;独特的"
+    ],
+    "updatetime": "2023-04-04 06:58:53"
+  },
+  {
+    "word_name": "essential",
+    "word_means": [
+      "adj. 本质的,必不可少的,完全必要的,极其重要的,基本的,根本的;",
+      "n. 必不可少的东西,必需品,要点,要素,实质;"
+    ],
+    "updatetime": "2023-04-04 06:58:51"
+  }
+]
