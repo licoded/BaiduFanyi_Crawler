@@ -1,0 +1,110 @@
+[
+  {
+    "word_name": "ubiquitous",
+    "word_means": [
+      "adj.无处不在的;似乎无所不在的;十分普遍的"
+    ],
+    "updatetime": "2023-04-27 17:46:40"
+  },
+  {
+    "word_name": "immediately prior to",
+    "word_means": [
+      "immediately prior to          就在……之前"
+    ],
+    "updatetime": "2023-04-27 17:35:05"
+  },
+  {
+    "word_name": "prior to",
+    "word_means": [
+      "之前;在前，居先"
+    ],
+    "updatetime": "2023-04-27 17:34:49"
+  },
+  {
+    "word_name": "specification",
+    "word_means": [
+      "n.规格;规范;明细单;说明书"
+    ],
+    "updatetime": "2023-04-27 16:19:37"
+  },
+  {
+    "word_name": "assess",
+    "word_means": [
+      "vt.评估;评定(性质、质量);估算;估定(数量、价值)"
+    ],
+    "updatetime": "2023-04-27 16:17:04"
+  },
+  {
+    "word_name": "NFA",
+    "word_means": [
+      "NFA      abbr.    国家粮食管理局(National Food Administration);那加联邦陆军(Naga Federal Army);国家火器法(National Firearms Act)"
+    ],
+    "updatetime": "2023-04-27 16:04:32"
+  },
+  {
+    "word_name": "DFA",
+    "word_means": [
+      "DFA      abbr.    外交部(Department of Foreign Affairs);确定性有限机器人(Deterministic Finite Automaton);测向天线(Direction Finding Antenna)"
+    ],
+    "updatetime": "2023-04-27 16:04:21"
+  },
+  {
+    "word_name": "alternating Turing machines",
+    "word_means": [
+      "交替图灵机"
+    ],
+    "updatetime": "2023-04-27 16:01:50"
+  },
+  {
+    "word_name": "alternating",
+    "word_means": [
+      "v.使交替;使轮流;交替;轮流",
+      "adj.交替的；交互的",
+      "alternate的现在分词"
+    ],
+    "updatetime": "2023-04-27 16:01:10"
+  },
+  {
+    "word_name": "exponential",
+    "word_means": [
+      "adj.指数的; 幂的; 由指数表示的; 越来越快的",
+      "n.指数"
+    ],
+    "updatetime": "2023-04-27 16:00:18"
+  },
+  {
+    "word_name": "nondeterministic",
+    "word_means": [
+      "nondeterministic          不确定性;非确定性;非确定性的;不确定;非确定型"
+    ],
+    "updatetime": "2023-04-27 15:38:30"
+  },
+  {
+    "word_name": "transduce",
+    "word_means": [
+      "transduce          转换;转导;转化"
+    ],
+    "updatetime": "2023-04-27 15:38:08"
+  },
+  {
+    "word_name": "transducer",
+    "word_means": [
+      "n.换能器;变换器"
+    ],
+    "updatetime": "2023-04-27 15:38:01"
+  },
+  {
+    "word_name": "ancestor",
+    "word_means": [
+      "n.祖宗;祖先;(动物的)原种;(机器的)原型"
+    ],
+    "updatetime": "2023-04-27 09:39:17"
+  },
+  {
+    "word_name": "consortium",
+    "word_means": [
+      "n.联盟; (合作进行某项工程的)财团，银团，联营企业"
+    ],
+    "updatetime": "2023-04-27 09:38:20"
+  }
+]
