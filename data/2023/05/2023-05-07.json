@@ -1,0 +1,63 @@
+[
+  {
+    "word_name": "starve",
+    "word_means": [
+      "v.饿死; (使)挨饿; 缺乏…的; 急需…的"
+    ],
+    "updatetime": "2023-05-07 19:32:16"
+  },
+  {
+    "word_name": "declarative",
+    "word_means": [
+      "adj.陈述的"
+    ],
+    "updatetime": "2023-05-07 18:51:46"
+  },
+  {
+    "word_name": "imperative",
+    "word_means": [
+      "adj.重要紧急的;迫切的;急需处理的;表示权威的;表示命令的;祈使的",
+      "n.重要紧急的事;必要的事;祈使语气;祈使语气动词"
+    ],
+    "updatetime": "2023-05-07 18:51:04"
+  },
+  {
+    "word_name": "hydrate",
+    "word_means": [
+      "n.水合物",
+      "vt.使吸入水分;使水合;使成水合物"
+    ],
+    "updatetime": "2023-05-07 18:22:57"
+  },
+  {
+    "word_name": "hydration",
+    "word_means": [
+      "n.水化；水化（合）作用"
+    ],
+    "updatetime": "2023-05-07 18:22:49"
+  },
+  {
+    "word_name": "hybrid",
+    "word_means": [
+      "adj.混合的;杂种的",
+      "n.杂种;杂种动物;杂交植物;(不同事物的)混合物，合成物"
+    ],
+    "updatetime": "2023-05-07 18:22:14"
+  },
+  {
+    "word_name": "backlog",
+    "word_means": [
+      "vt.(使)积压;储存",
+      "n.积压的工作"
+    ],
+    "updatetime": "2023-05-07 18:02:58"
+  },
+  {
+    "word_name": "fuse",
+    "word_means": [
+      "n.保险丝;熔断器;导火线;导火索;引信;信管;雷管",
+      "v.(使)融合，熔接，结合;(使)熔化;(使保险丝熔断而)停止工作;在（电路或电器）中安装保险丝"
+    ],
+    "updatetime": "2023-05-07 07:35:45"
+  }
+]
