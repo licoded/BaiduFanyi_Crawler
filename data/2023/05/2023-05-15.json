@@ -1,0 +1,462 @@
+[
+  {
+    "word_name": "idiom",
+    "word_means": [
+      "n.习语; 成语; 惯用语; (某时期或某地区的人的)语言和语法; (写作、音乐、艺术等的)典型风格"
+    ],
+    "updatetime": "2023-05-15 21:08:54"
+  },
+  {
+    "word_name": "idiomatic",
+    "word_means": [
+      "adj.惯用的; 表达方式地道的; 符合(某一)语言习惯的; 包含习语的"
+    ],
+    "updatetime": "2023-05-15 21:08:46"
+  },
+  {
+    "word_name": "effortless",
+    "word_means": [
+      "adj.不费力的;不需费力的;容易的"
+    ],
+    "updatetime": "2023-05-15 19:45:40"
+  },
+  {
+    "word_name": "mutation",
+    "word_means": [
+      "n. 突变,(生物物种的)变异,(形式或结构的)转变,改变"
+    ],
+    "updatetime": "2023-05-15 19:45:23"
+  },
+  {
+    "word_name": "seam",
+    "word_means": [
+      "n.接缝;煤层;矿层;(缝合两块布等的)线缝;(合在一起的两块木板等之间的)缝隙;裂缝",
+      "vi.缝合;接合;使产生裂缝;焊合;发生裂痕"
+    ],
+    "updatetime": "2023-05-15 19:44:48"
+  },
+  {
+    "word_name": "seamlessly",
+    "word_means": [
+      "seamlessly          无缝的;无缝;天衣无缝地;无缝合线的;无缝地"
+    ],
+    "updatetime": "2023-05-15 19:44:43"
+  },
+  {
+    "word_name": "fault-tolerant",
+    "word_means": [
+      "容错的;容错性;容错机制;故障容错"
+    ],
+    "updatetime": "2023-05-15 19:44:31"
+  },
+  {
+    "word_name": "relational",
+    "word_means": [
+      "adj.有关的;相关的"
+    ],
+    "updatetime": "2023-05-15 19:43:59"
+  },
+  {
+    "word_name": "crash",
+    "word_means": [
+      "n.崩溃;碰撞;撞车;相撞;(倒下、破碎等突然的)碰撞声，破裂声，碎裂声;暴跌;倒闭;破产;失败",
+      "v.碰撞;撞击;(使)猛撞;使发出巨响;（突然）贬值，倒闭，失败;崩溃;（比赛中）溃败，惨败;入睡;心脏停止跳动",
+      "adj.应急的;速成的",
+      "adv.砰地一声"
+    ],
+    "updatetime": "2023-05-15 19:43:41"
+  },
+  {
+    "word_name": "embrace",
+    "word_means": [
+      "v.抱;拥抱;欣然接受，乐意采纳(思想、建议等);信奉(宗教、信仰等);包括;包含",
+      "n.拥抱，怀抱"
+    ],
+    "updatetime": "2023-05-15 19:43:19"
+  },
+  {
+    "word_name": "partner",
+    "word_means": [
+      "n.搭档;合伙人;同伴;舞伴;伙伴;配偶;性伴侣",
+      "vt.(在跳舞、游戏等中)结成伙伴，做搭档，配对"
+    ],
+    "updatetime": "2023-05-15 19:43:10"
+  },
+  {
+    "word_name": "In the spirit of",
+    "word_means": [
+      "本着;本着……的精神"
+    ],
+    "updatetime": "2023-05-15 19:42:19"
+  },
+  {
+    "word_name": "paralyze",
+    "word_means": [
+      "v.麻痹;使瘫痪或麻痹;使惊愕;（因恐怖等）使（人）吓得发呆"
+    ],
+    "updatetime": "2023-05-15 19:42:10"
+  },
+  {
+    "word_name": "paralyzing",
+    "word_means": [
+      "v.使瘫痪或麻痹;使不能正常活动;使惊愕；（因恐怖等）使（人）吓得发呆",
+      "paralyze的现在分词"
+    ],
+    "updatetime": "2023-05-15 19:42:07"
+  },
+  {
+    "word_name": "composable",
+    "word_means": [
+      "composable          可组合;可组成的;可组合性;可组合的;可合成"
+    ],
+    "updatetime": "2023-05-15 19:41:48"
+  },
+  {
+    "word_name": "monolithic",
+    "word_means": [
+      "adj.庞大而单一的;（组织或体系）庞大而僵化的;单一的;庞大而无特点的，巨大而单调的;独块巨石的，整（体）料的，由块料组成的;整体式的;<电子>单片的，单块的",
+      "n.电子>单片电路，单块电路"
+    ],
+    "updatetime": "2023-05-15 19:41:03"
+  },
+  {
+    "word_name": "exemplify",
+    "word_means": [
+      "vt.举例说明;例证;例示;是…的典型(或典范、榜样)"
+    ],
+    "updatetime": "2023-05-15 19:40:31"
+  },
+  {
+    "word_name": "shift",
+    "word_means": [
+      "v.转移; 挪动; 赶快; 快速移动; 变换; 更替; 变动; 改变观点; 推卸，转嫁（责任）; 去除（污迹等）; 销售，出售; 换（挡）",
+      "n.改变; 转移; 转换; 变换; 班; 轮班; 轮班工作时间; 轮班职工; （计算机键盘或打字机上的）转换（键），换档（键）; 直筒式连衣裙; （旧时妇女穿的）直筒式内衣"
+    ],
+    "updatetime": "2023-05-15 19:40:21"
+  },
+  {
+    "word_name": "durable",
+    "word_means": [
+      "adj.耐用的;持久的",
+      "n.耐用品;耐久品"
+    ],
+    "updatetime": "2023-05-15 19:39:56"
+  },
+  {
+    "word_name": "in the industry",
+    "word_means": [
+      "在业"
+    ],
+    "updatetime": "2023-05-15 19:39:47"
+  },
+  {
+    "word_name": "announce",
+    "word_means": [
+      "v.宣布;宣告(决定、计划等);(尤指通过广播)通知;声称;宣称;宣布（某人）到达;播音，广播"
+    ],
+    "updatetime": "2023-05-15 19:39:07"
+  },
+  {
+    "word_name": "parity",
+    "word_means": [
+      "n.对等;(尤指薪金或地位)平等;相同;(两国货币的)平价"
+    ],
+    "updatetime": "2023-05-15 15:33:12"
+  },
+  {
+    "word_name": "syntactic",
+    "word_means": [
+      "adj. 句法的"
+    ],
+    "updatetime": "2023-05-15 11:00:08"
+  },
+  {
+    "word_name": "truncated",
+    "word_means": [
+      "adj. (版本)缩减的，删节的，截短了的;",
+      "v. 截短，缩短，删节(尤指掐头或去尾);",
+      "truncate的过去分词和过去式;"
+    ],
+    "updatetime": "2023-05-15 10:55:41"
+  },
+  {
+    "word_name": "leash",
+    "word_means": [
+      "n. 皮带,束缚;",
+      "vt. 用皮带系住，拴住，缚住(尤指狗);"
+    ],
+    "updatetime": "2023-05-15 10:53:55"
+  },
+  {
+    "word_name": "unleash",
+    "word_means": [
+      "vt.发泄;突然释放;使爆发"
+    ],
+    "updatetime": "2023-05-15 10:53:51"
+  },
+  {
+    "word_name": "jargon",
+    "word_means": [
+      "n.行话; 黑话; 行业术语; 切口"
+    ],
+    "updatetime": "2023-05-15 10:48:28"
+  },
+  {
+    "word_name": "intimidate",
+    "word_means": [
+      "vt.恐吓;威胁"
+    ],
+    "updatetime": "2023-05-15 10:46:17"
+  },
+  {
+    "word_name": "constant",
+    "word_means": [
+      "n.常数;常量",
+      "adj.恒定的;不变的;不断的;连续发生的;重复的;固定的"
+    ],
+    "updatetime": "2023-05-15 10:45:57"
+  },
+  {
+    "word_name": "moderate",
+    "word_means": [
+      "adj.适度的;中等的;温和的;不激烈的;不偏激的;适中的;合理的",
+      "v.缓和;使适中;审核评分(查看不同阅卷人所打分数是否公平一致);主持(讨论、辩论等)",
+      "n.持温和观点者(尤指政见)"
+    ],
+    "updatetime": "2023-05-15 10:39:36"
+  },
+  {
+    "word_name": "comply",
+    "word_means": [
+      "vi.遵守; 遵从; 服从; 顺从"
+    ],
+    "updatetime": "2023-05-15 10:39:03"
+  },
+  {
+    "word_name": "negatively",
+    "word_means": [
+      "negatively      adv.    消极的;负（阴性）地"
+    ],
+    "updatetime": "2023-05-15 08:27:40"
+  },
+  {
+    "word_name": "as well",
+    "word_means": [
+      "也;还"
+    ],
+    "updatetime": "2023-05-15 08:27:06"
+  },
+  {
+    "word_name": "end up",
+    "word_means": [
+      "结束;死亡"
+    ],
+    "updatetime": "2023-05-15 08:26:54"
+  },
+  {
+    "word_name": "take the easy route",
+    "word_means": [
+      "走捷径"
+    ],
+    "updatetime": "2023-05-15 08:26:33"
+  },
+  {
+    "word_name": "route",
+    "word_means": [
+      "n.路线;路途;(公共汽车和列车等的)常规路线，固定线路;途径;渠道;（用于美国干线公路号码前）;",
+      "vt.按某路线发送;"
+    ],
+    "updatetime": "2023-05-15 08:26:26"
+  },
+  {
+    "word_name": "workaround",
+    "word_means": [
+      "n.应变方法;变通方法"
+    ],
+    "updatetime": "2023-05-15 08:26:20"
+  },
+  {
+    "word_name": "at the root cause",
+    "word_means": [
+      "根本原因"
+    ],
+    "updatetime": "2023-05-15 08:25:57"
+  },
+  {
+    "word_name": "so far",
+    "word_means": [
+      "目前为止，迄今为止;（只能到）如此程度，这个地步;"
+    ],
+    "updatetime": "2023-05-15 08:25:45"
+  },
+  {
+    "word_name": "effective",
+    "word_means": [
+      "adj.有效的;产生预期结果的;实际的;事实上的;生效的;起作用的",
+      "n.[军]现役兵额;有生力量;精兵"
+    ],
+    "updatetime": "2023-05-15 08:25:22"
+  },
+  {
+    "word_name": "efficient",
+    "word_means": [
+      "adj.有效率的;效率高的;有能力的"
+    ],
+    "updatetime": "2023-05-15 08:25:12"
+  },
+  {
+    "word_name": "alternative",
+    "word_means": [
+      "adj.可供替代的; 另类的; 非传统的",
+      "n.可供选择的事物"
+    ],
+    "updatetime": "2023-05-15 08:24:32"
+  },
+  {
+    "word_name": "run through",
+    "word_means": [
+      "匆匆浏览;匆匆阅读;匆匆提及;排练;排演;练习"
+    ],
+    "updatetime": "2023-05-15 08:23:50"
+  },
+  {
+    "word_name": "With that all said",
+    "word_means": [
+      "话虽如此"
+    ],
+    "updatetime": "2023-05-15 08:23:21"
+  },
+  {
+    "word_name": "go over",
+    "word_means": [
+      "仔细检查;认真讨论;用心思考"
+    ],
+    "updatetime": "2023-05-15 08:22:13"
+  },
+  {
+    "word_name": "As a general rule of thumb",
+    "word_means": [
+      "作为一般经验法则"
+    ],
+    "updatetime": "2023-05-15 08:21:29"
+  },
+  {
+    "word_name": "additional",
+    "word_means": [
+      "adj.附加的;额外的;外加的"
+    ],
+    "updatetime": "2023-05-15 08:20:49"
+  },
+  {
+    "word_name": "though",
+    "word_means": [
+      "conj.虽然;尽管;即使;(用于主句后，引出补充说明，使语气变弱)不过，可是，然而",
+      "adv.(尤用于句末补充说明，使语气减弱)不过，可是，然而"
+    ],
+    "updatetime": "2023-05-15 08:19:43"
+  },
+  {
+    "word_name": "Understandably",
+    "word_means": [
+      "adv.可以理解地;正常地;合乎情理地"
+    ],
+    "updatetime": "2023-05-15 08:19:29"
+  },
+  {
+    "word_name": "only ever",
+    "word_means": [
+      "只有一次"
+    ],
+    "updatetime": "2023-05-15 07:24:40"
+  },
+  {
+    "word_name": "ever",
+    "word_means": [
+      "adv.曾经;(用于否定句和疑问句，或与if连用的句子)在任何时候;(进行比较时用以加强语气)以往任何时候;不断地;总是;始终;究竟，到底"
+    ],
+    "updatetime": "2023-05-15 07:24:12"
+  },
+  {
+    "word_name": "the last thing we would want",
+    "word_means": [
+      "我们最不想要的东西"
+    ],
+    "updatetime": "2023-05-15 07:22:30"
+  },
+  {
+    "word_name": "It would be fair to say",
+    "word_means": [
+      "可以公平地说"
+    ],
+    "updatetime": "2023-05-15 07:21:22"
+  },
+  {
+    "word_name": "amongst",
+    "word_means": [
+      "prep.在; 同 among; （表示范围）在…之内; （表示位置）处在…中"
+    ],
+    "updatetime": "2023-05-15 07:20:06"
+  },
+  {
+    "word_name": "spread",
+    "word_means": [
+      "v.传播;展开;打开;摊开;使散开;张开;伸开;（使）蔓延，扩散，散开;使分散;延伸;涂;分（若干次）进行",
+      "n.传播;蔓延;扩展;散布;广泛;多样;抹在面包上的东西;涉及区域;宽度;文章，广告;区域;差额，差幅",
+      "adj.广大的;大幅的"
+    ],
+    "updatetime": "2023-05-15 07:19:55"
+  },
+  {
+    "word_name": "thousands upon thousands",
+    "word_means": [
+      "成千上万;成千上万的;千千万万;千千"
+    ],
+    "updatetime": "2023-05-15 07:19:30"
+  },
+  {
+    "word_name": "referential equality",
+    "word_means": [
+      "参照相等"
+    ],
+    "updatetime": "2023-05-15 07:17:01"
+  },
+  {
+    "word_name": "referential",
+    "word_means": [
+      "参考的;指称;所指的;指示的"
+    ],
+    "updatetime": "2023-05-15 07:16:56"
+  },
+  {
+    "word_name": "rescue",
+    "word_means": [
+      "vt.营救;援救;抢救",
+      "n.救援;营救;抢救;获救;营救行动"
+    ],
+    "updatetime": "2023-05-15 07:16:44"
+  },
+  {
+    "word_name": "ideal",
+    "word_means": [
+      "adj.完美的;理想的;最合适的;想象的;不切实际的",
+      "n.理想;看似完美的思想(或标准);完美的人(或事物)"
+    ],
+    "updatetime": "2023-05-15 07:16:25"
+  },
+  {
+    "word_name": "result in",
+    "word_means": [
+      "导致，结果是"
+    ],
+    "updatetime": "2023-05-15 07:15:28"
+  },
+  {
+    "word_name": "stale",
+    "word_means": [
+      "adj.不新鲜的; 陈腐的; (空气)污浊的; (烟味)难闻的; 没有新意的; 老掉牙的; 厌倦的，腻烦的",
+      "n.（牛马、骆驼的）尿",
+      "v.使陈旧；使没有味道；用坏；变陈旧"
+    ],
+    "updatetime": "2023-05-15 07:09:27"
+  }
+]
