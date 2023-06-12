@@ -1,0 +1,90 @@
+[
+  {
+    "word_name": "mandatory",
+    "word_means": [
+      "adj.强制性的;强制的;法定的;义务的",
+      "n.受托者"
+    ],
+    "updatetime": "2023-06-12 15:22:29"
+  },
+  {
+    "word_name": "cumulatively",
+    "word_means": [
+      "cumulatively      adv.    累积地；渐增地"
+    ],
+    "updatetime": "2023-06-12 14:37:23"
+  },
+  {
+    "word_name": "embarrassingly",
+    "word_means": [
+      "embarrassingly      adv.    令人尴尬地;使人尴尬地，使人为难地，使人难堪地"
+    ],
+    "updatetime": "2023-06-12 10:22:07"
+  },
+  {
+    "word_name": "inductive",
+    "word_means": [
+      "adj.归纳法的;归纳的;电感应的;"
+    ],
+    "updatetime": "2023-06-12 10:09:35"
+  },
+  {
+    "word_name": "demonstrate",
+    "word_means": [
+      "v.证明; 证实; 论证; 说明; 表达; 表露; 表现; 显露; 示范; 演示; 集会示威"
+    ],
+    "updatetime": "2023-06-12 10:09:27"
+  },
+  {
+    "word_name": "sequentiality",
+    "word_means": [
+      "顺序性\n"
+    ],
+    "updatetime": "2023-06-12 10:08:51"
+  },
+  {
+    "word_name": "invariance",
+    "word_means": [
+      "n.不变性;不变性，不变量，不变式;"
+    ],
+    "updatetime": "2023-06-12 10:08:50"
+  },
+  {
+    "word_name": "permutation",
+    "word_means": [
+      "n.排列(方式);组合(方式);置换;"
+    ],
+    "updatetime": "2023-06-12 10:08:47"
+  },
+  {
+    "word_name": "recursive",
+    "word_means": [
+      "adj.递归的; 循环的"
+    ],
+    "updatetime": "2023-06-12 10:08:44"
+  },
+  {
+    "word_name": "confine",
+    "word_means": [
+      "vt.限制;限定;监禁;禁闭;使离不开(或受困于床、轮椅等)",
+      "n.范围;界限;边界;限度"
+    ],
+    "updatetime": "2023-06-12 09:51:49"
+  },
+  {
+    "word_name": "informed",
+    "word_means": [
+      "adj.见多识广的; 有学问的; 有见识的",
+      "v.通知; 了解; 知会; 通告; 熟悉; 对…有影响",
+      "inform的过去分词和过去式"
+    ],
+    "updatetime": "2023-06-12 09:40:21"
+  },
+  {
+    "word_name": "uninformed",
+    "word_means": [
+      "adj.不知情的;无知的;蒙昧的;知识(或信息)贫乏的"
+    ],
+    "updatetime": "2023-06-12 09:40:17"
+  }
+]
