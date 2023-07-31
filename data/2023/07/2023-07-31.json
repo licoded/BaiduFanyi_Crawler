@@ -1,0 +1,23 @@
+[
+  {
+    "word_name": "csv",
+    "word_means": [
+      "csv          逗号分隔;逗号分隔值;文件;逗号分隔文件;逗号分隔的值"
+    ],
+    "updatetime": "2023-07-31 09:19:02"
+  },
+  {
+    "word_name": "Comma-Separated Values",
+    "word_means": [
+      "逗号分隔值;逗号分隔的值"
+    ],
+    "updatetime": "2023-07-31 09:18:57"
+  },
+  {
+    "word_name": "semicolon",
+    "word_means": [
+      "n.分号;"
+    ],
+    "updatetime": "2023-07-31 09:18:16"
+  }
+]
