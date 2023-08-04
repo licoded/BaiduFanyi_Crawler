@@ -1,0 +1,86 @@
+[
+  {
+    "word_name": "duplicate",
+    "word_means": [
+      "vt.(尤指不必要时)重复，再做一次;复制;复印;复写",
+      "adj.复制的;副本的;完全一样的",
+      "n.副本;复制品;完全一样的东西"
+    ],
+    "updatetime": "2023-08-04 23:04:24"
+  },
+  {
+    "word_name": "merchant",
+    "word_means": [
+      "n.商人;批发商;(某活动的)爱好者;(尤指)进出口批发商;热衷于…的人",
+      "adj.海上货运的"
+    ],
+    "updatetime": "2023-08-04 19:27:11"
+  },
+  {
+    "word_name": "acquisition",
+    "word_means": [
+      "n.收购;(知识、技能等的)获得，得到;购置;收购的公司;购置物;(多指贵重的)购得物;购置的产业"
+    ],
+    "updatetime": "2023-08-04 19:15:48"
+  },
+  {
+    "word_name": "predecessor",
+    "word_means": [
+      "n.前任;原先的东西;被替代的事物"
+    ],
+    "updatetime": "2023-08-04 17:54:12"
+  },
+  {
+    "word_name": "SetTravelDirection",
+    "word_means": [
+      "SetTravelDirection"
+    ],
+    "updatetime": "2023-08-04 17:53:55"
+  },
+  {
+    "word_name": "concrete",
+    "word_means": [
+      "n.混凝土",
+      "adj.混凝土制的; 确实的，具体的(而非想象或猜测的); 有形的; 实在的",
+      "vt.用混凝土覆盖"
+    ],
+    "updatetime": "2023-08-04 17:44:33"
+  },
+  {
+    "word_name": "enumerate",
+    "word_means": [
+      "vt.列举;枚举"
+    ],
+    "updatetime": "2023-08-04 17:42:34"
+  },
+  {
+    "word_name": "trivial",
+    "word_means": [
+      "adj.不重要的; 琐碎的; 微不足道的"
+    ],
+    "updatetime": "2023-08-04 17:33:51"
+  },
+  {
+    "word_name": "terminate",
+    "word_means": [
+      "v.终止;结束;(使)停止;到达终点站",
+      "adj.终止的;有限的(小数等)"
+    ],
+    "updatetime": "2023-08-04 17:33:00"
+  },
+  {
+    "word_name": "equivalent",
+    "word_means": [
+      "adj.相等的; (价值、数量、意义、重要性等)相同的",
+      "n.相等的东西; 等量; 对应词"
+    ],
+    "updatetime": "2023-08-04 17:25:22"
+  },
+  {
+    "word_name": "possibility",
+    "word_means": [
+      "n.可能;可能性;机会;潜力;契机;可选择的方法"
+    ],
+    "updatetime": "2023-08-04 11:46:34"
+  }
+]
