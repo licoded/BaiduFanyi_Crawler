@@ -1,0 +1,928 @@
+[
+  {
+    "word_name": "recurrent",
+    "word_means": [
+      "adj.一再发生的，复发的，反复出现的，周期性的; 〈解〉（神经、血管等）返（回）的"
+    ],
+    "updatetime": "2023-10-12 20:06:39"
+  },
+  {
+    "word_name": "recurrence",
+    "word_means": [
+      "n.重现; 复发"
+    ],
+    "updatetime": "2023-10-12 20:06:35"
+  },
+  {
+    "word_name": "concord",
+    "word_means": [
+      "n.(数、性或人称的)一致; 和谐; 和睦; 协调"
+    ],
+    "updatetime": "2023-10-12 19:14:14"
+  },
+  {
+    "word_name": "cord",
+    "word_means": [
+      "n.电源线; （细）绳; (道德、精神、感情等的)约束(影响)，维系(纽带); (结实的)粗线; 考得（木材单位）; 灯芯绒裤子; 一根粗线(或细绳); (琴弦等)绳索状物",
+      "v.用(细)绳捆扎，用(细)绳连接; 堆积(柴薪)，堆垛; 使有棱, 使有凸纹",
+      "adj.灯芯绒的"
+    ],
+    "updatetime": "2023-10-12 19:14:06"
+  },
+  {
+    "word_name": "elevator",
+    "word_means": [
+      "n.电梯; (飞行器的)升降舵"
+    ],
+    "updatetime": "2023-10-12 14:18:42"
+  },
+  {
+    "word_name": "negation",
+    "word_means": [
+      "n.否定;拒绝;反面;对立面"
+    ],
+    "updatetime": "2023-10-12 11:12:01"
+  },
+  {
+    "word_name": "strategy",
+    "word_means": [
+      "n.策略; 计策; 行动计划; 策划; 规划; 部署; 统筹安排; 战略; 战略部署"
+    ],
+    "updatetime": "2023-10-12 08:38:54"
+  },
+  {
+    "word_name": "attentive",
+    "word_means": [
+      "adj.细心的; 注意的; 专心的; 留心的; 关心的; 肯帮忙的"
+    ],
+    "updatetime": "2023-10-12 08:38:46"
+  },
+  {
+    "word_name": "alternative",
+    "word_means": [
+      "adj.可供替代的; 另类的; 非传统的",
+      "n.可供选择的事物"
+    ],
+    "updatetime": "2023-10-12 08:38:39"
+  },
+  {
+    "word_name": "a backup plan",
+    "word_means": [
+      "后备计划"
+    ],
+    "updatetime": "2023-10-12 08:38:30"
+  },
+  {
+    "word_name": "chalk",
+    "word_means": [
+      "n.(白色或彩色的)粉笔; 白垩",
+      "vt.用粉笔写(或画)"
+    ],
+    "updatetime": "2023-10-12 08:38:22"
+  },
+  {
+    "word_name": "grasp",
+    "word_means": [
+      "vt.抓住; 理解; 领会; 抓牢; 领悟; 毫不犹豫地抓住(机会)",
+      "n.领会; 紧抓; 紧握; 控制; 理解(力); 能力所及"
+    ],
+    "updatetime": "2023-10-12 08:38:15"
+  },
+  {
+    "word_name": "carry on",
+    "word_means": [
+      "继续; 接着; 坚持; 举行; 进行; 开展; 喋喋不休; 絮絮叨叨"
+    ],
+    "updatetime": "2023-10-12 08:38:10"
+  },
+  {
+    "word_name": "nap",
+    "word_means": [
+      "vi.打盹; 小睡(尤指日间)",
+      "n.(日间的)小睡; (某些织物表面的)短绒毛; 赛马情报; 赛马结果预测"
+    ],
+    "updatetime": "2023-10-12 08:37:55"
+  },
+  {
+    "word_name": "headache",
+    "word_means": [
+      "n.头痛; 令人头痛的人(或事物); 麻烦"
+    ],
+    "updatetime": "2023-10-12 08:37:43"
+  },
+  {
+    "word_name": "internal",
+    "word_means": [
+      "adj.里面的; 体内的; (机构)内部的; 内政的; 本身的; 内心的",
+      "n.内脏; 本质"
+    ],
+    "updatetime": "2023-10-12 08:37:36"
+  },
+  {
+    "word_name": "external",
+    "word_means": [
+      "adj.外部的; 外面的; 外界的; 外来的; 在外的; 来自(学校或机构)以外的; 与外国有关的",
+      "n.外部; 外面; 外观; 外部情况"
+    ],
+    "updatetime": "2023-10-12 08:37:30"
+  },
+  {
+    "word_name": "impede",
+    "word_means": [
+      "vt.妨碍; 阻碍; 阻止"
+    ],
+    "updatetime": "2023-10-12 08:37:12"
+  },
+  {
+    "word_name": "imperial",
+    "word_means": [
+      "adj.帝国的; 皇帝的; (度量衡)英制的",
+      "n.纸张尺寸; 通常是23×23英寸; 特大号; 特级品; 一小绺胡须; 马车的车顶"
+    ],
+    "updatetime": "2023-10-12 08:37:07"
+  },
+  {
+    "word_name": "interference",
+    "word_means": [
+      "n.(无线电信号的)干扰; 干涉; 干预; 介入"
+    ],
+    "updatetime": "2023-10-12 08:36:57"
+  },
+  {
+    "word_name": "interfere",
+    "word_means": [
+      "vt.干涉; 干预; 介入"
+    ],
+    "updatetime": "2023-10-12 08:36:47"
+  },
+  {
+    "word_name": "eye contact",
+    "word_means": [
+      "n.眼神接触; 目光交流"
+    ],
+    "updatetime": "2023-10-12 08:36:38"
+  },
+  {
+    "word_name": "verbal",
+    "word_means": [
+      "adj.文字的; 言语的; 词语的; 口头(而非书面)的; 动词的",
+      "n.口供; 非限定动词; 同“verbal noun”"
+    ],
+    "updatetime": "2023-10-12 08:36:27"
+  },
+  {
+    "word_name": "nonverbal",
+    "word_means": [
+      "adj.非语言的; 不使用语言的;非言语的"
+    ],
+    "updatetime": "2023-10-12 08:36:22"
+  },
+  {
+    "word_name": "frame",
+    "word_means": [
+      "n.(图画、门、玻璃等的)框架; (家具、建筑物、车辆等的)构架，支架，骨架; 眼镜框; 体形; 总的思想，体系，体制，模式; 帧; （连环漫画中的）一幅画; 一轮",
+      "vt.给…做框; 给…镶边; 作伪证陷害; 制订; 拟订; （以某种方式）表达",
+      "adj.木结构的"
+    ],
+    "updatetime": "2023-10-12 08:35:57"
+  },
+  {
+    "word_name": "frames of reference",
+    "word_means": [
+      "n.(影响人理解和判断事物的)信仰和准则",
+      "frame of reference的复数"
+    ],
+    "updatetime": "2023-10-12 08:35:51"
+  },
+  {
+    "word_name": "monotone",
+    "word_means": [
+      "n.单调; 单调的声音",
+      "adj.(声音或色彩)单调的",
+      "vt.单调地读"
+    ],
+    "updatetime": "2023-10-12 08:35:35"
+  },
+  {
+    "word_name": "monopoly",
+    "word_means": [
+      "n.垄断; 专营服务; 被垄断的商品(或服务); 独占; 专利; 专利品; “大富翁”(棋类游戏，游戏者以玩具钞票买卖房地产)"
+    ],
+    "updatetime": "2023-10-12 08:35:30"
+  },
+  {
+    "word_name": "prosody",
+    "word_means": [
+      "n.韵律; 韵律学; 重音和语调模式; 韵律结构"
+    ],
+    "updatetime": "2023-10-12 08:35:25"
+  },
+  {
+    "word_name": "cadence",
+    "word_means": [
+      "n.(说话时语调的)抑扬顿挫，起落; (乐段或乐句的)收束，静止"
+    ],
+    "updatetime": "2023-10-12 08:35:20"
+  },
+  {
+    "word_name": "corona",
+    "word_means": [
+      "n.(尤指在日食或月食期间的)日冕，日华，月华"
+    ],
+    "updatetime": "2023-10-12 08:34:14"
+  },
+  {
+    "word_name": "pandemic",
+    "word_means": [
+      "n.(全国或全球性)流行病; 大流行病",
+      "adj.（疾病）大流行的; 普遍的，全世界的"
+    ],
+    "updatetime": "2023-10-12 08:33:22"
+  },
+  {
+    "word_name": "epidemic",
+    "word_means": [
+      "n.流行病; (迅速的)泛滥，蔓延",
+      "adj.流行性的; 极为盛行的"
+    ],
+    "updatetime": "2023-10-12 08:33:19"
+  },
+  {
+    "word_name": "channel",
+    "word_means": [
+      "n.频道; 渠道; 电视台; 波段; 途径; 系统; （表达的）方式，方法，手段; 水渠; 水道; 海峡; 英吉利海峡",
+      "vt.为…引资; 引导; 贯注; (利用某途径)输送资金，提供帮助; (经过通道)输送，传送"
+    ],
+    "updatetime": "2023-10-12 08:32:01"
+  },
+  {
+    "word_name": "inspiring",
+    "word_means": [
+      "adj.鼓舞人心的; 激励的; 启发灵感的",
+      "v.激励; 鼓舞; 赋予灵感; 引起联想; 启发思考; 使产生(感觉或情感)",
+      "inspire的现在分词"
+    ],
+    "updatetime": "2023-10-12 08:31:51"
+  },
+  {
+    "word_name": "integrity",
+    "word_means": [
+      "n.诚实正直; 完整; 完好"
+    ],
+    "updatetime": "2023-10-12 08:31:41"
+  },
+  {
+    "word_name": "contiguous",
+    "word_means": [
+      "adj.相接的; 相邻的"
+    ],
+    "updatetime": "2023-10-12 08:31:06"
+  },
+  {
+    "word_name": "derive",
+    "word_means": [
+      "v.得到; 获得; 取得; (使)起源; (使)产生"
+    ],
+    "updatetime": "2023-10-12 08:30:57"
+  },
+  {
+    "word_name": "derived",
+    "word_means": [
+      "v.获得;取得;得到; (使)起源;(使)产生",
+      "derive的过去分词和过去式"
+    ],
+    "updatetime": "2023-10-12 08:30:54"
+  },
+  {
+    "word_name": "initial",
+    "word_means": [
+      "adj.最初的; 开始的; 第一的",
+      "n.(名字的)首字母",
+      "vt.用姓名的首字母作标记(或签名)于"
+    ],
+    "updatetime": "2023-10-12 08:30:47"
+  },
+  {
+    "word_name": "qualification",
+    "word_means": [
+      "n.(通过经验或具备技能而取得的)资格; 学历; 资历; 获得资格; 限定条件"
+    ],
+    "updatetime": "2023-10-12 08:30:02"
+  },
+  {
+    "word_name": "quality",
+    "word_means": [
+      "n.质量; 品质; (尤指好的)人品，素质，品德; 优质; 特征; 高标准; 上乘",
+      "adj.优质的; 高质量的; 棒极了; 盖帽儿了"
+    ],
+    "updatetime": "2023-10-12 08:29:22"
+  },
+  {
+    "word_name": "credible",
+    "word_means": [
+      "adj.可信的; 可靠的; (因看似可能成功而)可接受的"
+    ],
+    "updatetime": "2023-10-12 08:29:05"
+  },
+  {
+    "word_name": "credibility",
+    "word_means": [
+      "n.可靠性; 可信性"
+    ],
+    "updatetime": "2023-10-12 08:29:00"
+  },
+  {
+    "word_name": "a great sense of honor",
+    "word_means": [
+      "极大的荣誉感"
+    ],
+    "updatetime": "2023-10-12 08:28:44"
+  },
+  {
+    "word_name": "humorous",
+    "word_means": [
+      "adj.幽默的; 滑稽有趣的; 有幽默感的"
+    ],
+    "updatetime": "2023-10-12 08:28:33"
+  },
+  {
+    "word_name": "visual ads",
+    "word_means": [
+      "视觉广告"
+    ],
+    "updatetime": "2023-10-12 08:28:25"
+  },
+  {
+    "word_name": "PowerPoint",
+    "word_means": [
+      "微软公司生产的制作幻灯片和简报的软件"
+    ],
+    "updatetime": "2023-10-12 08:28:18"
+  },
+  {
+    "word_name": "vivid",
+    "word_means": [
+      "adj.清晰的; 生动的; 逼真的; 鲜明的; 耀眼的; 鲜艳的; 强烈的; 丰富的"
+    ],
+    "updatetime": "2023-10-12 08:28:05"
+  },
+  {
+    "word_name": "passion",
+    "word_means": [
+      "n.激情; 强烈情感; 盛怒; 激愤; 强烈的爱(尤指两性间的); 酷爱; 耶稣的受难"
+    ],
+    "updatetime": "2023-10-12 08:27:57"
+  },
+  {
+    "word_name": "engage",
+    "word_means": [
+      "v.从事; 聘用; 吸引住(注意力、兴趣); 雇用; 与…建立密切关系; 尽力理解; 与（某人）交战; （使）衔接，啮合"
+    ],
+    "updatetime": "2023-10-12 08:27:51"
+  },
+  {
+    "word_name": "analyze",
+    "word_means": [
+      "v.分析（研究）; 分解; 解析"
+    ],
+    "updatetime": "2023-10-12 08:27:39"
+  },
+  {
+    "word_name": "analysis",
+    "word_means": [
+      "n.(对物质的)分析; (对事物的)分析结果"
+    ],
+    "updatetime": "2023-10-12 08:27:34"
+  },
+  {
+    "word_name": "coherently",
+    "word_means": [
+      "连贯地; 连贯; 相干; 条理清楚地; 相干的"
+    ],
+    "updatetime": "2023-10-12 08:27:28"
+  },
+  {
+    "word_name": "coherent",
+    "word_means": [
+      "adj.连贯的; 合乎逻辑的; 有条理的; 清楚易懂的; 有表达能力的; 能把自己的意思说清楚的"
+    ],
+    "updatetime": "2023-10-12 08:27:24"
+  },
+  {
+    "word_name": "interact",
+    "word_means": [
+      "vi.互动; 相互作用; 交流; 相互影响; 沟通; 合作",
+      "n.同“entr'acte”"
+    ],
+    "updatetime": "2023-10-12 08:27:14"
+  },
+  {
+    "word_name": "communication",
+    "word_means": [
+      "n.表达; 交流; 交际; 传递; 通信; 交通联系; 信息; 书信; 电话"
+    ],
+    "updatetime": "2023-10-12 08:26:51"
+  },
+  {
+    "word_name": "community",
+    "word_means": [
+      "n.社区; 社会; 团体; 社团; 界; 共享; 共有; （动植物的）群落"
+    ],
+    "updatetime": "2023-10-12 08:26:46"
+  },
+  {
+    "word_name": "natural",
+    "word_means": [
+      "adj.自然的; 天然的; 正常的; 意料之中的; 天生的; 本能的; 与生俱来的; 天赋的; 不拘束的; 有血缘关系的; 非婚生的; 符合人的理性的; 本位音的，标有还原号的（书写符号为♮）",
+      "n.有天赋的人; 擅长做某事的人; 本位音，还原音，本位号(书写符号为 ♮)"
+    ],
+    "updatetime": "2023-10-12 08:26:38"
+  },
+  {
+    "word_name": "clarity",
+    "word_means": [
+      "n.清晰; 清楚; 明确; 清晰的思维(或理解)能力; (画面、物质或声音的)清晰，清澈"
+    ],
+    "updatetime": "2023-10-12 08:26:31"
+  },
+  {
+    "word_name": "structure",
+    "word_means": [
+      "n.结构; 构造; 结构体; (尤指)建筑物; 精心组织; 周密安排; 体系",
+      "vt.使形成体系; 系统安排; 精心组织"
+    ],
+    "updatetime": "2023-10-12 08:26:24"
+  },
+  {
+    "word_name": "hurry",
+    "word_means": [
+      "n.匆忙; 急忙",
+      "v.赶快，匆忙，急忙(做某事); (朝某方向)迅速移动; 催促(某人); 迅速处理; 仓促（做某事）"
+    ],
+    "updatetime": "2023-10-12 08:26:10"
+  },
+  {
+    "word_name": "powerful pause",
+    "word_means": [
+      "强有力的停顿"
+    ],
+    "updatetime": "2023-10-12 08:25:58"
+  },
+  {
+    "word_name": "psychologically",
+    "word_means": [
+      "adv.心理上地；心理学地"
+    ],
+    "updatetime": "2023-10-12 08:25:31"
+  },
+  {
+    "word_name": "breathe",
+    "word_means": [
+      "v.呼吸; 呼出; 低声说; 通气飘香; 透气; 充满，散发"
+    ],
+    "updatetime": "2023-10-12 08:24:40"
+  },
+  {
+    "word_name": "breath",
+    "word_means": [
+      "n.呼吸的空气; 一次吸入的空气; 微量; 迹象; （空气的）微微流动，拂动"
+    ],
+    "updatetime": "2023-10-12 08:24:36"
+  },
+  {
+    "word_name": "take a deep breath",
+    "word_means": [
+      "深呼吸"
+    ],
+    "updatetime": "2023-10-12 08:24:28"
+  },
+  {
+    "word_name": "psych up",
+    "word_means": [
+      "心理准备"
+    ],
+    "updatetime": "2023-10-12 08:24:09"
+  },
+  {
+    "word_name": "psych",
+    "word_means": [
+      "v.用精神分析治疗；使做好心理准备"
+    ],
+    "updatetime": "2023-10-12 08:24:03"
+  },
+  {
+    "word_name": "psyche",
+    "word_means": [
+      "n.心理; 心灵; 精神; 灵魂; 心态"
+    ],
+    "updatetime": "2023-10-12 08:23:37"
+  },
+  {
+    "word_name": "silence",
+    "word_means": [
+      "n.寂静; 无声; 沉默; 缄默; 默不作声; 缄口不谈; 拒绝回答; 互相不通音信的情形",
+      "vt.使安静; 使不说话; 压制，使不再发表(反对意见)",
+      "int.安静，静下来"
+    ],
+    "updatetime": "2023-10-12 08:23:21"
+  },
+  {
+    "word_name": "pause",
+    "word_means": [
+      "v.暂停; 停顿; (按暂停键)暂停放音，暂停放像",
+      "n.停顿; 停顿的时间; 延长记号; 暂停键"
+    ],
+    "updatetime": "2023-10-12 08:23:08"
+  },
+  {
+    "word_name": "microphone",
+    "word_means": [
+      "n.麦克风; 话筒; 传声器"
+    ],
+    "updatetime": "2023-10-12 08:23:02"
+  },
+  {
+    "word_name": "respect",
+    "word_means": [
+      "n.尊敬，尊重，敬重; （事物的）方面; 关系，关联; 注重，重视; 敬意，问候; 细节; 着眼点",
+      "vt.尊敬，尊重，敬重; 关于，涉及; 遵守，遵从; 注重，重视; 顾及; 不损害; 仰慕; 不违背; 慎重对待，谨慎从事",
+      "int.真了不起（因敬重或赞同而发出的感叹）"
+    ],
+    "updatetime": "2023-10-12 08:22:53"
+  },
+  {
+    "word_name": "bow",
+    "word_means": [
+      "n.弓，弓形物; 鞠躬; 船头，船首; 蝴蝶结; 琴弓; <美>眼镜脚，眼镜框; <美>（钥匙、剪刀等的）金属环状柄，圆形拎环",
+      "v.鞠躬，欠身; （使）弯曲; 低（头），俯（首）; 让步，屈服; 用弓拉奏（乐曲）",
+      "adj.弯曲的，弓形的; 近（船等）头部的，在前部的"
+    ],
+    "updatetime": "2023-10-12 08:22:45"
+  },
+  {
+    "word_name": "overwhelming",
+    "word_means": [
+      "adj.势不可挡的; 压倒性的; 巨大的; 无法抗拒的",
+      "v.压倒; (感情或感觉)充溢，难以禁受; 击败; 征服; 压垮; 使应接不暇",
+      "overwhelm的现在分词"
+    ],
+    "updatetime": "2023-10-12 08:22:38"
+  },
+  {
+    "word_name": "overwhelm",
+    "word_means": [
+      "vt.(感情或感觉)充溢，难以禁受; 压倒; 击败; 征服; 压垮; 使应接不暇; 淹没"
+    ],
+    "updatetime": "2023-10-12 08:22:33"
+  },
+  {
+    "word_name": "first impression",
+    "word_means": [
+      "第一印象"
+    ],
+    "updatetime": "2023-10-12 08:22:25"
+  },
+  {
+    "word_name": "impression",
+    "word_means": [
+      "n.印象; 感想; 影响; 效果; 印象画; 滑稽模仿; （虚假的）外观; 压痕; 重印本"
+    ],
+    "updatetime": "2023-10-12 08:22:17"
+  },
+  {
+    "word_name": "champion",
+    "word_means": [
+      "n.冠军; 第一名; 优胜者; 斗争者; 捍卫者; 声援者; 拥护者",
+      "vt.为…而斗争; 捍卫; 声援",
+      "adj.头等的; 非常的"
+    ],
+    "updatetime": "2023-10-12 08:22:08"
+  },
+  {
+    "word_name": "law",
+    "word_means": [
+      "n.(针对某项罪行、协议等的一条)法律; 法规; 法学; 法律机构; 规则; 良好行为的准则; 规律; 定律",
+      "vt.控告; 对…起诉"
+    ],
+    "updatetime": "2023-10-12 08:21:59"
+  },
+  {
+    "word_name": "praise",
+    "word_means": [
+      "n.赞扬; 称赞; 赞美; (对上帝的)颂扬，赞颂",
+      "vt.表扬; 赞扬; 称赞; 颂扬，赞颂(上帝)"
+    ],
+    "updatetime": "2023-10-12 08:21:37"
+  },
+  {
+    "word_name": "realistic",
+    "word_means": [
+      "adj.现实的; 实际的; 实事求是的; 明智的; 恰如其分的; 能够实现的; 逼真的; 栩栩如生的"
+    ],
+    "updatetime": "2023-10-12 08:21:24"
+  },
+  {
+    "word_name": "realise",
+    "word_means": [
+      "v.意识到; 实现; 了解，认识到; 变卖，赚得"
+    ],
+    "updatetime": "2023-10-12 08:21:20"
+  },
+  {
+    "word_name": "relief",
+    "word_means": [
+      "n.救济; 解脱; 宽慰; 轻松; (焦虑、痛苦等的)减轻; 消除; 缓和; 救援物品; 救济金; 调剂，轻松场面; 替班者; （被困城镇等的）解困，解围; 浮雕; 醒目效果"
+    ],
+    "updatetime": "2023-10-12 08:21:09"
+  },
+  {
+    "word_name": "candidate",
+    "word_means": [
+      "n.候选人; (竞选或求职的)申请人; 投考者; 应试者; 参加考试的人; 被认定适合者; 被认定有某种结局者"
+    ],
+    "updatetime": "2023-10-12 08:20:54"
+  },
+  {
+    "word_name": "stand out",
+    "word_means": [
+      "脱颖而出，突出; 引人注目，显眼; 出色; 凸起，凸出; 更为重要"
+    ],
+    "updatetime": "2023-10-12 08:20:44"
+  },
+  {
+    "word_name": "fabulous",
+    "word_means": [
+      "adj.极好的; 绝妙的; 很大的; 巨大的; 寓言中的; 神话似的"
+    ],
+    "updatetime": "2023-10-12 08:20:35"
+  },
+  {
+    "word_name": "cherish",
+    "word_means": [
+      "vt.珍惜; 重视，珍视; 珍视，维护，捍卫(权利、特权或原则); 珍爱; 爱护; 怀念; 怀有(好感); 抱有(信念、希望); 钟爱; 抚育"
+    ],
+    "updatetime": "2023-10-12 08:20:09"
+  },
+  {
+    "word_name": "imperfection",
+    "word_means": [
+      "n.缺点; 瑕疵"
+    ],
+    "updatetime": "2023-10-12 08:19:54"
+  },
+  {
+    "word_name": "fantastic",
+    "word_means": [
+      "adj.好极了; 极好的; 了不起的; 很大的; 大得难以置信的; 怪诞的; 荒诞不经的; 富于想象的; 不切实际的",
+      "n.古怪的人"
+    ],
+    "updatetime": "2023-10-12 08:19:33"
+  },
+  {
+    "word_name": "fantast",
+    "word_means": [
+      "n.幻想家，梦想家"
+    ],
+    "updatetime": "2023-10-12 08:19:30"
+  },
+  {
+    "word_name": "touching speech",
+    "word_means": [
+      "感人的讲话"
+    ],
+    "updatetime": "2023-10-12 08:19:23"
+  },
+  {
+    "word_name": "touching",
+    "word_means": [
+      "adj.令人同情的; 感人的; 动人的",
+      "v.触摸; 碰; 接触; 触及; 移动; 碰到; 打(人); 使受伤",
+      "prep.关于",
+      "touch的现在分词"
+    ],
+    "updatetime": "2023-10-12 08:19:16"
+  },
+  {
+    "word_name": "exceptional",
+    "word_means": [
+      "adj.异常的; 杰出的，卓越的; 罕见的"
+    ],
+    "updatetime": "2023-10-12 08:18:32"
+  },
+  {
+    "word_name": "profound",
+    "word_means": [
+      "adj.巨大的，重大的; 严重的; 深邃的，深沉的; （思想）深邃的，理解深刻的; 意义深远的; 完全的，彻底的; 知识渊博的; 艰深的，玄奥的",
+      "n.<诗>（空间、时间等的）深邃; <古>海，深海，海洋; （灵魂的）深处; 深奥的事物"
+    ],
+    "updatetime": "2023-10-12 08:17:52"
+  },
+  {
+    "word_name": "prestigious university",
+    "word_means": [
+      "名牌大学; 名校"
+    ],
+    "updatetime": "2023-10-12 08:17:34"
+  },
+  {
+    "word_name": "prestigious",
+    "word_means": [
+      "adj.有声望的; 有威望的; 声誉高的"
+    ],
+    "updatetime": "2023-10-12 08:17:29"
+  },
+  {
+    "word_name": "prestige",
+    "word_means": [
+      "n.威信; 声望; 威望",
+      "adj.令人敬仰的; 受尊重的; 重要的; 名贵的; 贵重的; 讲究派头的"
+    ],
+    "updatetime": "2023-10-12 08:17:22"
+  },
+  {
+    "word_name": "commence",
+    "word_means": [
+      "v.开始发生; 开始; 着手"
+    ],
+    "updatetime": "2023-10-12 08:16:32"
+  },
+  {
+    "word_name": "address",
+    "word_means": [
+      "n.住址; 通信处; (互联网等的)地址; 演说; 演讲; 称呼",
+      "vt.写(收信人)姓名地址; 致函; 演说; 演讲; 向…说话; 称呼（某人）; 设法解决"
+    ],
+    "updatetime": "2023-10-12 08:16:26"
+  },
+  {
+    "word_name": "commencement address",
+    "word_means": [
+      "毕业典礼演讲; 毕业演讲; 毕业典礼演说; 毕业典礼上的演说"
+    ],
+    "updatetime": "2023-10-12 08:16:22"
+  },
+  {
+    "word_name": "commencement",
+    "word_means": [
+      "n.毕业典礼; 开始; 开端; 学位授予典礼"
+    ],
+    "updatetime": "2023-10-12 08:16:10"
+  },
+  {
+    "word_name": "award ceremony",
+    "word_means": [
+      "颁奖仪式; 颁奖晚会; 颁奖典礼; 颁奖盛典; 颁奖大会"
+    ],
+    "updatetime": "2023-10-12 08:15:57"
+  },
+  {
+    "word_name": "funeral",
+    "word_means": [
+      "n.葬礼; 丧礼; 出殡",
+      "adj.葬礼的; 出殡用的; 出殡时的"
+    ],
+    "updatetime": "2023-10-12 08:15:49"
+  },
+  {
+    "word_name": "the Conservative Party",
+    "word_means": [
+      "保守党; 英国保守党"
+    ],
+    "updatetime": "2023-10-12 08:15:41"
+  },
+  {
+    "word_name": "the Labour Party",
+    "word_means": [
+      "工党; 英国工党; 劳工党; 劳动党"
+    ],
+    "updatetime": "2023-10-12 08:15:29"
+  },
+  {
+    "word_name": "Liberal Democratic Party",
+    "word_means": [
+      "自由民主党"
+    ],
+    "updatetime": "2023-10-12 08:15:18"
+  },
+  {
+    "word_name": "moderator",
+    "word_means": [
+      "n.调解人; 调停人; 仲裁人; 评分监督; 长老会会议主席"
+    ],
+    "updatetime": "2023-10-12 08:15:00"
+  },
+  {
+    "word_name": "moderate",
+    "word_means": [
+      "adj.适度的; 中等的; 温和的; 不激烈的; 不偏激的; 适中的; 合理的",
+      "v.缓和; 使适中; 审核评分(查看不同阅卷人所打分数是否公平一致); 主持(讨论、辩论等)",
+      "n.持温和观点者(尤指政见)"
+    ],
+    "updatetime": "2023-10-12 08:14:56"
+  },
+  {
+    "word_name": "party leaders",
+    "word_means": [
+      "政党领导人; 政党领袖"
+    ],
+    "updatetime": "2023-10-12 08:14:47"
+  },
+  {
+    "word_name": "persuadsive speech",
+    "word_means": [
+      "说服性讲话"
+    ],
+    "updatetime": "2023-10-12 08:14:38"
+  },
+  {
+    "word_name": "persuadsive",
+    "word_means": [
+      "令人信服的"
+    ],
+    "updatetime": "2023-10-12 08:13:47"
+  },
+  {
+    "word_name": "tired",
+    "word_means": [
+      "adj.疲倦的; 厌倦; 厌烦; 疲劳的; 困倦的; 陈旧的; 陈腐的; 陈词滥调的",
+      "v.(使)疲劳，疲倦，困倦",
+      "tire的过去分词和过去式"
+    ],
+    "updatetime": "2023-10-12 08:13:32"
+  },
+  {
+    "word_name": "anniversary",
+    "word_means": [
+      "n.周年纪念日"
+    ],
+    "updatetime": "2023-10-12 07:05:04"
+  },
+  {
+    "word_name": "spurious",
+    "word_means": [
+      "adj.虚假的;伪造的;谬误的;建立在错误的观念(或思想方法)之上的"
+    ],
+    "updatetime": "2023-10-12 06:59:04"
+  },
+  {
+    "word_name": "recal",
+    "word_means": [
+      "recal          查全率"
+    ],
+    "updatetime": "2023-10-12 06:58:37"
+  },
+  {
+    "word_name": "dual",
+    "word_means": [
+      "adj.二重的;双重的;双的;两部分的",
+      "n.对偶;双数"
+    ],
+    "updatetime": "2023-10-12 06:58:03"
+  },
+  {
+    "word_name": "competitive",
+    "word_means": [
+      "adj.竞争的;有竞争力的;(比…)更好的;(与…)一样好的;努力竞争的;一心求胜的"
+    ],
+    "updatetime": "2023-10-12 06:57:10"
+  },
+  {
+    "word_name": "intuitively",
+    "word_means": [
+      "adv.凭直觉;直觉地，直观地；由直觉而得地"
+    ],
+    "updatetime": "2023-10-12 06:56:39"
+  },
+  {
+    "word_name": "colour",
+    "word_means": [
+      "n.颜色;（除黑、白或透明外的）彩色，色彩;（人种的）肤色;颜料，染料;性质，特点;生动，趣味;立场，观点，派别;（作为团体、学校等标志的）旗帜，徽章;(尤指脸色的)红润，粉红，红晕;(尴尬时的)脸红;外貌，外表;情调;<音>音色，音质，音品;染发剂;面色;（代表国家、球队、政党等的）标志色;(纹章采用的)传统色(如红、蓝);词义的细微差别",
+      "v.(尤指负面地)影响;生色，使生动，使可信;渲染;使脸红，(因尴尬而)脸红;歪曲;(用颜料、彩色笔等)为…着色;文饰",
+      "adj.（照片、杂志、电视、监视器等）彩色的"
+    ],
+    "updatetime": "2023-10-12 06:56:12"
+  },
+  {
+    "word_name": "minor",
+    "word_means": [
+      "adj.少数的;轻微的;较小的;次要的;小调的;小音阶的",
+      "n.未成年人;辅修科目;辅修课程",
+      "v.辅修"
+    ],
+    "updatetime": "2023-10-12 06:55:42"
+  },
+  {
+    "word_name": "thoroughly",
+    "word_means": [
+      "adv.非常; 极其; 彻底; 完全; 仔细; 缜密"
+    ],
+    "updatetime": "2023-10-12 06:55:31"
+  },
+  {
+    "word_name": "rigorously",
+    "word_means": [
+      "adv.严厉地"
+    ],
+    "updatetime": "2023-10-12 06:54:54"
+  }
+]
