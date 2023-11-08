@@ -1,0 +1,49 @@
+[
+  {
+    "word_name": "duplicate",
+    "word_means": [
+      "vt.(尤指不必要时)重复，再做一次;复制;复印;复写",
+      "adj.复制的;副本的;完全一样的",
+      "n.副本;复制品;完全一样的东西"
+    ],
+    "updatetime": "2023-11-08 10:52:43"
+  },
+  {
+    "word_name": "replicate",
+    "word_means": [
+      "v.复制;(精确地)仿制;再造;再生;自我复制;",
+      "n.复制品;八音阶间隔的反覆音;",
+      "adj.折转的;"
+    ],
+    "updatetime": "2023-11-08 10:52:36"
+  },
+  {
+    "word_name": "consecutive",
+    "word_means": [
+      "adj.连续的; 连续不断的"
+    ],
+    "updatetime": "2023-11-08 10:51:01"
+  },
+  {
+    "word_name": "contiguous",
+    "word_means": [
+      "adj.相接的; 相邻的"
+    ],
+    "updatetime": "2023-11-08 10:50:50"
+  },
+  {
+    "word_name": "distributor",
+    "word_means": [
+      "n.经销商;分销商;(发动机的)配电器，配电盘"
+    ],
+    "updatetime": "2023-11-08 10:49:24"
+  },
+  {
+    "word_name": "manufacture",
+    "word_means": [
+      "vt.制造; (用机器)大量生产; 成批制造; 编造; 捏造; 生成; 产生(一种物质)",
+      "n.大量制造; 批量生产; 工业品"
+    ],
+    "updatetime": "2023-11-08 10:49:10"
+  }
+]
