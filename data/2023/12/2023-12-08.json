@@ -1,0 +1,33 @@
+[
+  {
+    "word_name": "unify",
+    "word_means": [
+      "vt.统一;使成一体;使一元化"
+    ],
+    "updatetime": "2023-12-08 14:27:41"
+  },
+  {
+    "word_name": "prompt",
+    "word_means": [
+      "v.促使;导致;激起;鼓励，提示，提醒(某人说话);给(演员)提词",
+      "adj.立即;及时的;迅速的;敏捷的;准时的",
+      "n.提示符;(给演员的)提词，提示",
+      "adv.准时地"
+    ],
+    "updatetime": "2023-12-08 14:27:10"
+  },
+  {
+    "word_name": "complain",
+    "word_means": [
+      "v.抱怨;埋怨;发牢骚"
+    ],
+    "updatetime": "2023-12-08 14:05:23"
+  },
+  {
+    "word_name": "accelerate",
+    "word_means": [
+      "v.加速;(使)加速;加快"
+    ],
+    "updatetime": "2023-12-08 14:04:21"
+  }
+]
