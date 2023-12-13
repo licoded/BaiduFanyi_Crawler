@@ -1,0 +1,148 @@
+[
+  {
+    "word_name": "spring",
+    "word_means": [
+      "n.春天，春季; 弹簧; 弹性，弹力; 翘曲，弯曲; 泉，泉水; 发条; 跳; 活力; 源泉，根源; 起拱点，起拱线; 裂开; 迅速行动; 创始阶段",
+      "v.<美俚>被释放，越狱; 使弯曲; 移位，松动; 跳; （水、血等）涌出; 裂开，爆炸; 跃; 蹦; 突然出现（或来到）; 给…装上弹簧（或发条）; 使裂开，使折裂; 耸立; 扭伤，使跛; （火焰等）突然上升; 惊起; 帮助越狱; <俚>解除对…的拘禁; 突然猛烈地移动; 冷不防地问; 突如其来地做; （捕捉器）被触发突然关上; 突然说; 帮助…逃跑（或越狱）",
+      "adj.春季的; 装有弹簧（或发条）的"
+    ],
+    "updatetime": "2023-12-13 19:35:55"
+  },
+  {
+    "word_name": "ambiguity",
+    "word_means": [
+      "n.模棱两可;不明确;歧义;一语多义;含混不清的语句"
+    ],
+    "updatetime": "2023-12-13 18:19:59"
+  },
+  {
+    "word_name": "nanosecond",
+    "word_means": [
+      "n.毫微秒;十亿分之一秒"
+    ],
+    "updatetime": "2023-12-13 12:59:29"
+  },
+  {
+    "word_name": "microsecond",
+    "word_means": [
+      "n.微秒;百万分之一秒"
+    ],
+    "updatetime": "2023-12-13 12:59:05"
+  },
+  {
+    "word_name": "millisecond",
+    "word_means": [
+      "n.毫秒;千分之一秒"
+    ],
+    "updatetime": "2023-12-13 12:58:59"
+  },
+  {
+    "word_name": "platter",
+    "word_means": [
+      "n.大浅盘;大平盘"
+    ],
+    "updatetime": "2023-12-13 12:53:10"
+  },
+  {
+    "word_name": "cylinder",
+    "word_means": [
+      "n.圆柱;圆筒;(发动机的)气缸;(尤指用作容器的)圆筒状物"
+    ],
+    "updatetime": "2023-12-13 12:53:00"
+  },
+  {
+    "word_name": "plug and play",
+    "word_means": [
+      "即插即用;热插拔;随插即用;的随插即用"
+    ],
+    "updatetime": "2023-12-13 12:51:50"
+  },
+  {
+    "word_name": "Electronic Data Interchange",
+    "word_means": [
+      "电子数据交换;电子数据交换系统;电子资料交换;电子数据互换"
+    ],
+    "updatetime": "2023-12-13 12:39:00"
+  },
+  {
+    "word_name": "bar-code reader",
+    "word_means": [
+      "条形码阅读器;条形码读取器;条码阅读器"
+    ],
+    "updatetime": "2023-12-13 12:29:07"
+  },
+  {
+    "word_name": "asynchronous",
+    "word_means": [
+      "adj.不同时存在(或发生)的;非共时的"
+    ],
+    "updatetime": "2023-12-13 12:21:36"
+  },
+  {
+    "word_name": "synchronous",
+    "word_means": [
+      "adj.同时发生(或存在)的;同步的;共时的"
+    ],
+    "updatetime": "2023-12-13 12:21:32"
+  },
+  {
+    "word_name": "synonyms",
+    "word_means": [
+      "n.同义词",
+      "synonym的复数"
+    ],
+    "updatetime": "2023-12-13 12:21:12"
+  },
+  {
+    "word_name": "SYN",
+    "word_means": [
+      "SYN          同步;连接请求;同义词;同步序列号;半连接;"
+    ],
+    "updatetime": "2023-12-13 12:20:50"
+  },
+  {
+    "word_name": "clustered",
+    "word_means": [
+      "adj.成簇的;成群的",
+      "v.群聚;聚集",
+      "cluster的过去分词和过去式"
+    ],
+    "updatetime": "2023-12-13 11:22:02"
+  },
+  {
+    "word_name": "multifunctional",
+    "word_means": [
+      "adj.多功能的;起多种作用的"
+    ],
+    "updatetime": "2023-12-13 09:30:20"
+  },
+  {
+    "word_name": "cabinet",
+    "word_means": [
+      "n.内阁;陈列柜;储藏柜",
+      "adj.内阁的;玲珑的;小房间用的;细木工做的"
+    ],
+    "updatetime": "2023-12-13 09:15:41"
+  },
+  {
+    "word_name": "chassis",
+    "word_means": [
+      "n.(车辆的)底盘，底座，底架"
+    ],
+    "updatetime": "2023-12-13 09:15:08"
+  },
+  {
+    "word_name": "redundant",
+    "word_means": [
+      "adj.冗余的;多余的;被裁减的;不需要的"
+    ],
+    "updatetime": "2023-12-13 09:13:48"
+  },
+  {
+    "word_name": "modem",
+    "word_means": [
+      "n.调制解调器"
+    ],
+    "updatetime": "2023-12-13 07:55:55"
+  }
+]
