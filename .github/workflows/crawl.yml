@@ -11,15 +11,15 @@ jobs:
     steps:
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        run: echo "{date}={$(date +'%Y-%m-%d')}" >> $GITHUB_OUTPUT
 
       - name: Checkout 
-        uses: actions/checkout@v2.3.1
+        uses: actions/checkout@v4
         
       - name: Install node
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
-          node-version: '16'
+          node-version: '18'
 
       - name: Crawling
         env:
