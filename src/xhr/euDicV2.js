@@ -88,10 +88,12 @@ const getEuDicPage = async (page = 0, page_size = 50) => {
    * @type {{data: Array<RawWordItem>, recordsFiltered: number}}
    */
   const { data: wordList, recordsFiltered: total } = response.data;
+  // console.log(response.data);
+  // console.log(wordList.map(parseWordItem));
   const res = {
     currentpage: page,
     total,
-    totalpage: total / page_size, // if page is indexed from 0
+    totalpage: Math.ceil(total/page_size), // if page is indexed from 0
     wordList: wordList.map(parseWordItem).filter(checkValidWordItem),
   };
   return res;
