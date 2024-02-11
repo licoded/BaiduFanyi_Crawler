@@ -54,7 +54,15 @@ const dict2means = (dict) => {
 //   return { word_name, word_means, updatetime };
 // };
 
+/**
+ * @param {string} rawData
+ * @typedef {{word_name: string, word_means: Array<string>, updatetime: string}} WordItem
+ * @returns {WordItem}
+ */
 const parseWordItem = (rawData) => {
+  /**
+   * @type {{fanyisrc: string, dict: string, fanyidst: Array<string>, updatetime: string}}
+   */
   const {
     fanyisrc: word_name,
     dict,
@@ -66,11 +74,20 @@ const parseWordItem = (rawData) => {
   return { word_name, word_means, updatetime };
 };
 
+/**
+ * @param {number} page
+ * @param {number} page_size
+ * @typedef {{currentpage: number, total: number, totalpage: number, wordList: Array<WordItem>}} CollectionPage
+ * @returns {Promise<CollectionPage>}
+ */
 const getCollectionPage = async (page = 1, pagesize = 30) => {
   const response = await axios({
     ...config,
     url: config.url + makeUrl({ page, pagesize }),
   });
+  /**
+   * @type {{currentpage: number, total:number, totalpage: number, pageinfo: Array<string>}}
+   */
   const { currentpage, total, totalpage, pageinfo: wordList } = response.data;
   const res = {
     currentpage,

@@ -1,3 +1,3 @@
-const { getEuDicPage } = require('../xhr/euDic');
+const { getEuDicPage } = require('../xhr/euDicV2');
 
-getEuDicPage(0, 100).then(console.log).catch(console.error);
+getEuDicPage(0, 10).then(console.log).catch(console.error);
