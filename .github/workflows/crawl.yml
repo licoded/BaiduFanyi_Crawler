@@ -24,6 +24,7 @@ jobs:
       - name: Crawling
         env:
           BAIDU_COOKIE: ${{ secrets.BAIDU_COOKIE }}
+          EuDic_COOKIE: ${{ secrets.EUDIC_COOKIE }}
         run: npm install && npm run dev
       
       - name: Config git info
