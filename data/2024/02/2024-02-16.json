@@ -1,0 +1,750 @@
+[
+  {
+    "word_name": "literature",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 文学, 文学作品 文献, 图书资料"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "indicate",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vt. 指出；表明；象征；预示"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "planet",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 行星"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "idiot",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 白痴；笨蛋，傻瓜"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "integral",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 构成整体所必需的"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "furthermore",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adv. 而且, 此外"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "rival",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 竞争者；对手",
+      "vt 与…竞争；比得上某人"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "perceive",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vt. 察觉，感觉；理解；认知",
+      "vi 感到，感知；认识到"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "military",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 军事的；军人的；适于战争的",
+      "n 军队；军人"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "fault",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 故障；毛病；缺点；错误；[地]断层；（网球等）发球..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "versus",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "prep. 对；与...相对；对抗"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "settle",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vi. 定居；下陷；解决；沉淀",
+      "vt 解决；安排；使…定居"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "settle for",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      ""
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "inspect",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vt. 检查；视察；检阅",
+      "vi 进行检查；进行视察"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "spectacle",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 壮观的场面或景象 可笑的事物; 愚蠢的景象 眼镜"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "retrospect",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 回顾，追溯",
+      "v 回顾，追溯；回想，追忆"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "outgrow",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vt. 过大而不适于；出生；长大成熟而不再"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "in reality",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "实际上；事实上"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "folklore",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 民间传说；民俗学；民间风俗"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "villain",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 坏人，恶棍；戏剧、小说中的反派角色；[口]顽童；[..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "trick",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 诡计；恶作剧；窍门；骗局；欺诈；花招",
+      "vt 欺骗..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "off-limits",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 禁止进入的"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "deplete",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vt. 耗尽，用尽；使衰竭，使空虚"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "depletion",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 消耗;用尽"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "datagram",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. [电脑]数据电报"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "multicast",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 多点传送"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "up to",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "直到,相当于,胜任,该由...决定"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "come to",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 总计"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "relate",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vt. &",
+      "vi (把…)联系起来",
+      "vt 讲述; 叙述"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "appreciate",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "v. 欣赏；赏识；重视；感激；感谢；欢迎；理解；意识到；..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "complicate",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "v. 使复杂化；使起纠纷",
+      "adj 复杂的"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "complex",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 复杂的；合成的",
+      "n 复合体；综合设施"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "embedded",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 植入的；内含的；嵌入式的",
+      "v 嵌入（embe..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "speed up",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "加快速度"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "devise",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vt. 设计；发明；想出；图谋；遗赠给",
+      "n 遗赠"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "tedious",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 冗长乏味的；沉闷的"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "multiple",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 多样的；许多的；多重的",
+      "n 并联；倍数"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "conceptually",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adv. 概念地"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "overall",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 全部的；全体的；一切在内的",
+      "adv 总的说来..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "fourth",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 四分之一的；第四的，第四个的",
+      "n 第四，月的..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "flexibility",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 灵活性；弹性；适应性；柔韧性"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "overlap",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 重叠；重复",
+      "vi 部分重叠；部分的同时发生"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "twist",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vt. 捻；拧；扭伤；编织；使苦恼",
+      "n 扭曲；扭伤；拧"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "administrator",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 管理人；行政官"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "distant",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 遥远的；冷漠的；远隔的"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "thorough",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 彻底的；十分的；周密的"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "though",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adv. 可是，虽然；然而；不过",
+      "conj 虽然；尽管"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "thoroughly",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adv. 彻底地；完全；非常"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "through",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "prep. 穿过；通过；凭借",
+      "adv 从头至尾；彻底"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "shortly",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adv. 立刻；简短地；唐突地"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "be up to",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "由某人决定，是某人的责任"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "aggregation",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 聚集,集成;集结 聚集体,集成体"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "aggregate",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 〈正〉数, 总计",
+      "vt 总计达…",
+      "vt &",
+      "v.."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "fortunately",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adv. 幸运地; 幸亏"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "secret",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 秘密；秘诀；机密",
+      "adj 秘密的；机密的"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "liechtenstein",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 列支敦士登（欧洲国家）"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "stability",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 稳定(性), 稳固"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "instability",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 不稳定,不稳固"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "temporarily",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adv. 暂时地"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "likelihood",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 可能性"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "luxury",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 奢侈，奢华；奢侈品；享受",
+      "adj 奢侈的"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "backbone",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 决心，毅力；支柱；脊椎；[计]主干网"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "contact",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 接触，联系",
+      "vt 使接触"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "scale",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 刻度；比例；数值范围；天平；规模；鳞",
+      "vi 攀登..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "scaling",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 缩放比例；鳞片排列；[医]刮治术，刮牙术",
+      "v 刮..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "hierarchical",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 分等级的"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "hierarchy",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 等级制度 统治集团, 领导层"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "undermine",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vt. 在某物下挖洞或挖通道; 侵蚀…的基础 暗中破坏;..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "outgoing",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 乐于助人的；外出的；即将离职的",
+      "n 开支；外..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "boundary",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 分界线；边界；范围"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "one eighth",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      ""
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "quality",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 质量，品质；特性；才能"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "quantity",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 量，数量；总量；大量"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "quarter",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 四分之一；地区；季度；一刻钟；两角五分；[篮球]节..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "align",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vt. 使结盟；使成一行；匹配",
+      "vi 排列；排成一行"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "odd",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 奇数的；古怪的；临时的；剩余的；零散的",
+      "n ..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "be even",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      ""
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "even",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adv. 甚至；正当；更；恰好",
+      "adj 平坦的；平和的..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "division",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 除法；部门；分割；师（军队）；[体]赛区"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "divide up",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "瓜分, 分配"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "divide",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vt. 分开；划分；除；使产生分歧",
+      "vi 分开；意见分歧"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "follow suit",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "跟着做, 照着做"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "start out",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "启程, 出发 开始〔着手〕做"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "ongoing",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 前进的；不间断的，进行的",
+      "n 前进；行为，举止"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "dole out",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      ""
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "dole",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "n. 救济物 失业救济金"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "delegate",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vt. 委派…为代表",
+      "n 代表"
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "destined",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "adj. 命定的；注定的；去往…的",
+      "v 注定（dest..."
+    ],
+    "from_type": "EuDic"
+  },
+  {
+    "word_name": "destine",
+    "updatetime": "2024-02-16",
+    "word_means": [
+      "vt. 注定；命定；预定"
+    ],
+    "from_type": "EuDic"
+  }
+]
