@@ -43,5 +43,7 @@ const curDate = moment().format("YYYY-MM-DD");
 // crawlByDate(curDate, 'EuDic');
 crawlByDateByTypeArr(curDate, ['Baidu', 'EuDic'])
   .then((data) => {
+    if (data.length == 0)
+      return;
     jsonfile.writeFileSync(getPathByDate(curDate), data, { spaces: 2 });
   });
