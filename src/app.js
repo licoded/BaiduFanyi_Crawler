@@ -41,7 +41,7 @@ const crawlByDateByTypeArr = async (curDate, from_type_arr) => {
 const curDate = moment().format("YYYY-MM-DD");
 // crawlByDate(curDate, 'Baidu');
 // crawlByDate(curDate, 'EuDic');
-crawlByDateByTypeArr(curDate, ['Baidu', 'EuDic'])
+crawlByDateByTypeArr(curDate, ['EuDic'])
   .then((data) => {
     if (data.length == 0)
       return;
