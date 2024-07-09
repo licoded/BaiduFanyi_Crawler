@@ -47,3 +47,22 @@ crawlByDateByTypeArr(curDate, ['Baidu'])
       return;
     jsonfile.writeFileSync(getPathByDate(curDate), data, { spaces: 2 });
   });
+
+// /**
+//  * For Loop form curDate to startDate of current month, do above crawlByDateByTypeArr
+//  */
+// async function fetchMonth(curDateMoment) {
+//   let startDateMoment = curDateMoment.startOf('month');
+//   while (curDateMoment.isAfter(startDateMoment)) {
+//     curDateMoment = curDateMoment.subtract(1, 'days');
+//     curDateStr = curDateMoment.format("YYYY-MM-DD");
+//     await crawlByDateByTypeArr(curDateStr, ['Baidu'])
+//       .then((data) => {
+//         if (data.length == 0)
+//           return;
+//         jsonfile.writeFileSync(getPathByDate(curDateStr), data, { spaces: 2 });
+//       });
+//   }
+// }
+
+// fetchMonth(moment('2021-07-30'));
