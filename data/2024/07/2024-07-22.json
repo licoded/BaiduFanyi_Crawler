@@ -1,0 +1,29 @@
+[
+  {
+    "word_name": "calendar",
+    "word_means": [
+      "n.日历; 挂历; 日程表; 记事本; (一年之中的)重大事件(或重要日期)一览表; 历法",
+      "v.把…记入日程表中；把…列入表中；为(文件等)作分类索引"
+    ],
+    "updatetime": "2024-07-22 16:50:47",
+    "from_type": "Baidu"
+  },
+  {
+    "word_name": "delayed",
+    "word_means": [
+      "v.延迟; 延期; 推迟; 使迟到; 使耽搁; 使拖延",
+      "delay的过去分词和过去式"
+    ],
+    "updatetime": "2024-07-22 14:13:20",
+    "from_type": "Baidu"
+  },
+  {
+    "word_name": "delay",
+    "word_means": [
+      "v.延迟; 推迟; 延期; 使迟到; 使耽搁; 使拖延",
+      "n.延误; 延期; 耽搁; 延迟(或耽搁、拖延)的时间"
+    ],
+    "updatetime": "2024-07-22 14:13:16",
+    "from_type": "Baidu"
+  }
+]
