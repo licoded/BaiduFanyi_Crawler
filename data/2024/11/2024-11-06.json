@@ -1,0 +1,28 @@
+[
+  {
+    "word_name": "toxic",
+    "word_means": [
+      "adj.有毒的; 引起中毒的",
+      "n.毒物; 毒剂"
+    ],
+    "updatetime": "2024-11-06 16:06:50",
+    "from_type": "Baidu"
+  },
+  {
+    "word_name": "derived",
+    "word_means": [
+      "v.获得;取得;得到; (使)起源;(使)产生",
+      "derive的过去分词和过去式"
+    ],
+    "updatetime": "2024-11-06 11:19:02",
+    "from_type": "Baidu"
+  },
+  {
+    "word_name": "Derived Class",
+    "word_means": [
+      "派生类"
+    ],
+    "updatetime": "2024-11-06 11:18:54",
+    "from_type": "Baidu"
+  }
+]
