@@ -1,5 +1,21 @@
 [
   {
+    "word_name": "seamless",
+    "word_means": [
+      "无缝的"
+    ],
+    "updatetime": "2025-02-05 12:05:53",
+    "from_type": "Baidu"
+  },
+  {
+    "word_name": "dock",
+    "word_means": [
+      "码头"
+    ],
+    "updatetime": "2025-02-05 12:04:14",
+    "from_type": "Baidu"
+  },
+  {
     "word_name": "hello",
     "word_means": [
       "你好"
