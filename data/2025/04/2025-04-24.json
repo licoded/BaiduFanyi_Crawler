@@ -1,0 +1,29 @@
+[
+  {
+    "word_name": "million",
+    "word_means": [
+      "num.一百万; 大量",
+      "n.无数; 百万元; 百万(镑,美元,法郎)"
+    ],
+    "updatetime": "2025-04-24 21:07:08",
+    "from_type": "Baidu"
+  },
+  {
+    "word_name": "billion",
+    "word_means": [
+      "num.十亿; 数以十亿计; 大量; 一万亿（旧英式英语使用）",
+      "n.十亿; 万亿; 无数",
+      "adj.十亿的; 万亿的; 无数的"
+    ],
+    "updatetime": "2025-04-24 21:07:01",
+    "from_type": "Baidu"
+  },
+  {
+    "word_name": "communication",
+    "word_means": [
+      "n.表达; 交流; 交际; 传递; 通信; 交通联系; 信息; 书信; 电话"
+    ],
+    "updatetime": "2025-04-24 09:28:27",
+    "from_type": "Baidu"
+  }
+]
