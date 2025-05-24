@@ -1,0 +1,26 @@
+[
+  {
+    "word_name": "clothes",
+    "word_means": [
+      "衣服"
+    ],
+    "updatetime": "2025-05-24 16:50:21",
+    "from_type": "Baidu"
+  },
+  {
+    "word_name": "toothbrush",
+    "word_means": [
+      "牙刷"
+    ],
+    "updatetime": "2025-05-24 13:34:24",
+    "from_type": "Baidu"
+  },
+  {
+    "word_name": "turtle",
+    "word_means": [
+      "乌龟"
+    ],
+    "updatetime": "2025-05-24 05:55:10",
+    "from_type": "Baidu"
+  }
+]
